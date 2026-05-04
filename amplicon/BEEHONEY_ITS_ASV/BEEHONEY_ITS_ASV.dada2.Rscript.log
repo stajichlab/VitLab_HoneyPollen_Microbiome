@@ -1,0 +1,284 @@
+Loading required package: Rcpp
+Loading required package: BiocGenerics
+
+Attaching package: ‘BiocGenerics’
+
+The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from ‘package:base’:
+
+    anyDuplicated, aperm, append, as.data.frame, basename, cbind,
+    colnames, dirname, do.call, duplicated, eval, evalq, Filter, Find,
+    get, grep, grepl, intersect, is.unsorted, lapply, Map, mapply,
+    match, mget, order, paste, pmax, pmax.int, pmin, pmin.int,
+    Position, rank, rbind, Reduce, rownames, sapply, setdiff, sort,
+    table, tapply, union, unique, unsplit, which.max, which.min
+
+Loading required package: BiocParallel
+Loading required package: Biostrings
+Loading required package: S4Vectors
+Loading required package: stats4
+
+Attaching package: ‘S4Vectors’
+
+The following objects are masked from ‘package:base’:
+
+    expand.grid, I, unname
+
+Loading required package: IRanges
+Loading required package: XVector
+Loading required package: GenomeInfoDb
+
+Attaching package: ‘Biostrings’
+
+The following object is masked from ‘package:base’:
+
+    strsplit
+
+Loading required package: Rsamtools
+Loading required package: GenomicRanges
+Loading required package: GenomicAlignments
+Loading required package: SummarizedExperiment
+Loading required package: MatrixGenerics
+Loading required package: matrixStats
+
+Attaching package: ‘MatrixGenerics’
+
+The following objects are masked from ‘package:matrixStats’:
+
+    colAlls, colAnyNAs, colAnys, colAvgsPerRowSet, colCollapse,
+    colCounts, colCummaxs, colCummins, colCumprods, colCumsums,
+    colDiffs, colIQRDiffs, colIQRs, colLogSumExps, colMadDiffs,
+    colMads, colMaxs, colMeans2, colMedians, colMins, colOrderStats,
+    colProds, colQuantiles, colRanges, colRanks, colSdDiffs, colSds,
+    colSums2, colTabulates, colVarDiffs, colVars, colWeightedMads,
+    colWeightedMeans, colWeightedMedians, colWeightedSds,
+    colWeightedVars, rowAlls, rowAnyNAs, rowAnys, rowAvgsPerColSet,
+    rowCollapse, rowCounts, rowCummaxs, rowCummins, rowCumprods,
+    rowCumsums, rowDiffs, rowIQRDiffs, rowIQRs, rowLogSumExps,
+    rowMadDiffs, rowMads, rowMaxs, rowMeans2, rowMedians, rowMins,
+    rowOrderStats, rowProds, rowQuantiles, rowRanges, rowRanks,
+    rowSdDiffs, rowSds, rowSums2, rowTabulates, rowVarDiffs, rowVars,
+    rowWeightedMads, rowWeightedMeans, rowWeightedMedians,
+    rowWeightedSds, rowWeightedVars
+
+Loading required package: Biobase
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+
+Attaching package: ‘Biobase’
+
+The following object is masked from ‘package:MatrixGenerics’:
+
+    rowMedians
+
+The following objects are masked from ‘package:matrixStats’:
+
+    anyMissing, rowMedians
+
+[1] "-------------"
+[1] "R 4.2.2"
+[1] "base 4.2.2"
+[1] "Biobase 2.58.0"
+[1] "BiocGenerics 0.44.0"
+[1] "BiocParallel 1.32.5"
+[1] "Biostrings 2.66.0"
+[1] "bitops 1.0.7"
+[1] "cli 3.6.1"
+[1] "codetools 0.2.19"
+[1] "colorspace 2.1.0"
+[1] "compiler 4.2.2"
+[1] "crayon 1.5.2"
+[1] "dada2 1.26.0"
+[1] "datasets 4.2.2"
+[1] "DelayedArray 0.24.0"
+[1] "deldir 1.0.6"
+[1] "fansi 1.0.4"
+[1] "GenomeInfoDb 1.34.8"
+[1] "GenomeInfoDbData 1.2.9"
+[1] "GenomicAlignments 1.34.0"
+[1] "GenomicRanges 1.50.0"
+[1] "ggplot2 3.4.1"
+[1] "glue 1.6.2"
+[1] "graphics 4.2.2"
+[1] "grDevices 4.2.2"
+[1] "grid 4.2.2"
+[1] "gtable 0.3.3"
+[1] "hwriter 1.3.2.1"
+[1] "interp 1.1.3"
+[1] "IRanges 2.32.0"
+[1] "jpeg 0.1.10"
+[1] "lattice 0.20.45"
+[1] "latticeExtra 0.6.30"
+[1] "lifecycle 1.0.3"
+[1] "magrittr 2.0.3"
+[1] "Matrix 1.5.3"
+[1] "MatrixGenerics 1.10.0"
+[1] "matrixStats 0.63.0"
+[1] "methods 4.2.2"
+[1] "munsell 0.5.0"
+[1] "parallel 4.2.2"
+[1] "pillar 1.9.0"
+[1] "pkgconfig 2.0.3"
+[1] "plyr 1.8.8"
+[1] "png 0.1.8"
+[1] "R6 2.5.1"
+[1] "RColorBrewer 1.1.3"
+[1] "Rcpp 1.0.10"
+[1] "RcppParallel 5.1.6"
+[1] "RCurl 1.98.1.10"
+[1] "reshape2 1.4.4"
+[1] "rlang 1.1.0"
+[1] "Rsamtools 2.14.0"
+[1] "S4Vectors 0.36.0"
+[1] "scales 1.2.1"
+[1] "ShortRead 1.56.0"
+[1] "stats 4.2.2"
+[1] "stats4 4.2.2"
+[1] "stringi 1.7.12"
+[1] "stringr 1.5.0"
+[1] "SummarizedExperiment 1.28.0"
+[1] "tibble 3.2.1"
+[1] "tools 4.2.2"
+[1] "utf8 1.2.3"
+[1] "utils 4.2.2"
+[1] "vctrs 0.6.1"
+[1] "XVector 0.38.0"
+[1] "zlibbioc 1.44.0"
+[1] "-------------"
+[1] "Loading Data from folder"
+ [1] "BEEHONEY_ITS_ASV_filtered/B-10PP-10PP.fastq"
+ [2] "BEEHONEY_ITS_ASV_filtered/B-11SVH-11.fastq" 
+ [3] "BEEHONEY_ITS_ASV_filtered/B-11SVP-11S.fastq"
+ [4] "BEEHONEY_ITS_ASV_filtered/B-12TFH-12.fastq" 
+ [5] "BEEHONEY_ITS_ASV_filtered/B-12TFP-12T.fastq"
+ [6] "BEEHONEY_ITS_ASV_filtered/B-1CCP-1C.fastq"  
+ [7] "BEEHONEY_ITS_ASV_filtered/B-4MIH-4M.fastq"  
+ [8] "BEEHONEY_ITS_ASV_filtered/B-4MMP-4P.fastq"  
+ [9] "BEEHONEY_ITS_ASV_filtered/B-4MNIP-4I.fastq" 
+[10] "BEEHONEY_ITS_ASV_filtered/B-6PEP-6P.fastq"  
+[11] "BEEHONEY_ITS_ASV_filtered/B-8NMH-8H.fastq"  
+[12] "BEEHONEY_ITS_ASV_filtered/B-8NMP-8P.fastq"  
+[13] "BEEHONEY_ITS_ASV_filtered/B-SVH1-Q1.fastq"  
+[14] "BEEHONEY_ITS_ASV_filtered/B-SVH10-Q10.fastq"
+[15] "BEEHONEY_ITS_ASV_filtered/B-SVH11-Q11.fastq"
+[16] "BEEHONEY_ITS_ASV_filtered/B-SVH13-Q13.fastq"
+[17] "BEEHONEY_ITS_ASV_filtered/B-SVH14-Q14.fastq"
+[18] "BEEHONEY_ITS_ASV_filtered/B-SVH2-Q2.fastq"  
+[19] "BEEHONEY_ITS_ASV_filtered/B-SVH3-Q3.fastq"  
+[20] "BEEHONEY_ITS_ASV_filtered/B-SVH4-Q4.fastq"  
+[21] "BEEHONEY_ITS_ASV_filtered/B-SVH5-Q5.fastq"  
+[22] "BEEHONEY_ITS_ASV_filtered/B-SVH6-Q6.fastq"  
+[23] "BEEHONEY_ITS_ASV_filtered/B-SVH7-Q7.fastq"  
+[24] "BEEHONEY_ITS_ASV_filtered/B-SVH8-Q8.fastq"  
+[25] "BEEHONEY_ITS_ASV_filtered/B-VEN-B12.fastq"  
+[26] "BEEHONEY_ITS_ASV_filtered/B-VEN-C10.fastq"  
+[27] "BEEHONEY_ITS_ASV_filtered/B-VEN-D9.fastq"   
+[28] "BEEHONEY_ITS_ASV_filtered/B-VEN-E10.fastq"  
+[29] "BEEHONEY_ITS_ASV_filtered/B-VEN-E9.fastq"   
+[30] "BEEHONEY_ITS_ASV_filtered/B-VEN-F10.fastq"  
+[31] "BEEHONEY_ITS_ASV_filtered/B-VEN-F11.fastq"  
+[32] "BEEHONEY_ITS_ASV_filtered/B-VEN-G10.fastq"  
+[33] "BEEHONEY_ITS_ASV_filtered/B-VEN-H11.fastq"  
+ [1] "B-10PP-10PP" "B-11SVH-11"  "B-11SVP-11S" "B-12TFH-12"  "B-12TFP-12T"
+ [6] "B-1CCP-1C"   "B-4MIH-4M"   "B-4MMP-4P"   "B-4MNIP-4I"  "B-6PEP-6P"  
+[11] "B-8NMH-8H"   "B-8NMP-8P"   "B-SVH1-Q1"   "B-SVH10-Q10" "B-SVH11-Q11"
+[16] "B-SVH13-Q13" "B-SVH14-Q14" "B-SVH2-Q2"   "B-SVH3-Q3"   "B-SVH4-Q4"  
+[21] "B-SVH5-Q5"   "B-SVH6-Q6"   "B-SVH7-Q7"   "B-SVH8-Q8"   "B-VEN-B12"  
+[26] "B-VEN-C10"   "B-VEN-D9"    "B-VEN-E10"   "B-VEN-E9"    "B-VEN-F10"  
+[31] "B-VEN-F11"   "B-VEN-G10"   "B-VEN-H11"  
+[1] "-------------"
+[1] "Dereplicating data"
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-10PP-10PP.fastq
+Encountered 10437 unique sequences from 250073 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-11SVH-11.fastq
+Encountered 234 unique sequences from 2743 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-11SVP-11S.fastq
+Encountered 2679 unique sequences from 40285 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-12TFH-12.fastq
+Encountered 3089 unique sequences from 65832 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-12TFP-12T.fastq
+Encountered 2852 unique sequences from 53690 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-1CCP-1C.fastq
+Encountered 5277 unique sequences from 279210 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-4MIH-4M.fastq
+Encountered 2153 unique sequences from 45992 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-4MMP-4P.fastq
+Encountered 9597 unique sequences from 158567 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-4MNIP-4I.fastq
+Encountered 6082 unique sequences from 107687 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-6PEP-6P.fastq
+Encountered 1674 unique sequences from 39362 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-8NMH-8H.fastq
+Encountered 6947 unique sequences from 96810 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-8NMP-8P.fastq
+Encountered 3367 unique sequences from 46035 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH1-Q1.fastq
+Encountered 34 unique sequences from 226 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH10-Q10.fastq
+Encountered 3488 unique sequences from 73531 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH11-Q11.fastq
+Encountered 4126 unique sequences from 80840 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH13-Q13.fastq
+Encountered 906 unique sequences from 5525 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH14-Q14.fastq
+Encountered 4965 unique sequences from 202318 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH2-Q2.fastq
+Encountered 1917 unique sequences from 38716 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH3-Q3.fastq
+Encountered 1368 unique sequences from 23811 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH4-Q4.fastq
+Encountered 6525 unique sequences from 139871 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH5-Q5.fastq
+Encountered 6029 unique sequences from 142041 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH6-Q6.fastq
+Encountered 14108 unique sequences from 165846 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH7-Q7.fastq
+Encountered 5835 unique sequences from 172904 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-SVH8-Q8.fastq
+Encountered 6861 unique sequences from 131044 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-VEN-B12.fastq
+Encountered 959 unique sequences from 6132 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-VEN-C10.fastq
+Encountered 4096 unique sequences from 109645 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-VEN-D9.fastq
+Encountered 3486 unique sequences from 45000 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-VEN-E10.fastq
+Encountered 2478 unique sequences from 53259 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-VEN-E9.fastq
+Encountered 2545 unique sequences from 52068 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-VEN-F10.fastq
+Encountered 4680 unique sequences from 80612 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-VEN-F11.fastq
+Encountered 1360 unique sequences from 26175 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-VEN-G10.fastq
+Encountered 11740 unique sequences from 178995 total sequences read.
+Dereplicating sequence entries in Fastq file: BEEHONEY_ITS_ASV_filtered/B-VEN-H11.fastq
+Encountered 6937 unique sequences from 138434 total sequences read.
+[1] "-------------"
+[1] "Sample inference"
+[1] "FALSE"
+Initializing error rates to maximum possible estimate.
+selfConsist step 1 .................................
+   selfConsist step 2
+   selfConsist step 3
+   selfConsist step 4
+   selfConsist step 5
+   selfConsist step 6
+Convergence after  6  rounds.
+$names
+ [1] "B-10PP-10PP" "B-11SVH-11"  "B-11SVP-11S" "B-12TFH-12"  "B-12TFP-12T"
+ [6] "B-1CCP-1C"   "B-4MIH-4M"   "B-4MMP-4P"   "B-4MNIP-4I"  "B-6PEP-6P"  
+[11] "B-8NMH-8H"   "B-8NMP-8P"   "B-SVH1-Q1"   "B-SVH10-Q10" "B-SVH11-Q11"
+[16] "B-SVH13-Q13" "B-SVH14-Q14" "B-SVH2-Q2"   "B-SVH3-Q3"   "B-SVH4-Q4"  
+[21] "B-SVH5-Q5"   "B-SVH6-Q6"   "B-SVH7-Q7"   "B-SVH8-Q8"   "B-VEN-B12"  
+[26] "B-VEN-C10"   "B-VEN-D9"    "B-VEN-E10"   "B-VEN-E9"    "B-VEN-F10"  
+[31] "B-VEN-F11"   "B-VEN-G10"   "B-VEN-H11"  
+
+Identified 153 bimeras out of 4214 input sequences.

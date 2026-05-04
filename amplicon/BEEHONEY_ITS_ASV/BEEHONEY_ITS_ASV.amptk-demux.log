@@ -1,0 +1,1312 @@
+[05/04/26 10:51:45]: /opt/linux/rocky/8.x/x86_64/pkgs/amptk/1.6/bin/amptk illumina -i /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS --merge_method vsearch -f ITS1-F -r ITS2 --require_primer off -o BEEHONEY_ITS_ASV --usearch usearch9 --rescue_forward on --primer_mismatch 2 -l 250 --cpus 48 --cleanup
+
+[05/04/26 10:51:46]: OS: Rocky Linux 8.10, 256 cores, ~ 1057 GB RAM. Python: 3.10.0
+[05/04/26 10:51:46]: Python Modules: numpy v1.24.2, pandas v2.3.3, matplotlib v3.7.1, psutil v7.2.1, natsort v8.4.0, biopython v1.79, edlib v1.3.9, biom-format v2.1.14
+[05/04/26 10:51:46]: AMPtk v1.6.0, VSEARCH v2.22.1
+[05/04/26 10:51:46]: Gzipped files detected, uncompressing
+[05/04/26 10:51:46]: Uncompressing B-VEN-C10_ITS_S289_R2_001.fastq.gz
+[05/04/26 10:51:46]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-C10_ITS_S289_R2_001.fastq.gz
+[05/04/26 10:51:46]: Uncompressing B-SVH1-Q1_ITS_S273_R2_001.fastq.gz
+[05/04/26 10:51:46]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH1-Q1_ITS_S273_R2_001.fastq.gz
+[05/04/26 10:51:46]: Uncompressing B-SVH5-Q5_ITS_S283_R2_001.fastq.gz
+[05/04/26 10:51:46]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH5-Q5_ITS_S283_R2_001.fastq.gz
+[05/04/26 10:51:46]: Uncompressing B-6PEH-6_ITS_S269_R2_001.fastq.gz
+[05/04/26 10:51:47]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-6PEH-6_ITS_S269_R2_001.fastq.gz
+[05/04/26 10:51:47]: Uncompressing B-4MIH-4M_ITS_S265_R1_001.fastq.gz
+[05/04/26 10:51:47]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MIH-4M_ITS_S265_R1_001.fastq.gz
+[05/04/26 10:51:47]: Uncompressing B-SVH14-Q14_ITS_S278_R2_001.fastq.gz
+[05/04/26 10:51:47]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH14-Q14_ITS_S278_R2_001.fastq.gz
+[05/04/26 10:51:47]: Uncompressing B-SVH10-Q10_ITS_S274_R1_001.fastq.gz
+[05/04/26 10:51:47]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH10-Q10_ITS_S274_R1_001.fastq.gz
+[05/04/26 10:51:47]: Uncompressing B-VEN-F11_ITS_S294_R1_001.fastq.gz
+[05/04/26 10:51:47]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-F11_ITS_S294_R1_001.fastq.gz
+[05/04/26 10:51:48]: Uncompressing B-VEN-F11_ITS_S294_R2_001.fastq.gz
+[05/04/26 10:51:48]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-F11_ITS_S294_R2_001.fastq.gz
+[05/04/26 10:51:48]: Uncompressing B-6PEP-6P_ITS_S270_R2_001.fastq.gz
+[05/04/26 10:51:48]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-6PEP-6P_ITS_S270_R2_001.fastq.gz
+[05/04/26 10:51:48]: Uncompressing B-SVH13-Q13_ITS_S277_R2_001.fastq.gz
+[05/04/26 10:51:48]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH13-Q13_ITS_S277_R2_001.fastq.gz
+[05/04/26 10:51:48]: Uncompressing B-4MIH-4M_ITS_S265_R2_001.fastq.gz
+[05/04/26 10:51:48]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MIH-4M_ITS_S265_R2_001.fastq.gz
+[05/04/26 10:51:48]: Uncompressing B-SVH8-Q8_ITS_S286_R2_001.fastq.gz
+[05/04/26 10:51:48]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH8-Q8_ITS_S286_R2_001.fastq.gz
+[05/04/26 10:51:49]: Uncompressing B-SVH7-Q7_ITS_S285_R1_001.fastq.gz
+[05/04/26 10:51:49]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH7-Q7_ITS_S285_R1_001.fastq.gz
+[05/04/26 10:51:49]: Uncompressing B-10PSH-10P_ITS_S259_R1_001.fastq.gz
+[05/04/26 10:51:49]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-10PSH-10P_ITS_S259_R1_001.fastq.gz
+[05/04/26 10:51:49]: Uncompressing B-SVH1-Q1_ITS_S273_R1_001.fastq.gz
+[05/04/26 10:51:49]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH1-Q1_ITS_S273_R1_001.fastq.gz
+[05/04/26 10:51:49]: Uncompressing B-8NMH-8H_ITS_S271_R2_001.fastq.gz
+[05/04/26 10:51:49]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-8NMH-8H_ITS_S271_R2_001.fastq.gz
+[05/04/26 10:51:49]: Uncompressing B-SVH6-Q6_ITS_S284_R2_001.fastq.gz
+[05/04/26 10:51:49]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH6-Q6_ITS_S284_R2_001.fastq.gz
+[05/04/26 10:51:50]: Uncompressing B-VEN-E9_ITS_S292_R2_001.fastq.gz
+[05/04/26 10:51:50]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-E9_ITS_S292_R2_001.fastq.gz
+[05/04/26 10:51:50]: Uncompressing B-SVH5-Q5_ITS_S283_R1_001.fastq.gz
+[05/04/26 10:51:50]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH5-Q5_ITS_S283_R1_001.fastq.gz
+[05/04/26 10:51:50]: Uncompressing B-10PP-10PP_ITS_S258_R2_001.fastq.gz
+[05/04/26 10:51:50]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-10PP-10PP_ITS_S258_R2_001.fastq.gz
+[05/04/26 10:51:51]: Uncompressing B-12TFH-12_ITS_S262_R2_001.fastq.gz
+[05/04/26 10:51:51]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-12TFH-12_ITS_S262_R2_001.fastq.gz
+[05/04/26 10:51:51]: Uncompressing B-SVH11-Q11_ITS_S275_R1_001.fastq.gz
+[05/04/26 10:51:51]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH11-Q11_ITS_S275_R1_001.fastq.gz
+[05/04/26 10:51:51]: Uncompressing B-SVH14-Q14_ITS_S278_R1_001.fastq.gz
+[05/04/26 10:51:51]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH14-Q14_ITS_S278_R1_001.fastq.gz
+[05/04/26 10:51:52]: Uncompressing B-SVH8-Q8_ITS_S286_R1_001.fastq.gz
+[05/04/26 10:51:52]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH8-Q8_ITS_S286_R1_001.fastq.gz
+[05/04/26 10:51:52]: Uncompressing B-SVH15-Q15_ITS_S279_R1_001.fastq.gz
+[05/04/26 10:51:52]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH15-Q15_ITS_S279_R1_001.fastq.gz
+[05/04/26 10:51:52]: Uncompressing B-VEN-C10_ITS_S289_R1_001.fastq.gz
+[05/04/26 10:51:52]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-C10_ITS_S289_R1_001.fastq.gz
+[05/04/26 10:51:52]: Uncompressing B-4MMP-4P_ITS_S266_R1_001.fastq.gz
+[05/04/26 10:51:52]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MMP-4P_ITS_S266_R1_001.fastq.gz
+[05/04/26 10:51:53]: Uncompressing B-VEN-G10_ITS_S295_R1_001.fastq.gz
+[05/04/26 10:51:53]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-G10_ITS_S295_R1_001.fastq.gz
+[05/04/26 10:51:53]: Uncompressing B-11SVP-11S_ITS_S261_R1_001.fastq.gz
+[05/04/26 10:51:53]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-11SVP-11S_ITS_S261_R1_001.fastq.gz
+[05/04/26 10:51:53]: Uncompressing B-10PSH-10P_ITS_S259_R2_001.fastq.gz
+[05/04/26 10:51:53]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-10PSH-10P_ITS_S259_R2_001.fastq.gz
+[05/04/26 10:51:53]: Uncompressing B-12TFP-12T_ITS_S263_R2_001.fastq.gz
+[05/04/26 10:51:53]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-12TFP-12T_ITS_S263_R2_001.fastq.gz
+[05/04/26 10:51:53]: Uncompressing B-VEN-F10_ITS_S293_R2_001.fastq.gz
+[05/04/26 10:51:53]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-F10_ITS_S293_R2_001.fastq.gz
+[05/04/26 10:51:54]: Uncompressing B-8NMP-8P_ITS_S272_R1_001.fastq.gz
+[05/04/26 10:51:54]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-8NMP-8P_ITS_S272_R1_001.fastq.gz
+[05/04/26 10:51:54]: Uncompressing B-12TFH-12_ITS_S262_R1_001.fastq.gz
+[05/04/26 10:51:54]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-12TFH-12_ITS_S262_R1_001.fastq.gz
+[05/04/26 10:51:54]: Uncompressing B-SVH12-Q12_ITS_S276_R2_001.fastq.gz
+[05/04/26 10:51:54]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH12-Q12_ITS_S276_R2_001.fastq.gz
+[05/04/26 10:51:54]: Uncompressing B-SVH11-Q11_ITS_S275_R2_001.fastq.gz
+[05/04/26 10:51:54]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH11-Q11_ITS_S275_R2_001.fastq.gz
+[05/04/26 10:51:54]: Uncompressing B-4MNIP-4I_ITS_S267_R2_001.fastq.gz
+[05/04/26 10:51:54]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MNIP-4I_ITS_S267_R2_001.fastq.gz
+[05/04/26 10:51:55]: Uncompressing B-6PEP-6P_ITS_S270_R1_001.fastq.gz
+[05/04/26 10:51:55]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-6PEP-6P_ITS_S270_R1_001.fastq.gz
+[05/04/26 10:51:55]: Uncompressing B-SVH15-Q15_ITS_S279_R2_001.fastq.gz
+[05/04/26 10:51:55]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH15-Q15_ITS_S279_R2_001.fastq.gz
+[05/04/26 10:51:55]: Uncompressing B-VEN-E9_ITS_S292_R1_001.fastq.gz
+[05/04/26 10:51:55]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-E9_ITS_S292_R1_001.fastq.gz
+[05/04/26 10:51:55]: Uncompressing B-8NMP-8P_ITS_S272_R2_001.fastq.gz
+[05/04/26 10:51:55]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-8NMP-8P_ITS_S272_R2_001.fastq.gz
+[05/04/26 10:51:55]: Uncompressing B-SVH9-Q9_ITS_S287_R2_001.fastq.gz
+[05/04/26 10:51:55]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH9-Q9_ITS_S287_R2_001.fastq.gz
+[05/04/26 10:51:55]: Uncompressing B-SVH6-Q6_ITS_S284_R1_001.fastq.gz
+[05/04/26 10:51:55]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH6-Q6_ITS_S284_R1_001.fastq.gz
+[05/04/26 10:51:56]: Uncompressing B-SVH7-Q7_ITS_S285_R2_001.fastq.gz
+[05/04/26 10:51:56]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH7-Q7_ITS_S285_R2_001.fastq.gz
+[05/04/26 10:51:56]: Uncompressing B-4MNIP-4I_ITS_S267_R1_001.fastq.gz
+[05/04/26 10:51:56]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MNIP-4I_ITS_S267_R1_001.fastq.gz
+[05/04/26 10:51:56]: Uncompressing B-11SVH-11_ITS_S260_R1_001.fastq.gz
+[05/04/26 10:51:56]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-11SVH-11_ITS_S260_R1_001.fastq.gz
+[05/04/26 10:51:56]: Uncompressing B-SVH3-Q3_ITS_S281_R2_001.fastq.gz
+[05/04/26 10:51:56]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH3-Q3_ITS_S281_R2_001.fastq.gz
+[05/04/26 10:51:56]: Uncompressing B-11SVP-11S_ITS_S261_R2_001.fastq.gz
+[05/04/26 10:51:56]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-11SVP-11S_ITS_S261_R2_001.fastq.gz
+[05/04/26 10:51:57]: Uncompressing B-4MMP-4P_ITS_S266_R2_001.fastq.gz
+[05/04/26 10:51:57]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MMP-4P_ITS_S266_R2_001.fastq.gz
+[05/04/26 10:51:57]: Uncompressing B-8NMH-8H_ITS_S271_R1_001.fastq.gz
+[05/04/26 10:51:57]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-8NMH-8H_ITS_S271_R1_001.fastq.gz
+[05/04/26 10:51:57]: Uncompressing B-6PEH-6_ITS_S269_R1_001.fastq.gz
+[05/04/26 10:51:57]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-6PEH-6_ITS_S269_R1_001.fastq.gz
+[05/04/26 10:51:58]: Uncompressing B-VEN-F10_ITS_S293_R1_001.fastq.gz
+[05/04/26 10:51:58]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-F10_ITS_S293_R1_001.fastq.gz
+[05/04/26 10:51:58]: Uncompressing B-1CCP-1C_ITS_S264_R1_001.fastq.gz
+[05/04/26 10:51:58]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-1CCP-1C_ITS_S264_R1_001.fastq.gz
+[05/04/26 10:51:58]: Uncompressing B-SVH3-Q3_ITS_S281_R1_001.fastq.gz
+[05/04/26 10:51:58]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH3-Q3_ITS_S281_R1_001.fastq.gz
+[05/04/26 10:51:58]: Uncompressing B-VEN-G10_ITS_S295_R2_001.fastq.gz
+[05/04/26 10:51:58]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-G10_ITS_S295_R2_001.fastq.gz
+[05/04/26 10:51:59]: Uncompressing B-SVH13-Q13_ITS_S277_R1_001.fastq.gz
+[05/04/26 10:51:59]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH13-Q13_ITS_S277_R1_001.fastq.gz
+[05/04/26 10:51:59]: Uncompressing B-VEN-E10_ITS_S291_R1_001.fastq.gz
+[05/04/26 10:51:59]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-E10_ITS_S291_R1_001.fastq.gz
+[05/04/26 10:51:59]: Uncompressing B-VEN-D9_ITS_S290_R2_001.fastq.gz
+[05/04/26 10:51:59]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-D9_ITS_S290_R2_001.fastq.gz
+[05/04/26 10:51:59]: Uncompressing B-VEN-H11_ITS_S296_R2_001.fastq.gz
+[05/04/26 10:51:59]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-H11_ITS_S296_R2_001.fastq.gz
+[05/04/26 10:52:00]: Uncompressing B-SVH12-Q12_ITS_S276_R1_001.fastq.gz
+[05/04/26 10:52:00]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH12-Q12_ITS_S276_R1_001.fastq.gz
+[05/04/26 10:52:00]: Uncompressing B-10PP-10PP_ITS_S258_R1_001.fastq.gz
+[05/04/26 10:52:00]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-10PP-10PP_ITS_S258_R1_001.fastq.gz
+[05/04/26 10:52:00]: Uncompressing B-VEN-D9_ITS_S290_R1_001.fastq.gz
+[05/04/26 10:52:00]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-D9_ITS_S290_R1_001.fastq.gz
+[05/04/26 10:52:01]: Uncompressing B-SVH2-Q2_ITS_S280_R1_001.fastq.gz
+[05/04/26 10:52:01]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH2-Q2_ITS_S280_R1_001.fastq.gz
+[05/04/26 10:52:01]: Uncompressing B-SVH4-Q4_ITS_S282_R1_001.fastq.gz
+[05/04/26 10:52:01]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH4-Q4_ITS_S282_R1_001.fastq.gz
+[05/04/26 10:52:01]: Uncompressing B-SVH4-Q4_ITS_S282_R2_001.fastq.gz
+[05/04/26 10:52:01]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH4-Q4_ITS_S282_R2_001.fastq.gz
+[05/04/26 10:52:02]: Uncompressing B-VEN-E10_ITS_S291_R2_001.fastq.gz
+[05/04/26 10:52:02]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-E10_ITS_S291_R2_001.fastq.gz
+[05/04/26 10:52:02]: Uncompressing B-SVH10-Q10_ITS_S274_R2_001.fastq.gz
+[05/04/26 10:52:02]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH10-Q10_ITS_S274_R2_001.fastq.gz
+[05/04/26 10:52:02]: Uncompressing B-SVH2-Q2_ITS_S280_R2_001.fastq.gz
+[05/04/26 10:52:02]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH2-Q2_ITS_S280_R2_001.fastq.gz
+[05/04/26 10:52:02]: Uncompressing B-11SVH-11_ITS_S260_R2_001.fastq.gz
+[05/04/26 10:52:02]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-11SVH-11_ITS_S260_R2_001.fastq.gz
+[05/04/26 10:52:02]: Uncompressing B-1CCP-1C_ITS_S264_R2_001.fastq.gz
+[05/04/26 10:52:02]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-1CCP-1C_ITS_S264_R2_001.fastq.gz
+[05/04/26 10:52:03]: Uncompressing B-5MMH-5_ITS_S268_R1_001.fastq.gz
+[05/04/26 10:52:03]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-5MMH-5_ITS_S268_R1_001.fastq.gz
+[05/04/26 10:52:03]: Uncompressing B-12TFP-12T_ITS_S263_R1_001.fastq.gz
+[05/04/26 10:52:03]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-12TFP-12T_ITS_S263_R1_001.fastq.gz
+[05/04/26 10:52:03]: Uncompressing B-SVH9-Q9_ITS_S287_R1_001.fastq.gz
+[05/04/26 10:52:03]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH9-Q9_ITS_S287_R1_001.fastq.gz
+[05/04/26 10:52:03]: Uncompressing B-5MMH-5_ITS_S268_R2_001.fastq.gz
+[05/04/26 10:52:03]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-5MMH-5_ITS_S268_R2_001.fastq.gz
+[05/04/26 10:52:03]: Uncompressing B-VEN-B12_ITS_S288_R2_001.fastq.gz
+[05/04/26 10:52:03]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-B12_ITS_S288_R2_001.fastq.gz
+[05/04/26 10:52:03]: Uncompressing B-VEN-H11_ITS_S296_R1_001.fastq.gz
+[05/04/26 10:52:03]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-H11_ITS_S296_R1_001.fastq.gz
+[05/04/26 10:52:04]: Uncompressing B-VEN-B12_ITS_S288_R1_001.fastq.gz
+[05/04/26 10:52:04]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-B12_ITS_S288_R1_001.fastq.gz
+[05/04/26 10:52:04]: ITS1-F fwd primer found in AMPtk primer db, setting to: CTTGGTCATTTAGAGGAAGTAA
+[05/04/26 10:52:04]: ITS2 rev primer found in AMPtk primer db, setting to: GCTGCGTTCTTCATCGATGC
+[05/04/26 10:52:04]: Demuxing data using 48 cpus
+[05/04/26 10:52:04]: Dropping reads less than 100 bp and setting lossless trimming to 250 bp.
+[05/04/26 10:52:04]: Strip Primers and Merge PE reads. FwdPrimer: CTTGGTCATTTAGAGGAAGTAA RevPrimer: GCTGCGTTCTTCATCGATGC
+[05/04/26 10:52:04]: B-10PSH-10P: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-10PSH-10P_ITS_S259_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-10PSH-10P_ITS_S259_R2_001.fastq
+[05/04/26 10:52:04]: B-10PP-10PP: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-10PP-10PP_ITS_S258_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-10PP-10PP_ITS_S258_R2_001.fastq
+[05/04/26 10:52:04]: B-11SVH-11: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-11SVH-11_ITS_S260_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-11SVH-11_ITS_S260_R2_001.fastq
+[05/04/26 10:52:04]: B-11SVP-11S: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-11SVP-11S_ITS_S261_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-11SVP-11S_ITS_S261_R2_001.fastq
+[05/04/26 10:52:04]: B-12TFH-12: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-12TFH-12_ITS_S262_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-12TFH-12_ITS_S262_R2_001.fastq
+[05/04/26 10:52:04]: B-1CCP-1C: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-1CCP-1C_ITS_S264_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-1CCP-1C_ITS_S264_R2_001.fastq
+[05/04/26 10:52:04]: B-12TFP-12T: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-12TFP-12T_ITS_S263_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-12TFP-12T_ITS_S263_R2_001.fastq
+[05/04/26 10:52:04]: B-4MIH-4M: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MIH-4M_ITS_S265_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MIH-4M_ITS_S265_R2_001.fastq
+[05/04/26 10:52:04]: B-4MMP-4P: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MMP-4P_ITS_S266_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MMP-4P_ITS_S266_R2_001.fastq
+[05/04/26 10:52:04]: B-8NMH-8H: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-8NMH-8H_ITS_S271_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-8NMH-8H_ITS_S271_R2_001.fastq
+[05/04/26 10:52:04]: B-4MNIP-4I: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MNIP-4I_ITS_S267_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-4MNIP-4I_ITS_S267_R2_001.fastq
+[05/04/26 10:52:04]: B-5MMH-5: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-5MMH-5_ITS_S268_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-5MMH-5_ITS_S268_R2_001.fastq
+[05/04/26 10:52:04]: B-6PEH-6: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-6PEH-6_ITS_S269_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-6PEH-6_ITS_S269_R2_001.fastq
+[05/04/26 10:52:04]: B-6PEP-6P: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-6PEP-6P_ITS_S270_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-6PEP-6P_ITS_S270_R2_001.fastq
+[05/04/26 10:52:04]: B-8NMP-8P: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-8NMP-8P_ITS_S272_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-8NMP-8P_ITS_S272_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH1-Q1: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH1-Q1_ITS_S273_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH1-Q1_ITS_S273_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH10-Q10: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH10-Q10_ITS_S274_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH10-Q10_ITS_S274_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH11-Q11: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH11-Q11_ITS_S275_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH11-Q11_ITS_S275_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH12-Q12: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH12-Q12_ITS_S276_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH12-Q12_ITS_S276_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH13-Q13: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH13-Q13_ITS_S277_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH13-Q13_ITS_S277_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH14-Q14: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH14-Q14_ITS_S278_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH14-Q14_ITS_S278_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH15-Q15: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH15-Q15_ITS_S279_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH15-Q15_ITS_S279_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH2-Q2: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH2-Q2_ITS_S280_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH2-Q2_ITS_S280_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH3-Q3: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH3-Q3_ITS_S281_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH3-Q3_ITS_S281_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH4-Q4: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH4-Q4_ITS_S282_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH4-Q4_ITS_S282_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH5-Q5: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH5-Q5_ITS_S283_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH5-Q5_ITS_S283_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH8-Q8: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH8-Q8_ITS_S286_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH8-Q8_ITS_S286_R2_001.fastq
+[05/04/26 10:52:04]: B-VEN-B12: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-B12_ITS_S288_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-B12_ITS_S288_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH6-Q6: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH6-Q6_ITS_S284_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH6-Q6_ITS_S284_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH9-Q9: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH9-Q9_ITS_S287_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH9-Q9_ITS_S287_R2_001.fastq
+[05/04/26 10:52:04]: B-SVH7-Q7: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH7-Q7_ITS_S285_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-SVH7-Q7_ITS_S285_R2_001.fastq
+[05/04/26 10:52:04]: B-VEN-C10: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-C10_ITS_S289_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-C10_ITS_S289_R2_001.fastq
+[05/04/26 10:52:04]: B-VEN-E10: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-E10_ITS_S291_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-E10_ITS_S291_R2_001.fastq
+[05/04/26 10:52:04]: B-VEN-D9: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-D9_ITS_S290_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-D9_ITS_S290_R2_001.fastq
+[05/04/26 10:52:04]: B-VEN-E9: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-E9_ITS_S292_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-E9_ITS_S292_R2_001.fastq
+[05/04/26 10:52:04]: B-VEN-F10: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-F10_ITS_S293_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-F10_ITS_S293_R2_001.fastq
+[05/04/26 10:52:04]: B-VEN-F11: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-F11_ITS_S294_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-F11_ITS_S294_R2_001.fastq
+[05/04/26 10:52:04]: B-VEN-G10: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-G10_ITS_S295_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-G10_ITS_S295_R2_001.fastq
+[05/04/26 10:52:04]: B-VEN-H11: /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-H11_ITS_S296_R1_001.fastq /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/input/ITS/B-VEN-H11_ITS_S296_R2_001.fastq
+[05/04/26 10:52:04]: Now merging PE reads
+[05/04/26 10:52:04]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH9-Q9_R1.fq B-SVH9-Q9_R2.fq
+[05/04/26 10:52:04]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH9-Q9_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH9-Q9_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH9-Q9.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH9-Q9.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:04]: Now merging PE reads
+[05/04/26 10:52:04]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH15-Q15_R1.fq B-SVH15-Q15_R2.fq
+[05/04/26 10:52:04]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH15-Q15_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH15-Q15_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH15-Q15.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH15-Q15.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:04]: Now merging PE reads
+[05/04/26 10:52:04]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH1-Q1_R1.fq B-SVH1-Q1_R2.fq
+[05/04/26 10:52:04]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH1-Q1_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH1-Q1_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH1-Q1.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH1-Q1.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:04]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+         1  Pairs
+         1  Merged (100.0%)
+         0  Not merged (0.0%)
+
+Statistics of all reads:
+    300.00  Mean read length
+
+Statistics of merged reads:
+    163.00  Mean fragment length
+      0.00  Standard deviation of fragment length
+      0.02  Mean expected error in forward sequences
+      0.09  Mean expected error in reverse sequences
+      0.01  Mean expected error in merged sequences
+      0.00  Mean observed errors in merged region of forward sequences
+      0.00  Mean observed errors in merged region of reverse sequences
+      0.00  Mean observed errors in merged region
+
+[05/04/26 10:52:04]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+       227  Pairs
+       211  Merged (93.0%)
+        16  Not merged (7.0%)
+
+Pairs that failed merging due to various reasons:
+         1  too few kmers found on same diagonal
+         3  too many differences
+        11  alignment score too low, or score drop too high
+         1  merged fragment too short
+
+Statistics of all reads:
+    299.41  Mean read length
+
+Statistics of merged reads:
+    113.54  Mean fragment length
+     16.38  Standard deviation of fragment length
+      0.06  Mean expected error in forward sequences
+      0.17  Mean expected error in reverse sequences
+      0.02  Mean expected error in merged sequences
+      0.09  Mean observed errors in merged region of forward sequences
+      0.27  Mean observed errors in merged region of reverse sequences
+      0.36  Mean observed errors in merged region
+
+[05/04/26 10:52:04]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+         1  Pairs
+         1  Merged (100.0%)
+         0  Not merged (0.0%)
+
+Statistics of all reads:
+    300.00  Mean read length
+
+Statistics of merged reads:
+    153.00  Mean fragment length
+      0.00  Standard deviation of fragment length
+      0.02  Mean expected error in forward sequences
+      0.02  Mean expected error in reverse sequences
+      0.01  Mean expected error in merged sequences
+      0.00  Mean observed errors in merged region of forward sequences
+      0.00  Mean observed errors in merged region of reverse sequences
+      0.00  Mean observed errors in merged region
+
+[05/04/26 10:52:04]: Now merging PE reads
+[05/04/26 10:52:04]: Merging PE reads using vsearch --fastq_mergepairs: B-11SVH-11_R1.fq B-11SVH-11_R2.fq
+[05/04/26 10:52:04]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-11SVH-11_R1.fq --reverse BEEHONEY_ITS_ASV/B-11SVH-11_R2.fq --fastqout BEEHONEY_ITS_ASV/B-11SVH-11.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-11SVH-11.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:04]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+      2761  Pairs
+      2651  Merged (96.0%)
+       110  Not merged (4.0%)
+
+Pairs that failed merging due to various reasons:
+         2  too few kmers found on same diagonal
+         6  too many differences
+       102  alignment score too low, or score drop too high
+
+Statistics of all reads:
+    299.81  Mean read length
+
+Statistics of merged reads:
+    116.41  Mean fragment length
+     16.83  Standard deviation of fragment length
+      0.04  Mean expected error in forward sequences
+      0.14  Mean expected error in reverse sequences
+      0.02  Mean expected error in merged sequences
+      0.06  Mean observed errors in merged region of forward sequences
+      0.20  Mean observed errors in merged region of reverse sequences
+      0.26  Mean observed errors in merged region
+
+[05/04/26 10:52:05]: Now merging PE reads
+[05/04/26 10:52:05]: Merging PE reads using vsearch --fastq_mergepairs: B-VEN-B12_R1.fq B-VEN-B12_R2.fq
+[05/04/26 10:52:05]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-VEN-B12_R1.fq --reverse BEEHONEY_ITS_ASV/B-VEN-B12_R2.fq --fastqout BEEHONEY_ITS_ASV/B-VEN-B12.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-VEN-B12.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:05]: Now merging PE reads
+[05/04/26 10:52:05]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH13-Q13_R1.fq B-SVH13-Q13_R2.fq
+[05/04/26 10:52:05]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH13-Q13_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH13-Q13_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH13-Q13.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH13-Q13.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:05]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+      6439  Pairs
+      5844  Merged (90.8%)
+       595  Not merged (9.2%)
+
+Pairs that failed merging due to various reasons:
+        16  too few kmers found on same diagonal
+       218  too many differences
+       360  alignment score too low, or score drop too high
+         1  merged fragment too short
+
+Statistics of all reads:
+    299.51  Mean read length
+
+Statistics of merged reads:
+    322.67  Mean fragment length
+     95.29  Standard deviation of fragment length
+      0.33  Mean expected error in forward sequences
+      0.68  Mean expected error in reverse sequences
+      0.22  Mean expected error in merged sequences
+      0.55  Mean observed errors in merged region of forward sequences
+      1.13  Mean observed errors in merged region of reverse sequences
+      1.67  Mean observed errors in merged region
+
+[05/04/26 10:52:05]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+      5689  Pairs
+      5314  Merged (93.4%)
+       375  Not merged (6.6%)
+
+Pairs that failed merging due to various reasons:
+        30  too few kmers found on same diagonal
+         1  multiple potential alignments
+        81  too many differences
+       263  alignment score too low, or score drop too high
+
+Statistics of all reads:
+    299.75  Mean read length
+
+Statistics of merged reads:
+    196.85  Mean fragment length
+     23.98  Standard deviation of fragment length
+      0.13  Mean expected error in forward sequences
+      0.27  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.22  Mean observed errors in merged region of forward sequences
+      0.36  Mean observed errors in merged region of reverse sequences
+      0.58  Mean observed errors in merged region
+
+[05/04/26 10:52:07]: Now merging PE reads
+[05/04/26 10:52:07]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH3-Q3_R1.fq B-SVH3-Q3_R2.fq
+[05/04/26 10:52:07]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH3-Q3_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH3-Q3_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH3-Q3.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH3-Q3.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:07]: Now merging PE reads
+[05/04/26 10:52:07]: Merging PE reads using vsearch --fastq_mergepairs: B-11SVP-11S_R1.fq B-11SVP-11S_R2.fq
+[05/04/26 10:52:07]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-11SVP-11S_R1.fq --reverse BEEHONEY_ITS_ASV/B-11SVP-11S_R2.fq --fastqout BEEHONEY_ITS_ASV/B-11SVP-11S.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-11SVP-11S.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:08]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     24866  Pairs
+     22583  Merged (90.8%)
+      2283  Not merged (9.2%)
+
+Pairs that failed merging due to various reasons:
+       166  too few kmers found on same diagonal
+         3  multiple potential alignments
+       613  too many differences
+      1500  alignment score too low, or score drop too high
+         1  merged fragment too short
+
+Statistics of all reads:
+    299.74  Mean read length
+
+Statistics of merged reads:
+    185.64  Mean fragment length
+     17.10  Standard deviation of fragment length
+      0.08  Mean expected error in forward sequences
+      0.52  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.10  Mean observed errors in merged region of forward sequences
+      0.83  Mean observed errors in merged region of reverse sequences
+      0.94  Mean observed errors in merged region
+
+[05/04/26 10:52:08]: Now merging PE reads
+[05/04/26 10:52:08]: Merging PE reads using vsearch --fastq_mergepairs: B-VEN-F11_R1.fq B-VEN-F11_R2.fq
+[05/04/26 10:52:08]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-VEN-F11_R1.fq --reverse BEEHONEY_ITS_ASV/B-VEN-F11_R2.fq --fastqout BEEHONEY_ITS_ASV/B-VEN-F11.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-VEN-F11.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:08]: Now merging PE reads
+[05/04/26 10:52:08]: Merging PE reads using vsearch --fastq_mergepairs: B-VEN-D9_R1.fq B-VEN-D9_R2.fq
+[05/04/26 10:52:08]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-VEN-D9_R1.fq --reverse BEEHONEY_ITS_ASV/B-VEN-D9_R2.fq --fastqout BEEHONEY_ITS_ASV/B-VEN-D9.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-VEN-D9.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:08]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     41476  Pairs
+     38414  Merged (92.6%)
+      3062  Not merged (7.4%)
+
+Pairs that failed merging due to various reasons:
+       307  too few kmers found on same diagonal
+         4  multiple potential alignments
+       528  too many differences
+      2159  alignment score too low, or score drop too high
+        64  merged fragment too short
+
+Statistics of all reads:
+    299.64  Mean read length
+
+Statistics of merged reads:
+    194.92  Mean fragment length
+     27.53  Standard deviation of fragment length
+      0.13  Mean expected error in forward sequences
+      0.27  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.19  Mean observed errors in merged region of forward sequences
+      0.38  Mean observed errors in merged region of reverse sequences
+      0.57  Mean observed errors in merged region
+
+[05/04/26 10:52:09]: Now merging PE reads
+[05/04/26 10:52:09]: Merging PE reads using vsearch --fastq_mergepairs: B-12TFP-12T_R1.fq B-12TFP-12T_R2.fq
+[05/04/26 10:52:09]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-12TFP-12T_R1.fq --reverse BEEHONEY_ITS_ASV/B-12TFP-12T_R2.fq --fastqout BEEHONEY_ITS_ASV/B-12TFP-12T.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-12TFP-12T.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:09]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     26987  Pairs
+     25204  Merged (93.4%)
+      1783  Not merged (6.6%)
+
+Pairs that failed merging due to various reasons:
+       156  too few kmers found on same diagonal
+       220  too many differences
+      1407  alignment score too low, or score drop too high
+
+Statistics of all reads:
+    299.50  Mean read length
+
+Statistics of merged reads:
+    185.77  Mean fragment length
+     32.30  Standard deviation of fragment length
+      0.15  Mean expected error in forward sequences
+      0.23  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.22  Mean observed errors in merged region of forward sequences
+      0.30  Mean observed errors in merged region of reverse sequences
+      0.52  Mean observed errors in merged region
+
+[05/04/26 10:52:09]: Now merging PE reads
+[05/04/26 10:52:09]: Merging PE reads using vsearch --fastq_mergepairs: B-6PEP-6P_R1.fq B-6PEP-6P_R2.fq
+[05/04/26 10:52:09]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-6PEP-6P_R1.fq --reverse BEEHONEY_ITS_ASV/B-6PEP-6P_R2.fq --fastqout BEEHONEY_ITS_ASV/B-6PEP-6P.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-6PEP-6P.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:09]: Now merging PE reads
+[05/04/26 10:52:09]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH2-Q2_R1.fq B-SVH2-Q2_R2.fq
+[05/04/26 10:52:09]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH2-Q2_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH2-Q2_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH2-Q2.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH2-Q2.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:09]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     46272  Pairs
+     42826  Merged (92.6%)
+      3446  Not merged (7.4%)
+
+Pairs that failed merging due to various reasons:
+       168  too few kmers found on same diagonal
+       765  too many differences
+      1786  alignment score too low, or score drop too high
+       727  merged fragment too short
+
+Statistics of all reads:
+    299.65  Mean read length
+
+Statistics of merged reads:
+    220.94  Mean fragment length
+     38.36  Standard deviation of fragment length
+      0.13  Mean expected error in forward sequences
+      0.51  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.23  Mean observed errors in merged region of forward sequences
+      0.79  Mean observed errors in merged region of reverse sequences
+      1.01  Mean observed errors in merged region
+
+[05/04/26 10:52:10]: Now merging PE reads
+[05/04/26 10:52:10]: Merging PE reads using vsearch --fastq_mergepairs: B-VEN-E9_R1.fq B-VEN-E9_R2.fq
+[05/04/26 10:52:10]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-VEN-E9_R1.fq --reverse BEEHONEY_ITS_ASV/B-VEN-E9_R2.fq --fastqout BEEHONEY_ITS_ASV/B-VEN-E9.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-VEN-E9.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:10]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     54823  Pairs
+     51920  Merged (94.7%)
+      2903  Not merged (5.3%)
+
+Pairs that failed merging due to various reasons:
+        90  too few kmers found on same diagonal
+         3  multiple potential alignments
+       455  too many differences
+      2349  alignment score too low, or score drop too high
+         6  merged fragment too short
+
+Statistics of all reads:
+    299.71  Mean read length
+
+Statistics of merged reads:
+    148.00  Mean fragment length
+     39.47  Standard deviation of fragment length
+      0.07  Mean expected error in forward sequences
+      0.21  Mean expected error in reverse sequences
+      0.03  Mean expected error in merged sequences
+      0.11  Mean observed errors in merged region of forward sequences
+      0.30  Mean observed errors in merged region of reverse sequences
+      0.40  Mean observed errors in merged region
+
+[05/04/26 10:52:11]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     40780  Pairs
+     38363  Merged (94.1%)
+      2417  Not merged (5.9%)
+
+Pairs that failed merging due to various reasons:
+        47  too few kmers found on same diagonal
+         1  multiple potential alignments
+       481  too many differences
+      1880  alignment score too low, or score drop too high
+         8  merged fragment too short
+
+Statistics of all reads:
+    299.84  Mean read length
+
+Statistics of merged reads:
+    191.53  Mean fragment length
+     11.09  Standard deviation of fragment length
+      0.09  Mean expected error in forward sequences
+      0.20  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.15  Mean observed errors in merged region of forward sequences
+      0.25  Mean observed errors in merged region of reverse sequences
+      0.41  Mean observed errors in merged region
+
+[05/04/26 10:52:11]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     40197  Pairs
+     36786  Merged (91.5%)
+      3411  Not merged (8.5%)
+
+Pairs that failed merging due to various reasons:
+       297  too few kmers found on same diagonal
+         1  multiple potential alignments
+       804  too many differences
+      2308  alignment score too low, or score drop too high
+         1  merged fragment too short
+
+Statistics of all reads:
+    299.81  Mean read length
+
+Statistics of merged reads:
+    188.65  Mean fragment length
+     15.37  Standard deviation of fragment length
+      0.06  Mean expected error in forward sequences
+      0.50  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.10  Mean observed errors in merged region of forward sequences
+      0.79  Mean observed errors in merged region of reverse sequences
+      0.89  Mean observed errors in merged region
+
+[05/04/26 10:52:11]: Now merging PE reads
+[05/04/26 10:52:11]: Merging PE reads using vsearch --fastq_mergepairs: B-4MIH-4M_R1.fq B-4MIH-4M_R2.fq
+[05/04/26 10:52:11]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-4MIH-4M_R1.fq --reverse BEEHONEY_ITS_ASV/B-4MIH-4M_R2.fq --fastqout BEEHONEY_ITS_ASV/B-4MIH-4M.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-4MIH-4M.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:11]: Now merging PE reads
+[05/04/26 10:52:11]: Merging PE reads using vsearch --fastq_mergepairs: B-8NMP-8P_R1.fq B-8NMP-8P_R2.fq
+[05/04/26 10:52:11]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-8NMP-8P_R1.fq --reverse BEEHONEY_ITS_ASV/B-8NMP-8P_R2.fq --fastqout BEEHONEY_ITS_ASV/B-8NMP-8P.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-8NMP-8P.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:12]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     54367  Pairs
+     49588  Merged (91.2%)
+      4779  Not merged (8.8%)
+
+Pairs that failed merging due to various reasons:
+       314  too few kmers found on same diagonal
+         1  multiple potential alignments
+      1274  too many differences
+      3141  alignment score too low, or score drop too high
+        49  merged fragment too short
+
+Statistics of all reads:
+    299.76  Mean read length
+
+Statistics of merged reads:
+    190.51  Mean fragment length
+     46.36  Standard deviation of fragment length
+      0.13  Mean expected error in forward sequences
+      0.53  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.21  Mean observed errors in merged region of forward sequences
+      0.82  Mean observed errors in merged region of reverse sequences
+      1.03  Mean observed errors in merged region
+
+[05/04/26 10:52:12]: Now merging PE reads
+[05/04/26 10:52:12]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH11-Q11_R1.fq B-SVH11-Q11_R2.fq
+[05/04/26 10:52:12]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH11-Q11_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH11-Q11_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH11-Q11.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH11-Q11.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:12]: Now merging PE reads
+[05/04/26 10:52:12]: Merging PE reads using vsearch --fastq_mergepairs: B-VEN-E10_R1.fq B-VEN-E10_R2.fq
+[05/04/26 10:52:12]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-VEN-E10_R1.fq --reverse BEEHONEY_ITS_ASV/B-VEN-E10_R2.fq --fastqout BEEHONEY_ITS_ASV/B-VEN-E10.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-VEN-E10.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:12]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     47313  Pairs
+     44957  Merged (95.0%)
+      2356  Not merged (5.0%)
+
+Pairs that failed merging due to various reasons:
+       115  too few kmers found on same diagonal
+       509  too many differences
+      1732  alignment score too low, or score drop too high
+
+Statistics of all reads:
+    299.76  Mean read length
+
+Statistics of merged reads:
+    219.05  Mean fragment length
+     30.89  Standard deviation of fragment length
+      0.14  Mean expected error in forward sequences
+      0.36  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.22  Mean observed errors in merged region of forward sequences
+      0.49  Mean observed errors in merged region of reverse sequences
+      0.71  Mean observed errors in merged region
+
+[05/04/26 10:52:13]: Now merging PE reads
+[05/04/26 10:52:13]: Merging PE reads using vsearch --fastq_mergepairs: B-12TFH-12_R1.fq B-12TFH-12_R2.fq
+[05/04/26 10:52:13]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-12TFH-12_R1.fq --reverse BEEHONEY_ITS_ASV/B-12TFH-12_R2.fq --fastqout BEEHONEY_ITS_ASV/B-12TFH-12.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-12TFH-12.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:13]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     47245  Pairs
+     44589  Merged (94.4%)
+      2656  Not merged (5.6%)
+
+Pairs that failed merging due to various reasons:
+        84  too few kmers found on same diagonal
+       477  too many differences
+      2089  alignment score too low, or score drop too high
+         6  merged fragment too short
+
+Statistics of all reads:
+    299.75  Mean read length
+
+Statistics of merged reads:
+    184.55  Mean fragment length
+     30.53  Standard deviation of fragment length
+      0.11  Mean expected error in forward sequences
+      0.20  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.17  Mean observed errors in merged region of forward sequences
+      0.29  Mean observed errors in merged region of reverse sequences
+      0.46  Mean observed errors in merged region
+
+[05/04/26 10:52:14]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     55019  Pairs
+     51227  Merged (93.1%)
+      3792  Not merged (6.9%)
+
+Pairs that failed merging due to various reasons:
+       207  too few kmers found on same diagonal
+      1029  too many differences
+      2549  alignment score too low, or score drop too high
+         7  merged fragment too short
+
+Statistics of all reads:
+    299.29  Mean read length
+
+Statistics of merged reads:
+    261.16  Mean fragment length
+     99.12  Standard deviation of fragment length
+      0.22  Mean expected error in forward sequences
+      0.48  Mean expected error in reverse sequences
+      0.13  Mean expected error in merged sequences
+      0.38  Mean observed errors in merged region of forward sequences
+      0.74  Mean observed errors in merged region of reverse sequences
+      1.12  Mean observed errors in merged region
+
+[05/04/26 10:52:14]: Now merging PE reads
+[05/04/26 10:52:14]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH10-Q10_R1.fq B-SVH10-Q10_R2.fq
+[05/04/26 10:52:14]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH10-Q10_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH10-Q10_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH10-Q10.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH10-Q10.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:14]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     83582  Pairs
+     77559  Merged (92.8%)
+      6023  Not merged (7.2%)
+
+Pairs that failed merging due to various reasons:
+       513  too few kmers found on same diagonal
+         2  multiple potential alignments
+      1380  too many differences
+      4124  alignment score too low, or score drop too high
+         1  overlap too short
+         3  merged fragment too short
+
+Statistics of all reads:
+    299.77  Mean read length
+
+Statistics of merged reads:
+    190.00  Mean fragment length
+     39.80  Standard deviation of fragment length
+      0.10  Mean expected error in forward sequences
+      0.41  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.17  Mean observed errors in merged region of forward sequences
+      0.63  Mean observed errors in merged region of reverse sequences
+      0.80  Mean observed errors in merged region
+
+[05/04/26 10:52:15]: Now merging PE reads
+[05/04/26 10:52:15]: Merging PE reads using vsearch --fastq_mergepairs: B-8NMH-8H_R1.fq B-8NMH-8H_R2.fq
+[05/04/26 10:52:15]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-8NMH-8H_R1.fq --reverse BEEHONEY_ITS_ASV/B-8NMH-8H_R2.fq --fastqout BEEHONEY_ITS_ASV/B-8NMH-8H.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-8NMH-8H.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:15]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     67769  Pairs
+     63805  Merged (94.2%)
+      3964  Not merged (5.8%)
+
+Pairs that failed merging due to various reasons:
+       137  too few kmers found on same diagonal
+         1  multiple potential alignments
+       729  too many differences
+      2997  alignment score too low, or score drop too high
+       100  merged fragment too short
+
+Statistics of all reads:
+    299.70  Mean read length
+
+Statistics of merged reads:
+    142.71  Mean fragment length
+     48.10  Standard deviation of fragment length
+      0.07  Mean expected error in forward sequences
+      0.24  Mean expected error in reverse sequences
+      0.03  Mean expected error in merged sequences
+      0.11  Mean observed errors in merged region of forward sequences
+      0.33  Mean observed errors in merged region of reverse sequences
+      0.44  Mean observed errors in merged region
+
+[05/04/26 10:52:15]: Now merging PE reads
+[05/04/26 10:52:15]: Merging PE reads using vsearch --fastq_mergepairs: B-VEN-F10_R1.fq B-VEN-F10_R2.fq
+[05/04/26 10:52:15]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-VEN-F10_R1.fq --reverse BEEHONEY_ITS_ASV/B-VEN-F10_R2.fq --fastqout BEEHONEY_ITS_ASV/B-VEN-F10.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-VEN-F10.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:16]: Now merging PE reads
+[05/04/26 10:52:16]: Merging PE reads using vsearch --fastq_mergepairs: B-VEN-C10_R1.fq B-VEN-C10_R2.fq
+[05/04/26 10:52:16]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-VEN-C10_R1.fq --reverse BEEHONEY_ITS_ASV/B-VEN-C10_R2.fq --fastqout BEEHONEY_ITS_ASV/B-VEN-C10.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-VEN-C10.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:16]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     77029  Pairs
+     69085  Merged (89.7%)
+      7944  Not merged (10.3%)
+
+Pairs that failed merging due to various reasons:
+       997  too few kmers found on same diagonal
+         2  multiple potential alignments
+      1981  too many differences
+      4963  alignment score too low, or score drop too high
+         1  merged fragment too short
+
+Statistics of all reads:
+    299.83  Mean read length
+
+Statistics of merged reads:
+    223.98  Mean fragment length
+     57.03  Standard deviation of fragment length
+      0.15  Mean expected error in forward sequences
+      0.57  Mean expected error in reverse sequences
+      0.06  Mean expected error in merged sequences
+      0.25  Mean observed errors in merged region of forward sequences
+      0.96  Mean observed errors in merged region of reverse sequences
+      1.21  Mean observed errors in merged region
+
+[05/04/26 10:52:17]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     83769  Pairs
+     77228  Merged (92.2%)
+      6541  Not merged (7.8%)
+
+Pairs that failed merging due to various reasons:
+       377  too few kmers found on same diagonal
+         1  multiple potential alignments
+      1986  too many differences
+      4177  alignment score too low, or score drop too high
+
+Statistics of all reads:
+    299.17  Mean read length
+
+Statistics of merged reads:
+    368.19  Mean fragment length
+     61.23  Standard deviation of fragment length
+      0.38  Mean expected error in forward sequences
+      0.81  Mean expected error in reverse sequences
+      0.32  Mean expected error in merged sequences
+      0.67  Mean observed errors in merged region of forward sequences
+      1.36  Mean observed errors in merged region of reverse sequences
+      2.04  Mean observed errors in merged region
+
+[05/04/26 10:52:17]: Now merging PE reads
+[05/04/26 10:52:17]: Merging PE reads using vsearch --fastq_mergepairs: B-4MNIP-4I_R1.fq B-4MNIP-4I_R2.fq
+[05/04/26 10:52:17]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-4MNIP-4I_R1.fq --reverse BEEHONEY_ITS_ASV/B-4MNIP-4I_R2.fq --fastqout BEEHONEY_ITS_ASV/B-4MNIP-4I.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-4MNIP-4I.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:17]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+     99745  Pairs
+     94362  Merged (94.6%)
+      5383  Not merged (5.4%)
+
+Pairs that failed merging due to various reasons:
+       285  too few kmers found on same diagonal
+         2  multiple potential alignments
+      1168  too many differences
+      3911  alignment score too low, or score drop too high
+        17  merged fragment too short
+
+Statistics of all reads:
+    299.74  Mean read length
+
+Statistics of merged reads:
+    209.43  Mean fragment length
+     30.29  Standard deviation of fragment length
+      0.16  Mean expected error in forward sequences
+      0.30  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.27  Mean observed errors in merged region of forward sequences
+      0.42  Mean observed errors in merged region of reverse sequences
+      0.69  Mean observed errors in merged region
+
+[05/04/26 10:52:18]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    113878  Pairs
+    105281  Merged (92.5%)
+      8597  Not merged (7.5%)
+
+Pairs that failed merging due to various reasons:
+       466  too few kmers found on same diagonal
+      2602  too many differences
+      5110  alignment score too low, or score drop too high
+       419  merged fragment too short
+
+Statistics of all reads:
+    299.25  Mean read length
+
+Statistics of merged reads:
+    379.77  Mean fragment length
+     48.96  Standard deviation of fragment length
+      0.40  Mean expected error in forward sequences
+      0.81  Mean expected error in reverse sequences
+      0.33  Mean expected error in merged sequences
+      0.71  Mean observed errors in merged region of forward sequences
+      1.39  Mean observed errors in merged region of reverse sequences
+      2.10  Mean observed errors in merged region
+
+[05/04/26 10:52:19]: Now merging PE reads
+[05/04/26 10:52:19]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH8-Q8_R1.fq B-SVH8-Q8_R2.fq
+[05/04/26 10:52:19]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH8-Q8_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH8-Q8_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH8-Q8.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH8-Q8.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:20]: Now merging PE reads
+[05/04/26 10:52:20]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH6-Q6_R1.fq B-SVH6-Q6_R2.fq
+[05/04/26 10:52:20]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH6-Q6_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH6-Q6_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH6-Q6.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH6-Q6.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:20]: Now merging PE reads
+[05/04/26 10:52:20]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH7-Q7_R1.fq B-SVH7-Q7_R2.fq
+[05/04/26 10:52:20]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH7-Q7_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH7-Q7_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH7-Q7.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH7-Q7.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:21]: Now merging PE reads
+[05/04/26 10:52:21]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH4-Q4_R1.fq B-SVH4-Q4_R2.fq
+[05/04/26 10:52:21]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH4-Q4_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH4-Q4_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH4-Q4.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH4-Q4.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:21]: Now merging PE reads
+[05/04/26 10:52:21]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH5-Q5_R1.fq B-SVH5-Q5_R2.fq
+[05/04/26 10:52:21]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH5-Q5_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH5-Q5_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH5-Q5.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH5-Q5.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:21]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    115413  Pairs
+    103422  Merged (89.6%)
+     11991  Not merged (10.4%)
+
+Pairs that failed merging due to various reasons:
+       886  too few kmers found on same diagonal
+         7  multiple potential alignments
+      3475  too many differences
+      7551  alignment score too low, or score drop too high
+        72  merged fragment too short
+
+Statistics of all reads:
+    299.73  Mean read length
+
+Statistics of merged reads:
+    176.93  Mean fragment length
+     50.50  Standard deviation of fragment length
+      0.15  Mean expected error in forward sequences
+      0.33  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.30  Mean observed errors in merged region of forward sequences
+      0.49  Mean observed errors in merged region of reverse sequences
+      0.79  Mean observed errors in merged region
+
+[05/04/26 10:52:22]: Now merging PE reads
+[05/04/26 10:52:22]: Merging PE reads using vsearch --fastq_mergepairs: B-4MMP-4P_R1.fq B-4MMP-4P_R2.fq
+[05/04/26 10:52:22]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-4MMP-4P_R1.fq --reverse BEEHONEY_ITS_ASV/B-4MMP-4P_R2.fq --fastqout BEEHONEY_ITS_ASV/B-4MMP-4P.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-4MMP-4P.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:22]: Now merging PE reads
+[05/04/26 10:52:22]: Merging PE reads using vsearch --fastq_mergepairs: B-VEN-H11_R1.fq B-VEN-H11_R2.fq
+[05/04/26 10:52:22]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-VEN-H11_R1.fq --reverse BEEHONEY_ITS_ASV/B-VEN-H11_R2.fq --fastqout BEEHONEY_ITS_ASV/B-VEN-H11.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-VEN-H11.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:23]: Now merging PE reads
+[05/04/26 10:52:23]: Merging PE reads using vsearch --fastq_mergepairs: B-VEN-G10_R1.fq B-VEN-G10_R2.fq
+[05/04/26 10:52:23]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-VEN-G10_R1.fq --reverse BEEHONEY_ITS_ASV/B-VEN-G10_R2.fq --fastqout BEEHONEY_ITS_ASV/B-VEN-G10.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-VEN-G10.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:23]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    136703  Pairs
+    124972  Merged (91.4%)
+     11731  Not merged (8.6%)
+
+Pairs that failed merging due to various reasons:
+       819  too few kmers found on same diagonal
+         6  multiple potential alignments
+      3316  too many differences
+      7585  alignment score too low, or score drop too high
+         5  merged fragment too short
+
+Statistics of all reads:
+    299.79  Mean read length
+
+Statistics of merged reads:
+    229.21  Mean fragment length
+     54.44  Standard deviation of fragment length
+      0.17  Mean expected error in forward sequences
+      0.54  Mean expected error in reverse sequences
+      0.06  Mean expected error in merged sequences
+      0.27  Mean observed errors in merged region of forward sequences
+      0.90  Mean observed errors in merged region of reverse sequences
+      1.17  Mean observed errors in merged region
+
+[05/04/26 10:52:24]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    170384  Pairs
+    160067  Merged (93.9%)
+     10317  Not merged (6.1%)
+
+Pairs that failed merging due to various reasons:
+       716  too few kmers found on same diagonal
+         3  multiple potential alignments
+      2128  too many differences
+      7446  alignment score too low, or score drop too high
+         2  overlap too short
+        22  merged fragment too short
+
+Statistics of all reads:
+    299.75  Mean read length
+
+Statistics of merged reads:
+    192.95  Mean fragment length
+     33.61  Standard deviation of fragment length
+      0.13  Mean expected error in forward sequences
+      0.30  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.20  Mean observed errors in merged region of forward sequences
+      0.44  Mean observed errors in merged region of reverse sequences
+      0.63  Mean observed errors in merged region
+
+[05/04/26 10:52:24]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    146815  Pairs
+    137297  Merged (93.5%)
+      9518  Not merged (6.5%)
+
+Pairs that failed merging due to various reasons:
+       784  too few kmers found on same diagonal
+         4  multiple potential alignments
+      2159  too many differences
+      6569  alignment score too low, or score drop too high
+         2  merged fragment too short
+
+Statistics of all reads:
+    299.78  Mean read length
+
+Statistics of merged reads:
+    209.88  Mean fragment length
+     27.46  Standard deviation of fragment length
+      0.15  Mean expected error in forward sequences
+      0.41  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.23  Mean observed errors in merged region of forward sequences
+      0.57  Mean observed errors in merged region of reverse sequences
+      0.81  Mean observed errors in merged region
+
+[05/04/26 10:52:24]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    145808  Pairs
+    132355  Merged (90.8%)
+     13453  Not merged (9.2%)
+
+Pairs that failed merging due to various reasons:
+      1258  too few kmers found on same diagonal
+        11  multiple potential alignments
+      3429  too many differences
+      8753  alignment score too low, or score drop too high
+         1  overlap too short
+         1  merged fragment too short
+
+Statistics of all reads:
+    299.81  Mean read length
+
+Statistics of merged reads:
+    200.84  Mean fragment length
+     52.45  Standard deviation of fragment length
+      0.11  Mean expected error in forward sequences
+      0.53  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.18  Mean observed errors in merged region of forward sequences
+      0.88  Mean observed errors in merged region of reverse sequences
+      1.05  Mean observed errors in merged region
+
+[05/04/26 10:52:24]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    180061  Pairs
+    162214  Merged (90.1%)
+     17847  Not merged (9.9%)
+
+Pairs that failed merging due to various reasons:
+      3171  too few kmers found on same diagonal
+        21  multiple potential alignments
+      3319  too many differences
+     11334  alignment score too low, or score drop too high
+         2  merged fragment too short
+
+Statistics of all reads:
+    299.79  Mean read length
+
+Statistics of merged reads:
+    200.08  Mean fragment length
+     25.07  Standard deviation of fragment length
+      0.10  Mean expected error in forward sequences
+      0.48  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.15  Mean observed errors in merged region of forward sequences
+      0.73  Mean observed errors in merged region of reverse sequences
+      0.88  Mean observed errors in merged region
+
+[05/04/26 10:52:24]: Now merging PE reads
+[05/04/26 10:52:24]: Merging PE reads using vsearch --fastq_mergepairs: B-SVH14-Q14_R1.fq B-SVH14-Q14_R2.fq
+[05/04/26 10:52:24]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-SVH14-Q14_R1.fq --reverse BEEHONEY_ITS_ASV/B-SVH14-Q14_R2.fq --fastqout BEEHONEY_ITS_ASV/B-SVH14-Q14.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-SVH14-Q14.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:25]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    141995  Pairs
+    134406  Merged (94.7%)
+      7589  Not merged (5.3%)
+
+Pairs that failed merging due to various reasons:
+       592  too few kmers found on same diagonal
+         6  multiple potential alignments
+      1469  too many differences
+      5497  alignment score too low, or score drop too high
+        25  merged fragment too short
+
+Statistics of all reads:
+    299.75  Mean read length
+
+Statistics of merged reads:
+    182.02  Mean fragment length
+     52.97  Standard deviation of fragment length
+      0.11  Mean expected error in forward sequences
+      0.31  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.18  Mean observed errors in merged region of forward sequences
+      0.42  Mean observed errors in merged region of reverse sequences
+      0.60  Mean observed errors in merged region
+
+[05/04/26 10:52:26]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    163351  Pairs
+    152296  Merged (93.2%)
+     11055  Not merged (6.8%)
+
+Pairs that failed merging due to various reasons:
+       441  too few kmers found on same diagonal
+         3  multiple potential alignments
+      2468  too many differences
+      7973  alignment score too low, or score drop too high
+       170  merged fragment too short
+
+Statistics of all reads:
+    299.51  Mean read length
+
+Statistics of merged reads:
+    210.48  Mean fragment length
+     74.42  Standard deviation of fragment length
+      0.14  Mean expected error in forward sequences
+      0.37  Mean expected error in reverse sequences
+      0.06  Mean expected error in merged sequences
+      0.23  Mean observed errors in merged region of forward sequences
+      0.61  Mean observed errors in merged region of reverse sequences
+      0.84  Mean observed errors in merged region
+
+[05/04/26 10:52:26]: Now merging PE reads
+[05/04/26 10:52:26]: Merging PE reads using vsearch --fastq_mergepairs: B-10PP-10PP_R1.fq B-10PP-10PP_R2.fq
+[05/04/26 10:52:26]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-10PP-10PP_R1.fq --reverse BEEHONEY_ITS_ASV/B-10PP-10PP_R2.fq --fastqout BEEHONEY_ITS_ASV/B-10PP-10PP.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-10PP-10PP.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:26]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    184268  Pairs
+    173846  Merged (94.3%)
+     10422  Not merged (5.7%)
+
+Pairs that failed merging due to various reasons:
+       875  too few kmers found on same diagonal
+         2  multiple potential alignments
+      2006  too many differences
+      7507  alignment score too low, or score drop too high
+        32  merged fragment too short
+
+Statistics of all reads:
+    299.80  Mean read length
+
+Statistics of merged reads:
+    212.64  Mean fragment length
+     28.87  Standard deviation of fragment length
+      0.17  Mean expected error in forward sequences
+      0.36  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.31  Mean observed errors in merged region of forward sequences
+      0.49  Mean observed errors in merged region of reverse sequences
+      0.80  Mean observed errors in merged region
+
+[05/04/26 10:52:30]: Now merging PE reads
+[05/04/26 10:52:30]: Merging PE reads using vsearch --fastq_mergepairs: B-1CCP-1C_R1.fq B-1CCP-1C_R2.fq
+[05/04/26 10:52:30]: vsearch --fastq_mergepairs BEEHONEY_ITS_ASV/B-1CCP-1C_R1.fq --reverse BEEHONEY_ITS_ASV/B-1CCP-1C_R2.fq --fastqout BEEHONEY_ITS_ASV/B-1CCP-1C.merged.fq.merged.fq --fastqout_notmerged_fwd BEEHONEY_ITS_ASV/B-1CCP-1C.merged.fq.notmerged.R1.fq --fastq_minmergelen 100 --fastq_allowmergestagger --threads 1
+[05/04/26 10:52:31]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    257744  Pairs
+    239981  Merged (93.1%)
+     17763  Not merged (6.9%)
+
+Pairs that failed merging due to various reasons:
+      1762  too few kmers found on same diagonal
+         4  multiple potential alignments
+      3466  too many differences
+     12525  alignment score too low, or score drop too high
+         6  merged fragment too short
+
+Statistics of all reads:
+    299.40  Mean read length
+
+Statistics of merged reads:
+    218.80  Mean fragment length
+     24.85  Standard deviation of fragment length
+      0.15  Mean expected error in forward sequences
+      0.34  Mean expected error in reverse sequences
+      0.05  Mean expected error in merged sequences
+      0.23  Mean observed errors in merged region of forward sequences
+      0.48  Mean observed errors in merged region of reverse sequences
+      0.70  Mean observed errors in merged region
+
+[05/04/26 10:52:31]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    211202  Pairs
+    190295  Merged (90.1%)
+     20907  Not merged (9.9%)
+
+Pairs that failed merging due to various reasons:
+      2600  too few kmers found on same diagonal
+         8  multiple potential alignments
+      4714  too many differences
+     13582  alignment score too low, or score drop too high
+         3  merged fragment too short
+
+Statistics of all reads:
+    299.78  Mean read length
+
+Statistics of merged reads:
+    184.57  Mean fragment length
+     17.98  Standard deviation of fragment length
+      0.06  Mean expected error in forward sequences
+      0.53  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.09  Mean observed errors in merged region of forward sequences
+      0.84  Mean observed errors in merged region of reverse sequences
+      0.93  Mean observed errors in merged region
+
+[05/04/26 10:52:36]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+    292943  Pairs
+    262250  Merged (89.5%)
+     30693  Not merged (10.5%)
+
+Pairs that failed merging due to various reasons:
+      3008  too few kmers found on same diagonal
+        32  multiple potential alignments
+      7578  too many differences
+     20068  alignment score too low, or score drop too high
+         7  merged fragment too short
+
+Statistics of all reads:
+    299.80  Mean read length
+
+Statistics of merged reads:
+    184.67  Mean fragment length
+     13.91  Standard deviation of fragment length
+      0.05  Mean expected error in forward sequences
+      0.57  Mean expected error in reverse sequences
+      0.04  Mean expected error in merged sequences
+      0.08  Mean observed errors in merged region of forward sequences
+      0.93  Mean observed errors in merged region of reverse sequences
+      1.01  Mean observed errors in merged region
+
+[05/04/26 10:52:47]: Concatenating Demuxed Files
+[05/04/26 10:52:49]: 3,240,988 total reads
+[05/04/26 10:52:49]: 2,663,810 Fwd Primer found, 2,899,174 Rev Primer found
+[05/04/26 10:52:49]: 74,066 discarded Primer incompatibility
+[05/04/26 10:52:49]: 54 discarded too short (< 100 bp)
+[05/04/26 10:52:49]: 3,166,868 valid output reads
+[05/04/26 10:52:52]: Found 35 barcoded samples
+                        Sample:  Count
+                     B-1CCP-1C:  292942
+                   B-10PP-10PP:  257744
+                   B-SVH14-Q14:  211202
+                     B-VEN-G10:  184268
+                     B-SVH7-Q7:  180061
+                     B-SVH6-Q6:  170384
+                     B-4MMP-4P:  163351
+                     B-SVH5-Q5:  146815
+                     B-SVH4-Q4:  145808
+                     B-VEN-H11:  141995
+                     B-SVH8-Q8:  136703
+                    B-4MNIP-4I:  115372
+                     B-VEN-C10:  113866
+                     B-8NMH-8H:  99745
+                     B-VEN-F10:  83769
+                   B-SVH11-Q11:  83582
+                   B-SVH10-Q10:  77029
+                    B-12TFH-12:  67769
+                     B-VEN-E10:  55019
+                   B-12TFP-12T:  54823
+                      B-VEN-E9:  54367
+                     B-4MIH-4M:  47313
+                     B-8NMP-8P:  47245
+                      B-VEN-D9:  46272
+                   B-11SVP-11S:  41476
+                     B-6PEP-6P:  40780
+                     B-SVH2-Q2:  40197
+                     B-VEN-F11:  26987
+                     B-SVH3-Q3:  24866
+                     B-VEN-B12:  6439
+                   B-SVH13-Q13:  5689
+                    B-11SVH-11:  2761
+                     B-SVH1-Q1:  227
+                   B-SVH15-Q15:  1
+                     B-SVH9-Q9:  1
+[05/04/26 10:52:52]: pigz -c -p 48 BEEHONEY_ITS_ASV.demux.fq
+[05/04/26 10:52:53]: Output file:  BEEHONEY_ITS_ASV.demux.fq.gz (51.4 MB)
+[05/04/26 10:52:53]: Mapping file: BEEHONEY_ITS_ASV.mapping_file.txt

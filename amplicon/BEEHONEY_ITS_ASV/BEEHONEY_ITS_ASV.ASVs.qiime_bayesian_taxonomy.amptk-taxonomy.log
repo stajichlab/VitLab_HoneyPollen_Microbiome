@@ -1,0 +1,8 @@
+[05/04/26 11:13:04]: /opt/linux/rocky/8.x/x86_64/pkgs/amptk/1.6/bin/amptk taxonomy -f BEEHONEY_ITS_ASV.ASVs.fa -i BEEHONEY_ITS_ASV.otu_table.txt -t ./BEEHONEY_ITS_ASV.ASVs_taxonomy_bayesianclassifier/export/taxonomy.tsv -o BEEHONEY_ITS_ASV.ASVs.qiime_bayesian_taxonomy --cpus 48 --db ITS1
+
+[05/04/26 11:13:04]: OS: Rocky Linux 8.10, 256 cores, ~ 1057 GB RAM. Python: 3.10.0
+[05/04/26 11:13:04]: Python Modules: numpy v1.24.2, pandas v2.3.3, matplotlib v3.7.1, psutil v7.2.1, natsort v8.4.0, biopython v1.79, edlib v1.3.9, biom-format v2.1.14
+[05/04/26 11:13:04]: AMPtk v1.6.0, VSEARCH v2.22.1
+[05/04/26 11:13:04]: Loading FASTA Records
+[05/04/26 11:13:04]: 3,710 OTUs
+[05/04/26 11:13:04]: Loading custom Taxonomy into dictionary
