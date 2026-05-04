@@ -1,0 +1,856 @@
+file	percent	reads	taxon_id	taxon_name
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	31.859537	27112752	33958	Lactobacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	1.188460	1011390	543	Enterobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.795261	676774	1903414	Morganellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.707645	602212	186817	Bacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.619740	527404	81852	Enterococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.454502	386785	433	Acetobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.365011	310628	403	Methylococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.329937	280779	186828	Carnobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.286159	243524	468	Moraxellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.284083	241757	1300	Streptococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.271611	231143	1903409	Erwiniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.208409	177358	90964	Staphylococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.202384	172231	186822	Paenibacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.158898	135224	186827	Aerococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.096708	82299	641	Vibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.094119	80096	186821	Sporolactobacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.091064	77496	28056	Micromonosporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.079983	68066	31953	Bifidobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.071150	60549	31979	Clostridiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.063483	54025	119859	Tolypothrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.053465	45499	186820	Listeriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.052865	44989	186804	Peptostreptococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.051883	44153	186803	Lachnospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.051440	43776	216572	Oscillospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.047149	40124	186818	Caryophanaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.046854	39873	128827	Erysipelotrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.044750	38083	186806	Eubacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.032917	28013	84566	Sphingobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.029279	24917	2131	Spiroplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.028547	24294	3120669	Anoxybacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.026230	22322	135621	Pseudomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.026176	22276	2159	Methanobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.025243	21482	2070	Pseudonocardiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.024131	20536	85023	Microbacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.023317	19843	186823	Alicyclobacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.023315	19841	1570339	Peptoniphilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.022435	19092	171550	Rikenellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.022231	18919	49546	Flavobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.020784	17687	31977	Veillonellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.020494	17441	1843491	Selenomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.019311	16434	2810280	Coprobacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.019309	16432	2062	Streptomycetaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.017899	15232	183710	Deinococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.015854	13492	186824	Thermoactinomycetaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.014869	12654	1892259	Aphanizomenonaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.013940	11863	171552	Prevotellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.013064	11118	815	Bacteroidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.012503	10640	1762	Mycobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.012389	10543	119060	Burkholderiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.012046	10251	3120697	Fictibacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.011566	9843	32033	Lysobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.011117	9461	1268	Micrococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.010649	9062	543314	Anaerovoracaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.010577	9001	1903411	Yersiniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.010547	8976	2049	Actinomycetaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.010160	8646	1491775	Proteinivoracaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.009211	7839	75682	Oxalobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.008926	7596	563835	Chitinophagaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.008674	7382	194924	Desulfovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.008204	6982	2896860	Spirosomataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.008062	6861	72293	Helicobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007991	6800	1813606	Balneolaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007958	6772	1775411	Rhodanobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007841	6673	203492	Fusobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007586	6456	1853231	Odoribacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007579	6450	80864	Comamonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007549	6424	712	Pasteurellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007478	6364	1643826	Eggerthellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007477	6363	3046411	Halarsenatibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007388	6287	1737406	Tissierellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007378	6279	3082771	Acutalibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007342	6248	83676	Nocardiopsidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007327	6235	2005520	Dysgonomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007293	6206	990719	Christensenellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007254	6173	143786	Brachyspiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007148	6083	539738	Gemellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007080	6025	1240483	Orbaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.006705	5706	72294	Campylobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.006651	5660	28256	Halomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.006267	5333	2494208	Capsulimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.006189	5267	2762318	Weeksellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005817	4950	84994	Acidimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005785	4923	3079643	Aerosakkonemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005768	4909	3120654	Acetivibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005673	4828	41297	Sphingomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005521	4698	2092	Mycoplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005441	4630	2963099	Desulfuribacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005263	4479	2944142	Bianqueaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005065	4310	1890450	Aphanothecaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005046	4294	84107	Coriobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005043	4292	2146	Acholeplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004969	4229	1663426	Fimbriimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004765	4055	85025	Nocardiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004670	3974	2603322	Vallitaleaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004662	3967	135617	Thiotrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004652	3959	772	Bartonellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004570	3889	196137	Methanospirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004484	3816	31989	Paracoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004377	3725	189779	Nitrospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004375	3723	1129771	Leptotrichiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004289	3650	31957	Propionibacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004223	3594	3142802	Rhodoblastaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004074	3467	186807	Peptococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003996	3401	82115	Rhizobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003978	3385	1853232	Hymenobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003954	3365	2975520	Candidatus Izemoplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003926	3341	3046368	Aristaeellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003911	3328	3118656	Natronincolaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003902	3321	213421	Desulfuromonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003783	3219	3423717	Sphingobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003774	3212	2848916	Thermohalobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003719	3165	1382930	Ardenticatenaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003678	3130	33925	Entomoplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003674	3127	213121	Desulfobulbaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003647	3104	1643949	Petrotogaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003577	3044	53434	Halobacteroidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003526	3001	88404	Methanocorpusculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003485	2966	3064797	Haladaptataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003469	2952	188786	Thermaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003385	2881	1643824	Atopobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003336	2839	2897177	Chitinibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003261	2775	255475	Aurantimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003187	2712	2770092	Tepidanaerobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003179	2705	255474	Parvularculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003162	2691	2822331	Segnochrobactraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003157	2687	255528	Victivallaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002872	2444	1706371	Cellvibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002745	2336	213422	Geobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002743	2334	1653	Corynebacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002743	2334	3141702	Leadbetterellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002720	2315	32011	Methylophilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002683	2283	85020	Dermabacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002630	2238	444	Legionellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002630	2238	3029087	Aminobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002603	2215	3118654	Caminicellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002572	2189	332247	Trueperaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002506	2133	2992719	Tepidimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002419	2059	3421337	Guptibacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002377	2023	2937909	Desulfitobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002370	2017	1890448	Spirulinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002189	1863	204431	Fibrobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002129	1812	186814	Thermoanaerobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002089	1778	2845253	Treponemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002087	1776	2787155	Culicoidibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002040	1736	2854170	Roseobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002009	1710	3385906	Roseomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002002	1704	909930	Acidaminococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001967	1674	3104716	Desulfitisporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001938	1649	795749	Ignavibacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001924	1637	83763	Succinivibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001924	1637	1853230	Crocinitomicaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001921	1635	2844403	Rhodovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001919	1633	41295	Rhodospirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001888	1607	506	Alcaligenaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001832	1559	1460864	Methanocalculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001804	1535	539000	Clostridiales Family XVII. Incertae Sedis
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001784	1518	224467	Nautiliaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001774	1510	1914233	Gemmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001766	1503	2614438	Candidatus Magnetaquicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001747	1487	69277	Phyllobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001733	1475	2800061	Maricaulaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001689	1437	1644056	Haloferacaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001687	1436	2206	Methanosarcinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001644	1399	119045	Methylobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001624	1382	1903410	Pectobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001602	1363	72276	Ectothiorhodospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001598	1360	68298	Syntrophomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001596	1358	485255	Natranaerobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001589	1352	41294	Nitrobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001558	1326	292628	Anaerolineaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001548	1317	76892	Caulobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001548	1317	267889	Colwelliaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001548	1317	335929	Erythrobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001508	1283	481	Neisseriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001499	1276	170	Leptospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001464	1246	3118653	Acidaminobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001429	1216	2012	Thermomonosporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001402	1193	3120656	Acetonemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001389	1182	3085097	Candidatus Promineifilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001337	1138	2183	Methanococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001304	1110	2005523	Paludibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001289	1097	2808963	Arcobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001280	1089	3140589	Candidatus Villigracilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001266	1077	267893	Idiomarinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001261	1073	85015	Nocardioidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001257	1070	69657	Hyphomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001244	1059	558314	Desulfurobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001231	1048	1890431	Chamaesiphonaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001195	1017	3029086	Acetomicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001181	1005	2895623	Metamycoplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001180	1004	2820280	Sphingosinicellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001166	992	3039169	Calderihabitantaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001139	969	89374	Saprospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001125	957	255526	Halothiobacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001120	953	2004	Streptosporangiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001114	948	31984	Heliobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001062	904	206379	Nitrosomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001058	900	1217100	Jiangellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001028	875	3076165	Salinicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001025	872	39	Archangiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001012	861	3031144	Dongiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001006	856	2008790	Thiobacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001000	851	407032	Nitrospinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000971	826	3082381	Candidatus Darwinibacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000955	813	75787	Rhodocyclaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000932	793	3120708	Lutisporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000918	781	126	Planctomycetaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000911	775	224379	Hahellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000905	770	1328881	Candidatus Midichloriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000885	753	2975441	Sphaerotilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000850	723	84642	Aeromonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000844	718	3385905	Acidocellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000840	715	2944141	Feifaniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000837	712	213483	Pseudobdellovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000831	707	570265	Methanocellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000818	696	3373482	Nitrosotaleaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000800	681	3448007	Liberiplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000767	653	3120162	Tepidibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000750	638	85019	Brevibacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000745	634	224027	Hydrogenothermaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000744	633	1400857	Candidatus Competibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000737	627	2066474	Endozoicomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000727	619	2712270	Xylanivirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000724	616	1892252	Microcoleaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000721	614	2945019	Geovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000720	613	1334117	Melioribacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000717	610	3039170	Desulfitibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000714	608	85026	Gordoniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000679	578	2831106	Devosiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000657	559	3039168	Neomoorellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000651	554	145357	Dermacoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000644	548	742031	Salinisphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000643	547	2887365	Marinobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000639	544	1185407	Defluviitaleaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000639	544	3064153	Desulfurisporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000638	543	85030	Geodermatophilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000632	538	72275	Alteromonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000626	533	3031458	Desulfoplanaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000590	502	471823	Haloplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000580	494	558415	Marinilabiliaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000579	493	204434	Acidobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000579	493	1643950	Fervidobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000573	488	1843490	Sporomusaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000550	468	143067	Methanotrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000549	467	2035710	Thioalkalibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000545	464	1127830	Candidatus Brocadiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000535	455	2770093	Thermosediminibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000524	446	3079761	Nodulariaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000515	438	320599	Solirubrobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000512	436	135620	Oceanospirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000511	435	2682227	Tepidiformaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000509	433	2829815	Azospirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000508	432	3031145	Novispirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000503	428	2881426	Prochlorococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000501	426	3118652	Anaerotignaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000496	422	2867375	Desulfallaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000484	412	3120710	Marinicellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000476	405	809	Chlamydiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000458	390	191412	Chlorobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000456	388	267888	Pseudoalteromonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000448	381	2945021	Calditerrivibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000447	380	2931039	Desulfococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000447	380	2937910	Desulfotomaculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000445	379	3076164	Abyssicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000443	377	2448023	Ilumatobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000442	376	2810281	Turicibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000435	370	335928	Xanthobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000432	368	2042895	Gottschalkiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000431	367	775	Rickettsiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000425	362	2791015	Sphaerochaetaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000422	359	715221	Caldicoprobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000421	358	89373	Cytophagaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000414	352	85021	Intrasporangiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000392	334	3128952	Stomatohabitantaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000390	332	203557	Verrucomicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000389	331	1777752	Candidatus Paracaedibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000389	331	1860138	Chitinispirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000384	327	90627	Gallionellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000384	327	2771471	Sulfurimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000382	325	563798	Cyclobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000381	324	2983189	Candidatus Poriferisodalaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000378	322	45401	Hyphomicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000376	320	1903412	Hafniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000374	318	34064	Francisellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000368	313	31	Myxococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000364	310	267890	Shewanellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000355	302	137	Spirochaetaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000348	296	1524213	Vulgatibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000342	291	3118657	Thermotaleaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000337	287	84997	Rubrobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000336	286	538998	Pasteuriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000318	271	414713	Actinospicaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000316	269	2066434	Geminicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000308	262	85018	Dermatophilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000307	261	2005525	Tannerellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000307	261	2821832	Stappiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000304	259	1524215	Anaeromyxobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000302	257	1890426	Synechococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000301	256	85016	Cellulomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000295	251	972	Halanaerobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000295	251	539003	Bacillales Family X. Incertae Sedis
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000294	250	31993	Methylocystaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000291	248	85017	Promicromonosporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000290	247	2812006	Bruguierivoracaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000286	243	543347	Clostridiales Family XVI. Incertae Sedis
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000282	240	3118655	Filifactoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000281	239	118882	Brucellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000269	229	1471398	Prolixibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000268	228	1162	Nostocaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000266	226	2893042	Salisaetaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000264	225	3679999	Fusibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000259	220	2807496	Natranaerofabaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000259	220	2815910	Geminocystaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000257	219	3258312	Natranaerovirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000254	216	263369	Bacteriovoracaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000250	213	1549128	Temperatibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000249	212	543349	Symbiobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000246	209	3056649	Candidatus Palauibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000244	208	189773	Herpetosiphonaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000242	206	453228	Desulfarculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000241	205	2844881	Zymomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000221	188	1706375	Spongiibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000214	182	92713	Parachlamydiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000207	176	1920240	Kangiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000206	175	83778	Kineosporiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000202	172	85034	Glycomycetaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000201	171	135616	Piscirickettsiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000201	171	1643948	Kosmotogaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000200	170	227387	Thermodesulfobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000196	167	1643685	Borreliaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000193	164	1202464	Dehalococcoidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000192	163	1892254	Oscillatoriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000192	163	3046412	Halothermotrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000192	163	3050006	Fontisphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000186	158	255527	Saccharospirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000184	157	3085642	Butyricicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000180	153	125316	Beutenbergiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000176	150	1903416	Budviciaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000175	149	2897178	Leeiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000174	148	74712	Frankiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000173	147	3120709	Mahellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000172	146	1902584	Candidatus Desulfofervidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000172	146	2723775	Lichenihabitantaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000172	146	2858885	Mangrovivirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000170	145	1706373	Microbulbiferaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000170	145	1836792	Chthoniobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000168	143	1331809	Kordiimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000165	140	2758916	Paraconexibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000160	136	2056687	Fastidiosibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000155	132	1853234	Persicobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000154	131	1644061	Natrialbaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000149	127	2831100	Alloboseaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000147	125	641876	Elusimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000146	124	134623	Opitutaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000146	124	171551	Porphyromonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000142	121	1763524	Isosphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000142	121	2726069	Kribbellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000141	120	622451	Actinopolysporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000141	120	1890438	Leptolyngbyaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000139	118	3440665	Pedosphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000137	117	1501348	Amoebophilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000137	117	3096666	Candidatus Mycalebacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000137	117	3159504	Candidatus Methylomirabilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000135	115	995019	Sutterellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000135	115	1499392	Chromobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000134	114	1937960	Lewinellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000133	113	2008794	Zoogloeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000132	112	104174	Oscillochloridaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000132	112	213119	Desulfobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000132	112	2805590	Ornithinimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000132	112	3024550	Phaeocystidibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000129	110	2864377	Carbonactinosporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000128	109	2823145	Pleioneaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000126	107	3079741	Anthocerotibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000125	106	942	Anaplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000125	106	1046	Chromatiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000125	106	568386	Nevskiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000122	104	145358	Allobogoriellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000121	103	224372	Alcanivoracaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000116	99	2983162	Candidatus Spongiisociaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000116	99	3079746	Cymatolegaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000110	94	3423719	Sphingorhabdaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000109	93	1573805	Marinifilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000108	92	292630	Hydrogenimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000107	91	246874	Cryomorphaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000106	90	649777	Synergistaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000105	89	3423718	Sphingopyxidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000103	88	3018741	Cellulosilyticaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000103	88	3378215	Candidatus Caldatribacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000102	87	188711	Thermodesulfobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000102	87	203488	Dictyoglomaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000102	87	2008795	Azonexaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000102	87	2844866	Thalassospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000101	86	224380	Desulfonatronaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000101	86	3375061	Pendulisporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000098	83	2259	Thermococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000098	83	2786988	Koleobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000096	82	2811504	Thermodesulfovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000094	80	1783343	Endomicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000089	76	2691357	Pirellulaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000088	75	225058	Acidithiobacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000087	74	1505234	Chitinivibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000087	74	2844375	Reyranellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000086	73	186333	Anaeroplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000085	72	85033	Sporichthyaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000085	72	2805416	Jatrophihabitantaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000085	72	2900654	Candidatus Geothermincolaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000085	72	3466454	Aestuariispiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000083	71	224463	Nannocystaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000083	71	768649	Thermosporotrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000083	71	2886822	Desulfocapsaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000082	70	1706372	Halieaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000081	69	3031663	Trichloromonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000080	68	2951104	Breznakiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000080	68	3018589	Ignatzschineriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000080	68	3402413	Natronomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000075	64	85028	Tsukamurellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000075	64	267894	Psychromonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000075	64	2992718	Sporanaerobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000074	63	2272	Desulfurococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000074	63	2811505	Dissulfurispiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000074	63	3423713	Sphingomicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000073	62	1042322	Demequinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000073	62	2171986	Candidatus Saccharimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000072	61	85031	Nakamurellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000072	61	3023805	Desulfocucumaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000072	61	3084970	Thiohalophilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000071	60	510685	Sneathiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000071	60	1890436	Pseudanabaenaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000067	57	1100104	Brevinemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000066	56	1331736	Ruaniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000066	56	2762302	Reichenbachiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000065	55	2232	Archaeoglobaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000065	55	2806305	Aggregatilineaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000062	53	1647988	Akkermansiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000061	52	200667	Flammeovirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000061	52	2813035	Parvibaculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000060	51	45404	Beijerinckiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000060	51	633392	Iamiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000060	51	2785443	Candidatus Binataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000060	51	3399796	Candidatus Johnevansiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000059	50	191394	Deferribacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000059	50	2600303	Baekduiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000059	50	2881378	Thermosynechococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000058	49	2685818	Amorphaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000056	48	49	Polyangiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000056	48	2202724	Methanonatronarchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000056	48	2650922	Aestuariivirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000056	48	2900659	Candidatus Aquicultoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000055	47	1892251	Coleofasciculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000054	46	2844864	Thalassobaculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000054	46	3029088	Dethiosulfovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000053	45	64898	Aquificaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000052	44	267892	Ferrimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000052	44	1969992	Desertifilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000051	43	2005473	Muribaculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000049	42	566277	Lentisphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000048	41	118968	Coxiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000048	41	213465	Syntrophobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000048	41	2498708	Candidatus Cryosericaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000048	41	2690195	Elioraeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000047	40	2844877	Zavarziniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000047	40	3031147	Oceanibaculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000046	39	2829291	Vulcanimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000045	38	44746	Holosporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000045	38	219687	Gemmatimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000045	38	1937961	Haliscomenobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000045	38	2689614	Steroidobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000045	38	3067276	Sedimenticolaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000043	37	1106	Chloroflexaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000043	37	361606	Patulibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000043	37	597359	Kiloniellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000043	37	1890422	Gloeobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000043	37	2036754	Chelatococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000043	37	2829814	Ahrensiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000043	37	3423714	Rhizorhabdaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000041	35	2831111	Kaistiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000041	35	3149309	Methylopilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000040	34	868	Cardiobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000040	34	39782	Blattabacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000040	34	1655514	Candidatus Pelagibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000040	34	2301193	Balneatrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000040	34	2793121	Vallicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000039	33	1182	Scytonemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000039	33	475964	Caldilineaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000039	33	543371	Thermoanaerobacterales Family III. Incertae Sedis
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000038	32	2194	Methanomicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000038	32	1522127	Catalimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000036	31	1198451	Methanoregulaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000036	31	2790998	Mycoplasmoidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000036	31	2843308	Pleomorphomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	85029	Dietziaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	2066491	Emcibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	2171990	Candidatus Nanogingivalaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	2211325	Vicinamibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	2805400	Actinopolymorphaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	3039986	Nodosilineaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000034	29	117942	Desulfurellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000034	29	1890500	Pleurocapsaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000033	28	213468	Syntrophaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000033	28	693073	Caldisericaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000033	28	1154585	Gaiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000033	28	1676141	Wenzhouxiangellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000033	28	2008793	Sterolibacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000032	27	1892258	Symphyonemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000032	27	2767072	Treboniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000032	27	2844863	Tepidamorphaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000032	27	3085095	Pseudohongiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000032	27	3141701	Flectobacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000031	26	145360	Sanguibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000031	26	3031464	Thermodesulfatatoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000029	25	563843	Rhodothermaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000029	25	666507	Phycisphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000029	25	1333713	Schleiferiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000029	25	1442156	Ferrovaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000029	25	1853227	Rubricoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000029	25	2762286	Fulvivirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000029	25	3078170	Hujiaoplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000028	24	188709	Thermotogaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000028	24	2661849	Calotrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000028	24	3071002	Caldicellulosiruptoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000027	23	655351	Cohaesibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000027	23	1771359	Thorselliaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000027	23	2843305	Phreatobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000027	23	2932623	Sulfurospirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000027	23	3031623	Desulforegulaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000027	23	3423720	Blastomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	316606	Segniliparaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	320583	Conexibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	412032	Celerinatantimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	622454	Cryptosporangiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	1921003	Candidatus Hepatincolaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	3135026	Oleispirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	3381668	Gaopeijiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000025	21	388449	Ktedonobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000025	21	1643957	Roseiarcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000025	21	2800062	Robiginitomaculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000024	20	580372	Mariprofundaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000024	20	1921783	Kiritimatiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000024	20	3079752	Geitlerinemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000022	19	689704	Candidatus Rhabdochlamydiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000022	19	1853225	Salinibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000022	19	2483367	Sedimentisphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000022	19	3031143	Magnetovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000021	18	2571193	Dictyobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000021	18	2691359	Lacipirellulaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000021	18	3228945	Sanyastnellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000020	17	908622	Euzebyaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000020	17	1921568	Micropepsaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000020	17	2814874	Neomegalonemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000020	17	2897176	Aquaspirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000020	17	3031624	Desulfosarcinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000020	17	3056374	Cerasicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	267891	Moritellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	338190	Nitrosopumilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	1955043	Gloeomargaritaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	2093822	Candidatus Nanosynbacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	2303507	Oculatellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	2829802	Afifellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	2932362	Candidatus Manganitrophaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	2941492	Pumilibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	3048035	Hippeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	3085112	Thiohalorhabdaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	3423716	Parasphingopyxidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000018	15	1508635	Roseiflexaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000018	15	1652132	Halobacteriovoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000018	15	1706374	Porticoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000018	15	1890449	Microcystaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000018	15	2138247	Coprothermobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000018	15	2762301	Marivirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	414877	Catenulisporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	574976	Holophagaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	1962910	Bryobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	2303527	Trichocoleusaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	2705999	Casimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	2792775	Alsobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	2934961	Sirenicapillariaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	3031927	Govanellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	3040680	Hoyosellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	3120698	Gallaecimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	3477253	Fervidibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	1804993	Longimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	1890429	Acaryochloridaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	1892263	Hapalosiphonaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	2762306	Roseivirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	2813951	Terasakiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	3046600	Echinimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	3086088	Dethiobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	3120161	Peptoclostridiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	3120748	Thermosulfidibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	3389920	Saeziaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	118883	Sulfolobaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	1077264	Chthonomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	1191479	Magnetococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	1692041	Acidiferrobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	1769717	Mesoaciditogaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	2048906	Pyrinomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	2771472	Sulfurovaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	2805586	Lawsonellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	2930104	Deferrivibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	3085657	Monoglobaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	3568802	Peijinzhouiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	1676650	Limnochordaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	1738654	Woeseiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	2493628	Minwuiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	2748673	Zhaonellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	2762317	Thermoflexibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	3084969	Thiohalomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	3242731	Intestinicryptomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	3366852	Geochordaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	92712	Simkaniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	1617891	Arenicellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	2517203	Methanomethylophilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	2599196	Candidatus Thalassarchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	2690158	Anaerohalosphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	2750653	Pontiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	2812024	Syntrophotaleaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	2844601	Allostellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	2898533	Zooshikellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	3031664	Geothermobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	3078917	Rhodocytophagaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	3088888	Aurantibacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	3126998	Candidatus Dormibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	46659	Thermoplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	1553902	Oligoflexaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	1963268	Haloarculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	2005519	Barnesiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	2873895	Psittacicellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	2887331	Perlucidibacaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	2918833	Petrachlorosaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	3056372	Pelagicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	3103149	Oceanococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	3118658	Tindalliaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000011	9	3410400	Roseiterribacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	189770	Chrysiogenaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	213116	Desulfomicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	533207	Acanthopleuribacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	1577788	Methanomassiliicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	1755824	Egicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	1779135	Bradymonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	1890499	Xenococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	1934946	Immundisolibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	1937968	Bernardetiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2171987	Candidatus Nanoperiomorbaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2172021	Ancalomicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2772226	Sulfuricellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2805426	Kytococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2974936	Candidatus Deferrimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2975285	Candidatus Comchoanobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2997384	Anaerosomataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	3085096	Ketobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	3132029	Candidatus Hepatoplasmataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	3399801	Candidatus Pseudothioglobaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	119043	Rhodobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	206349	Hydrogenophilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	1096778	Thioalkalispiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	1266054	Algiphilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	1433378	Motilibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	1840213	Lentimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	1890464	Chroococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	1962854	Calditrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	2024981	Notoacmeibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	2066485	Iodidimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	2772535	Salibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	2795691	Nitratiruptoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	2897348	Candidatus Uabimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3024551	Owenweeksiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3029090	Aminiphilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3036766	Magnetospirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3073607	Candidatus Hakubellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3141700	Chryseotaleaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3277338	Candidatus Entotheonellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3399778	Candidatus Thermobaculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	189777	Thermomicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	596498	Nitriliruptoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	717964	Methylacidiphilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	1042314	Armatimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	1486721	Methylothermaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	1524216	Labilitrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	1853233	Thermonemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	1890428	Merismopediaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	1903335	Balneicellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	1937962	Microscillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2717338	Rhabdaerophilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2762284	Flexibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2843199	Miltoncostaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2917697	Salsipaludibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2945022	Flexistipitaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2978122	Candidatus Rariloculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2983183	Candidatus Hopanoidivoransaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3024158	Cyclonatronaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3031625	Desulfatirhabdiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3033994	Candidatus Poriferihabitaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3072461	Haliovirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3120754	Vampirovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3151707	Beduinellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3399800	Candidatus Nucleicultricaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3423715	Aquisediminimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3462473	Radicibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3686878	Guggenheimellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2236	Halobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	85022	Jonesiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	191033	Oleiphilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	224464	Kofleriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	1055686	Sandaracinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	1769745	Pseudobacteriovoracaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	1970190	Salinivirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2137278	Salinarimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2692416	Ktedonosporobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2715733	Candidatus Chazhemtobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2762316	Terrimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2831090	Blastochloridaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2907186	Tichowtungiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3029089	Thermovirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3031659	Geopsychrobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3035922	Halorutilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3079273	Desulfatiglandaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3079743	Thalassoporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3121618	Candidatus Korobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3142785	Terrirubraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3149308	Rhodoligotrophaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3614797	Aegicerorhabdaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3696221	Candidatus Acidulidesulfobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	1185	Rivulariaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	85002	Sphaerobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	196117	Methanocaldococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	213117	Desulfohalobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	449719	Granulosicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	1033997	Nitrososphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	1495648	Thermoflexaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	1648490	Rubritaleaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	1798913	Microthrixaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2024974	Silvanigrellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2038695	Williamwhitmaniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2071613	Raineyaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2109261	Abditibacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2162846	Candidatus Nanopelagicaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2171994	Candidatus Nanosyncoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2956789	Desulfonauticaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2975259	Parvicellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3031459	Desulfonatronovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3050005	Limisphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3072903	Candidatus Hecatellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3085110	Thiohalobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3240459	Candidatus Phoenicimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3377527	Fidelibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3409819	Winmispiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3416327	Candidatus Pollutiaquabacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2307	Pyrodictiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	320796	Thermoleophilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	768668	Thermogemmatisporaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1392996	Candidatus Methanoperedentaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1508536	Kallotenuaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1747769	Egibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1827282	Ventosimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1890528	Chroococcidiopsidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1892255	Gomontiellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1892261	Chlorogloeopsidaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2212439	Thiolinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2562244	Thermotomaculaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2603433	Candidatus Deianiraeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2717330	Aestuariirhabdaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2798925	Candidatus Hodarchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2813859	Natronospirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2897346	Candidatus Scalinduaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2900661	Candidatus Oleimmundimicrobiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2922432	Phototrophicaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2937911	Thermincolaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2945020	Mucispirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2946506	Lujinxingiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2986810	Candidatus Culexarchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3031471	Dissulfuribacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3031656	Desulfobaccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3031665	Geoalkalibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3049522	Thioreductoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3056371	Coraliomargaritaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3149307	Salaquimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3153706	Splendidivirgaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3153719	Kribbibacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3457296	Candidatus Njordibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3681503	Chloracidobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	92714	Waddliaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	114378	Thermofilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	225059	Thermithiobacillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	415002	Puniceicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	449732	Litorivicinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	1692504	Candidatus Clavichlamydiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	1963270	Halococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2212440	Thiofilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2303730	Prochlorotrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2691358	Thermoguttaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2798927	Candidatus Borrarchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2805401	Antricoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2808923	Fluviibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2823879	Candidatus Jordarchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2866727	Reticulibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2904714	Desulfosalsimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2946505	Allomicrovenatoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3024225	Thermospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3031622	Desulfolunaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3031670	Deferrisomataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3056375	Alterococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3064798	Halorubellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3072124	Thiovibrionaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3104747	Methylohalomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3119833	Candidatus Puniceispirillaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3121609	Candidatus Bipolaricaulaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3127005	Candidatus Aeolococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3137695	Candidatus Magnetobacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3143248	Candidatus Lucifugimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3151664	Natronospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3228937	Coralliovaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3366644	Promethearchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3399799	Candidatus Desulforudaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3457285	Candidatus Levibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	85032	Acidothermaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	513556	Syntrophorhabdaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	660062	Methermicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	1771355	Tepidisphaeraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	1890498	Dermocarpellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	1892264	Fortieaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	1968910	Candidatus Nitrosocaldaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2034509	Thioprofundaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2303486	Candidatus Amarolineaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2599197	Candidatus Poseidoniaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2760872	Tenuifilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2762276	Cesiribacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2814901	Propylenellaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2856854	Ostreibacteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2885735	Candidatus Micrarchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2900569	Candidatus Absconditicoccaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2944140	Yeguiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2951105	Rectinemataceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2953756	Candidatus Chromulinivoraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2976354	Natronoarchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3016347	Futianiaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3039865	Candidatus Cloacimonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3055127	Candidatus Hadarchaeaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3056373	Oceanipulchritudinaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3079750	Neosynechococcaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3079756	Halothecacae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3085114	Thiohalospiraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3119552	Candidatus Azoamicaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3121558	Speluncibacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3139177	Candidatus Chloroheliaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3140590	Candidatus Flexifilaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3159552	Anaerobacaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3384057	Thiobacteraceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3423712	Pedomonadaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3436874	Salinilacustritrichaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3444226	Kolteriaceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3591552	Halocolacceae
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000000	0	10239	Viruses
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	1.016054	864671	NA	cannot be assigned to a (non-viral) family
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	59.274119	50442804	NA	unclassified

@@ -1,0 +1,357 @@
+file	percent	reads	taxon_id	taxon_name
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	33.607117	28599957	186826	Lactobacillales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	2.305904	1962345	91347	Enterobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	1.464577	1246368	1385	Bacillales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.459106	390703	3120395	Acetobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.365021	310636	135618	Methylococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.286159	243524	2887326	Moraxellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.227592	193683	186802	Eubacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.096708	82299	135623	Vibrionales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.091064	77496	85008	Micromonosporales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.079983	68066	85004	Bifidobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.079331	67511	1161	Nostocales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.073367	62436	3082720	Peptostreptococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.071017	60436	526525	Erysipelotrichales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.069923	59505	171549	Bacteroidales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.058075	49422	3085636	Lachnospirales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.041555	35364	85006	Micrococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.038390	32670	1737405	Tissierellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.034355	29236	80840	Burkholderiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.033111	28178	186328	Entomoplasmatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.032931	28025	200666	Sphingobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.030953	26341	200644	Flavobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.028312	24094	356	Hyphomicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.026940	22926	72274	Pseudomonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.026176	22276	2158	Methanobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.025243	21482	85010	Pseudonocardiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.024326	20702	909929	Selenomonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.023596	20080	85007	Mycobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.020784	17687	1843489	Veillonellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.020529	17470	135614	Lysobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.019438	16542	85011	Kitasatosporales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.017899	15232	118964	Deinococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.016735	14242	768507	Cytophagales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.016652	14171	213849	Campylobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.013491	11481	204457	Sphingomonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.012224	10403	203491	Fusobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.011815	10055	53433	Halanaerobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.011258	9581	135619	Oceanospirillales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.010547	8976	2037	Actinomycetales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.010229	8705	85009	Propionibacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.010002	8512	2191	Methanomicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.009955	8472	85012	Streptosporangiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.009431	8026	213115	Desulfovibrionales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.008926	7596	1853229	Chitinophagales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.008540	7268	84999	Coriobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.008059	6858	204455	Rhodobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007998	6806	1853223	Balneolales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007559	6433	135625	Pasteurellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007478	6364	1643822	Eggerthellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007293	6206	3082768	Christensenellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007254	6173	1643686	Brachyspirales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.007080	6025	1240482	Orbales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.006718	5717	84993	Acidimicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.006461	5498	204441	Rhodospirillales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.006267	5333	2494207	Capsulimonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005785	4923	3396146	Aerosakkonematales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005768	4909	3120394	Acetivibrionales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005538	4713	2085	Mycoplasmatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005449	4637	2235	Halobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005441	4630	2963098	Desulfuribacillales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005422	4614	72273	Thiotrichales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005351	4554	1118	Chroococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005262	4478	32003	Nitrosomonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005177	4406	206351	Neisseriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.005043	4292	186329	Acholeplasmatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004969	4229	1663425	Fimbriimonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004550	3872	135622	Alteromonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004377	3725	189778	Nitrospirales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004042	3440	69541	Desulfuromonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.004003	3407	649776	Synergistales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003985	3391	2975519	Candidatus Izemoplasmatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003768	3207	3024411	Desulfobulbales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003723	3168	2770089	Thermosediminibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003719	3165	1382929	Ardenticatenales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003647	3104	1643947	Petrotogales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003515	2991	135613	Chromatiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003498	2977	1706369	Cellvibrionales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003469	2952	68933	Thermales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003179	2705	255473	Parvularculales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003157	2687	278082	Victivallales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.003155	2685	136	Spirochaetales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002843	2419	292629	Anaerolineales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002773	2360	135624	Aeromonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002745	2336	3031668	Geobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002678	2279	118969	Legionellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002658	2262	795748	Ignavibacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002572	2189	2762275	Trueperales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002552	2172	3039167	Neomoorellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002370	2017	1890443	Spirulinales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002189	1863	218872	Fibrobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002170	1847	68295	Thermoanaerobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002153	1832	29	Myxococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002087	1776	2787154	Culicoidibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.002002	1704	1843488	Acidaminococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001967	1674	3104718	Desulfitisporales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001855	1579	485256	Natranaerobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001792	1525	235899	Nautiliales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001781	1516	1191478	Magnetococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001774	1510	2691355	Gemmatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001758	1496	2800059	Maricaulales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001692	1440	94695	Methanosarcinales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001559	1327	204458	Caulobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001499	1276	1643688	Leptospirales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001492	1270	766	Rickettsiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001389	1182	3085098	Candidatus Promineifilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001349	1148	2182	Methanococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001320	1123	1936988	Saprospirales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001257	1070	2800060	Hyphomonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001253	1066	191393	Deferribacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001244	1059	1485951	Desulfurobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001235	1051	3079757	Gomontiellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001217	1036	2790996	Mycoplasmoidales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001206	1026	206389	Rhodocyclales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001149	978	3120405	Caldicoprobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001058	900	1217098	Jiangellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.001000	851	1293499	Nitrospinales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000971	826	3082380	Candidatus Darwinibacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000967	823	1150	Oscillatoriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000962	819	1970189	Marinilabiliales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000932	793	3120427	Lutisporales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000918	781	112	Planctomycetales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000844	718	1890424	Synechococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000837	712	213481	Bdellovibrionales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000831	707	570264	Methanocellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000819	697	588673	Solirubrobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000818	696	3373481	Nitrosotaleales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000800	681	3448006	Liberiplasmatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000798	679	32069	Aquificales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000663	564	213118	Desulfobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000644	548	742030	Salinisphaerales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000642	546	1643682	Geodermatophilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000608	517	2419	Thermotogales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000590	502	471822	Haloplasmatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000585	498	204433	Terriglobales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000550	468	2905377	Methanotrichales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000549	467	1127829	Candidatus Brocadiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000511	435	2682226	Tepidiformales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000478	407	51291	Chlamydiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000459	391	48461	Verrucomicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000458	390	191411	Chlorobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000442	376	1921002	Holosporales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000418	356	362534	Kordiimonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000392	334	3128951	Stomatohabitantales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000389	331	1860137	Chitinispirillales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000349	297	1853224	Rhodothermales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000337	287	84996	Rubrobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000335	285	414714	Catenulisporales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000316	269	3108222	Geminicoccales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000273	232	2024979	Bacteriovoracales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000253	215	1963360	Parachlamydiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000246	209	2995212	Candidatus Palauibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000244	208	189772	Herpetosiphonales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000242	206	453227	Desulfarculales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000207	176	2887327	Kangiellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000206	175	622452	Kineosporiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000202	172	85014	Glycomycetales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000201	171	1643946	Kosmotogales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000200	170	3002444	Thermodesulfobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000196	167	134621	Limisphaerales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000194	165	32064	Chloroflexales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000193	164	1202465	Dehalococcoidales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000174	148	85013	Frankiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000173	147	2811503	Thermodesulfovibrionales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000173	147	3120428	Mahellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000172	146	3031460	Candidatus Desulfofervidales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000172	146	3079749	Leptolyngbyales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000170	145	1836787	Chthoniobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000169	144	307595	Gloeobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000162	138	415000	Opitutales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000152	129	3039985	Nodosilineales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000147	125	641854	Elusimicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000142	121	2691356	Isosphaerales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000141	120	622450	Actinopolysporales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000139	118	3440664	Pedosphaerales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000137	117	388448	Ktedonobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000137	117	3096664	Candidatus Nemesobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000137	117	3159503	Candidatus Methylomirabilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000133	113	188710	Thermodesulfobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000133	113	1775403	Nevskiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000126	107	2024973	Silvanigrellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000122	104	3467296	Allobogoriellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000121	103	135615	Cardiobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000116	99	2983161	Candidatus Spongiisociales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000113	96	2691354	Pirellulales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000105	89	2847775	Atribacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000102	87	203487	Dictyoglomales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000098	83	2258	Thermococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000098	83	2786987	Koleobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000094	80	1783344	Endomicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000090	77	225057	Acidithiobacillales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000087	74	1505233	Chitinivibrionales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000086	73	186332	Anaeroplasmatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000085	72	2495578	Sporichthyales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000085	72	2805415	Jatrophihabitantales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000085	72	2900649	Candidatus Geothermincolales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000085	72	3084968	Thiohalomonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000083	71	3031713	Nannocystales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000078	66	114380	Desulfurococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000076	65	2881377	Pseudanabaenales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000074	63	3079744	Acaryochloridales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000073	62	2093825	Candidatus Saccharimonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000072	61	1643684	Nakamurellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000071	60	510684	Sneathiellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000069	59	1643687	Brevinematales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000069	59	3031712	Polyangiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000066	56	2806304	Aggregatilineales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000065	55	2231	Archaeoglobales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000060	51	2785442	Candidatus Binatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000060	51	3399795	Candidatus Johnevansiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000056	48	2202723	Methanonatronarchaeales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000056	48	2900651	Candidatus Aquicultorales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000055	47	3079753	Coleofasciculales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000054	46	580371	Mariprofundales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000053	45	213113	Desulfurellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000052	44	2066490	Emcibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000052	44	3039989	Desertifilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000049	42	278081	Lentisphaerales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000049	42	415001	Puniceicoccales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000048	41	52604	Pleurocapsales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000048	41	213462	Syntrophobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000048	41	2498707	Candidatus Cryosericales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000048	41	2793120	Motilibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000046	39	2599632	Vulcanimicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000045	38	219686	Gemmatimonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000045	38	3060226	Steroidobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000042	36	54526	Candidatus Pelagibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000040	34	475963	Caldilineales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	1921782	Kiritimatiellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	2171984	Candidatus Nanogingivales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	2483366	Sedimentisphaerales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000035	30	2910145	Vicinamibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000033	28	693072	Caldisericales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000033	28	1154584	Gaiellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000033	28	2914038	Syntrophales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000029	25	666506	Phycisphaerales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000029	25	1442155	Ferrovales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000028	24	3071001	Caldicellulosiruptorales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	1235850	Methanomassiliicoccales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	1676649	Limnochordales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	2495577	Cryptosporangiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000026	22	3381667	Gaopeijiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000024	20	2301	Thermoplasmatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000024	20	3079751	Geitlerinematales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000020	17	908621	Euzebyales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000020	17	1921567	Micropepsales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	31932	Nitrosopumilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	1617890	Arenicellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	1955042	Gloeomargaritales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	2093819	Candidatus Nanosynbacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	2932361	Candidatus Troglogloeales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	3079748	Oculatellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000019	16	3085111	Thiohalorhabdales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000018	15	2138246	Coprothermobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	332160	Bryobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	574975	Holophagales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	1553901	Oligoflexales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000016	14	3477252	Fervidibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	1779134	Bradymonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	1804992	Longimicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	3086087	Dethiobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000015	13	3120453	Thermosulfidibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	2281	Sulfolobales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	1077263	Chthonomonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	1692040	Acidiferrobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	1748771	Blastocatellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	1769716	Mesoaciditogales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000014	12	3085656	Monoglobales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	133814	Candidatus Poseidoniales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	2493627	Minwuiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000013	11	3104269	Woeseiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000012	10	3126997	Candidatus Dormibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	189769	Chrysiogenales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	533206	Acanthopleuribacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	1755823	Egicoccales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	1934945	Immundisolibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2171983	Candidatus Nanoperiomorbales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2974935	Candidatus Deferrimicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2975284	Candidatus Comchoanobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000009	8	2997383	Anaerosomatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	119069	Hydrogenophilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	1962852	Calditrichales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	2066484	Iodidimonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	2897347	Candidatus Uabimicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3073606	Candidatus Hakubellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3277337	Candidatus Entotheonellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000008	7	3399777	Candidatus Thermobaculales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	189776	Thermomicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	596497	Nitriliruptorales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	717963	Methylacidiphilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	1042313	Armatimonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2211217	Vampirovibrionales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2843198	Miltoncostaeales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2917696	Salsipaludibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	2978121	Candidatus Rariloculales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000007	6	3462472	Radicibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2597219	Candidatus Acidulidesulfobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2762272	Terrimicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	2907185	Tichowtungiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3024414	Desulfatiglandales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3031714	Haliangiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000006	5	3035921	Halorutilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	85001	Sphaerobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	1033996	Nitrososphaerales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	1495647	Thermoflexales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2039638	Candidatus Nanopelagicales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2109260	Abditibacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	2171993	Candidatus Nanosyncoccales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3072902	Candidatus Hecatellales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3085109	Thiohalobacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3119832	Candidatus Puniceispirillales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3240458	Candidatus Pheonicimicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3377526	Fidelibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3409818	Winmispirales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000005	4	3416326	Candidatus Pollutiaquabacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	588674	Thermoleophilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	768667	Thermogemmatisporales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1508535	Kallotenuales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1747768	Egibacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	1890505	Chroococcidiopsidales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2364208	Phototrophicales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2562243	Thermotomaculales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2798919	Candidatus Hodarchaeales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2900652	Candidatus Subteraquimicrobiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	2986809	Candidatus Culexarchaeles
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3031453	Dissulfuribacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3031655	Desulfobaccales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000004	3	3681502	Chloracidobacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	1771349	Tepidisphaerales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2798921	Candidatus Borrarchaeales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2814222	Deferrisomatales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2823878	Candidatus Jordarchaeales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	2856582	Thermofilales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3079745	Prochlorotrichales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3104746	Methylohalomonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3121608	Candidatus Bipolaricaulales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3127004	Candidatus Aeolococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3143247	Candidatus Lucifugimonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3151663	Natronospirales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000002	2	3366643	Promethearchaeales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	1643683	Acidothermales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	1968909	Candidatus Nitrosocaldales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2497644	Candidatus Babeliales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2819262	Syntrophorhabdales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2885734	Candidatus Micrarchaeales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2900568	Candidatus Absconditabacterales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2923288	Candidatus Sulfidibacteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	2971418	Candidatus Alkanophagales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3016346	Futianiales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3039864	Candidatus Cloacimonadales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3055126	Candidatus Hadarchaeales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3085113	Thiohalospirales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3120429	Neosynechococcales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3139175	Candidatus Chloroheliales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000001	1	3444225	Kolteriales
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.000000	0	10239	Viruses
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	0.515157	438403	NA	cannot be assigned to a (non-viral) order
+results_refseq_nr/6PEH_6/6PEH_6.refseq_nr.kaiju.out	59.274119	50442804	NA	unclassified
