@@ -1,0 +1,47 @@
+[05/04/26 11:05:41]: /opt/linux/rocky/8.x/x86_64/pkgs/amptk/1.6/bin/amptk taxonomy -f BEEHONEY_ITS_ASV.cluster.otus.fa -i BEEHONEY_ITS_ASV.cluster.otu_table.txt -d ITS1
+
+[05/04/26 11:05:41]: OS: Rocky Linux 8.10, 256 cores, ~ 1057 GB RAM. Python: 3.10.0
+[05/04/26 11:05:41]: Python Modules: numpy v1.24.2, pandas v2.3.3, matplotlib v3.7.1, psutil v7.2.1, natsort v8.4.0, biopython v1.79, edlib v1.3.9, biom-format v2.1.14
+[05/04/26 11:05:41]: AMPtk v1.6.0, VSEARCH v2.22.1
+[05/04/26 11:05:41]: Loading FASTA Records
+[05/04/26 11:05:41]: 2,426 OTUs
+[05/04/26 11:05:41]: Global alignment OTUs with usearch_global (VSEARCH) against ITS.udb
+[05/04/26 11:05:41]: vsearch --usearch_global BEEHONEY_ITS_ASV.cluster.otus.fa --db /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/amptk/1.6/lib/python3.10/site-packages/amptk/DB/ITS.udb --userout BEEHONEY_ITS_ASV.cluster.usearch.txt --id 0.7 --strand both --output_no_hits --maxaccepts 500 --top_hits_only --userfields query+target+id --notrunclabels --threads 256
+[05/04/26 11:05:45]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading UDB file /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/amptk/1.6/lib/python3.10/site-packages/amptk/DB/ITS.udb 100%
+Reorganizing data in memory 100%
+Creating bitmaps 100%
+Parsing abundances 100%
+473967503 nt in 1355694 seqs, min 100, max 6778, avg 350
+Searching 100%
+Matching unique query sequences: 1642 of 2426 (67.68%)
+
+[05/04/26 11:05:45]: Classifying OTUs with SINTAX (VSEARCH)
+[05/04/26 11:05:45]: vsearch --sintax BEEHONEY_ITS_ASV.cluster.otus.fa --db /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/amptk/1.6/lib/python3.10/site-packages/amptk/DB/ITS1_SINTAX.udb --tabbedout BEEHONEY_ITS_ASV.cluster.sintax.txt -sintax_cutoff 0.8 --threads 256 --notrunclabels
+[05/04/26 11:05:48]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading UDB file /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/amptk/1.6/lib/python3.10/site-packages/amptk/DB/ITS1_SINTAX.udb 100%
+Reorganizing data in memory 100%
+Creating bitmaps 100%
+Parsing abundances 100%
+41633388 nt in 139162 seqs, min 100, max 6261, avg 299
+Classifying sequences 100%
+Classified 1929 of 2426 sequences (79.51%)
+
+[05/04/26 11:05:48]: SINTAX results parsed, resulting in 1,901 taxonomy predictions
+[05/04/26 11:05:48]: Global alignment results parsed, resulting in 2,426 taxonomy predictions
+[05/04/26 11:05:48]: Combined OTU taxonomy dictionary contains 2,426 taxonomy predictions
+[05/04/26 11:05:48]: Appending taxonomy to OTU table and OTUs
+[05/04/26 11:05:48]: Generating phylogenetic tree (MAFFT/FastTree)
+[05/04/26 11:05:48]: mafft BEEHONEY_ITS_ASV.cluster.otus.fa
+[05/04/26 11:06:00]: fasttree -nt BEEHONEY_ITS_ASV.cluster.mafft.fasta
+[05/04/26 11:09:28]: Taxonomy finished: BEEHONEY_ITS_ASV.cluster.taxonomy.txt
+[05/04/26 11:09:28]: Classic OTU table with taxonomy: BEEHONEY_ITS_ASV.cluster.otu_table.taxonomy.txt
+[05/04/26 11:09:29]: biom convert -i BEEHONEY_ITS_ASV.cluster.otu_table.txt -o BEEHONEY_ITS_ASV.cluster.biom.tmp --table-type OTU table --to-json
+[05/04/26 11:09:30]: biom add-metadata -i BEEHONEY_ITS_ASV.cluster.biom.tmp -o BEEHONEY_ITS_ASV.cluster.biom --observation-metadata-fp BEEHONEY_ITS_ASV.cluster.qiime.taxonomy.txt --sc-separated taxonomy --output-as-json
+[05/04/26 11:09:32]: BIOM OTU table created: BEEHONEY_ITS_ASV.cluster.biom
+[05/04/26 11:09:32]: OTUs with taxonomy: BEEHONEY_ITS_ASV.cluster.otus.taxonomy.fa
+[05/04/26 11:09:32]: OTU phylogeny: BEEHONEY_ITS_ASV.cluster.tree.phy

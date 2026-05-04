@@ -1,0 +1,126 @@
+[05/04/26 10:52:56]: /opt/linux/rocky/8.x/x86_64/pkgs/amptk/1.6/bin/amptk dada2 -i BEEHONEY_ITS_ASV.demux.fq.gz -o BEEHONEY_ITS_ASV --uchime_ref ITS --usearch usearch9 -e 0.9 --cpus 48
+
+[05/04/26 10:52:56]: OS: Rocky Linux 8.10, 256 cores, ~ 1057 GB RAM. Python: 3.10.0
+[05/04/26 10:52:56]: Python Modules: numpy v1.24.2, pandas v2.3.3, matplotlib v3.7.1, psutil v7.2.1, natsort v8.4.0, biopython v1.79, edlib v1.3.9, biom-format v2.1.14
+[05/04/26 10:52:57]: AMPtk v1.6.0, VSEARCH v2.22.1
+[05/04/26 10:52:58]: R v4.2.2; DADA2 v1.26.0
+[05/04/26 10:52:58]: Loading FASTQ Records
+[05/04/26 10:52:58]: pigz --decompress -c -p 48 /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/BEEHONEY_ITS_ASV/BEEHONEY_ITS_ASV.demux.fq.gz
+[05/04/26 10:53:07]: vsearch --fastq_filter /bigdata/stajichlab/shared/projects/VitLab_HoneyPollen_Microbiome/amplicon/BEEHONEY_ITS_ASV/BEEHONEY_ITS_ASV.cleaned_input.fq --fastq_qmax 55 --fastaout BEEHONEY_ITS_ASV.original.fa --threads 48
+[05/04/26 10:53:36]: WARNING: The fastq_filter command does not support multithreading.
+Only 1 thread used.
+vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading input file 100%
+3166868 sequences kept (of which 0 truncated), 0 sequences discarded.
+
+[05/04/26 10:53:38]: 3,166,868 reads (1.3 GB)
+[05/04/26 10:53:38]: Quality Filtering, expected errors < 0.9
+[05/04/26 10:53:38]: vsearch --fastq_filter BEEHONEY_ITS_ASV.cleaned_input.fq --fastq_maxee 0.9 --fastqout BEEHONEY_ITS_ASV.qual-filtered.fq --fastq_qmax 55 --fastq_maxns 0 --threads 48
+[05/04/26 10:54:08]: WARNING: The fastq_filter command does not support multithreading.
+Only 1 thread used.
+vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading input file 100%
+3053281 sequences kept (of which 0 truncated), 113587 sequences discarded.
+
+[05/04/26 10:54:10]: 3,053,281 reads passed
+[05/04/26 10:54:10]: Splitting FASTQ file by Sample into individual files
+[05/04/26 10:56:55]: Dropping B-SVH15-Q15.fastq, B-SVH9-Q9.fastq as fewer than 10 reads
+[05/04/26 10:56:55]: Running DADA2 pipeline on each sample
+[05/04/26 10:56:55]: Rscript --vanilla /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/amptk/1.6/lib/python3.10/site-packages/amptk/dada2_pipeline_nofilt.R BEEHONEY_ITS_ASV_filtered BEEHONEY_ITS_ASV.dada2.csv ion FALSE 48 consensus
+[05/04/26 10:59:59]: 4,214 total amplicon sequence variants (ASVs)
+[05/04/26 10:59:59]: 153 denovo chimeras removed
+[05/04/26 10:59:59]: 4,061 valid ASVs
+[05/04/26 11:00:00]: Chimera Filtering (VSEARCH) using ITS DB
+[05/04/26 11:00:00]: vsearch --mindiv 1.0 --uchime_ref BEEHONEY_ITS_ASV.otus.tmp --db /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/amptk/1.6/lib/python3.10/site-packages/amptk/DB/ITS.extracted.fa --nonchimeras BEEHONEY_ITS_ASV.ASVs.fa --threads 48
+[05/04/26 11:00:14]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading file /bigdata/operations/pkgadmin/opt/linux/centos/8.x/x86_64/pkgs/amptk/1.6/lib/python3.10/site-packages/amptk/DB/ITS.extracted.fa 100%
+473967503 nt in 1355694 seqs, min 100, max 6778, avg 350
+Masking 100%
+Counting k-mers 100%
+Creating k-mer index 100%
+Detecting chimeras 100%
+Found 341 (8.4%) chimeras, 3710 (91.4%) non-chimeras,
+and 10 (0.2%) borderline sequences in 4061 unique sequences.
+Taking abundance information into account, this corresponds to
+341 (8.4%) chimeras, 3710 (91.4%) non-chimeras,
+and 10 (0.2%) borderline sequences in 4061 total sequences.
+
+[05/04/26 11:00:14]: 3,710 ASVs passed, 351 ref chimeras removed
+[05/04/26 11:00:14]: Validating ASV orientation
+[05/04/26 11:00:14]: vsearch --usearch_global BEEHONEY_ITS_ASV.ASVs.fa.bak --db BEEHONEY_ITS_ASV.ASVs.fa.bak --self --id 0.95 --strand both --userout orient-map.txt --userfields query+target+qstrand+id
+[05/04/26 11:00:15]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading file BEEHONEY_ITS_ASV.ASVs.fa.bak 100%
+721784 nt in 3710 seqs, min 100, max 250, avg 195
+Masking 100%
+Counting k-mers 100%
+Creating k-mer index 100%
+Searching 100%
+Matching unique query sequences: 2185 of 3710 (58.89%)
+
+[05/04/26 11:00:15]: Dropping 0 OTUs: 
+[05/04/26 11:00:15]: 3,710 ASVs validated (0 dropped)
+[05/04/26 11:00:15]: Mapping reads to DADA2 ASVs
+[05/04/26 11:00:15]: vsearch --usearch_global BEEHONEY_ITS_ASV.original.fa --db BEEHONEY_ITS_ASV.ASVs.fa --id 0.97 --uc BEEHONEY_ITS_ASV.dada2.map.uc --strand plus --otutabout BEEHONEY_ITS_ASV.otu_table.txt --threads 48
+[05/04/26 11:01:16]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading file BEEHONEY_ITS_ASV.ASVs.fa 100%
+721784 nt in 3710 seqs, min 100, max 250, avg 195
+Masking 100%
+Counting k-mers 100%
+Creating k-mer index 100%
+Searching 100%
+Matching unique query sequences: 3061068 of 3166868 (96.66%)
+Writing OTU table (classic) 100%
+
+[05/04/26 11:01:16]: 3,061,068 reads mapped to ASVs (97%)
+[05/04/26 11:01:16]: Clustering ASVs at 97% to generate biological OTUs
+[05/04/26 11:01:16]: vsearch --cluster_smallmem BEEHONEY_ITS_ASV.ASVs.fa --centroids BEEHONEY_ITS_ASV.cluster.otus.fa --id 0.97 --strand plus --relabel OTU --qmask none --usersort --threads 48
+[05/04/26 11:01:17]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading file BEEHONEY_ITS_ASV.ASVs.fa 100%
+721784 nt in 3710 seqs, min 100, max 250, avg 195
+Counting k-mers 100%
+Clustering 100%
+Sorting clusters 100%
+Writing clusters 100%
+Clusters: 2426 Size min 1, max 54, avg 1.5
+Singletons: 1830, 49.3% of seqs, 75.4% of clusters
+
+[05/04/26 11:01:17]: 2,426 OTUs generated
+[05/04/26 11:01:17]: vsearch --usearch_global BEEHONEY_ITS_ASV.ASVs.fa --db BEEHONEY_ITS_ASV.cluster.otus.fa --id 0.97 --uc BEEHONEY_ITS_ASV.ASV_map.uc --strand plus --threads 48
+[05/04/26 11:01:17]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading file BEEHONEY_ITS_ASV.cluster.otus.fa 100%
+471329 nt in 2426 seqs, min 100, max 250, avg 194
+Masking 100%
+Counting k-mers 100%
+Creating k-mer index 100%
+Searching 100%
+Matching unique query sequences: 3710 of 3710 (100.00%)
+
+[05/04/26 11:01:17]: Mapping reads to OTUs
+[05/04/26 11:01:17]: vsearch --usearch_global BEEHONEY_ITS_ASV.original.fa --db BEEHONEY_ITS_ASV.cluster.otus.fa --id 0.97 --uc BEEHONEY_ITS_ASV.map.uc --strand plus --otutabout BEEHONEY_ITS_ASV.cluster.otu_table.txt --threads 48
+[05/04/26 11:02:16]: vsearch v2.22.1_linux_x86_64, 1007.7GB RAM, 256 cores
+https://github.com/torognes/vsearch
+
+Reading file BEEHONEY_ITS_ASV.cluster.otus.fa 100%
+471329 nt in 2426 seqs, min 100, max 250, avg 194
+Masking 100%
+Counting k-mers 100%
+Creating k-mer index 100%
+Searching 100%
+Matching unique query sequences: 3056927 of 3166868 (96.53%)
+Writing OTU table (classic) 100%
+
+[05/04/26 11:02:16]: 3,056,927 reads mapped to OTUs (97%)
