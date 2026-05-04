@@ -1,0 +1,785 @@
+#OTU ID	B-10PP-10PP	B-10PSH-10P	B-11SVH-11	B-11SVP-11S	B-12TFH-12	B-12TFP-12T	B-1CCP-1C	B-4MIH-4M	B-4MMP-4P	B-4MNIP-4I	B-5TAP-F8	B-6PEH-6	B-6PEP-6P	B-8NMH-8H	B-8NMP-8P	B-SVH1-Q1	B-SVH10-Q10	B-SVH11-Q11	B-SVH12-Q12	B-SVH14-Q14	B-SVH2-Q2	B-SVH3-Q3	B-SVH4-Q4	B-SVH5-Q5	B-SVH6-Q6	B-SVH7-Q7	B-SVH8-Q8	B-VEN-B12	B-VEN-C10	B-VEN-D9	B-VEN-E10	B-VEN-F10	B-VEN-F11	B-VEN-G10	B-VEN-H11	Taxonomy
+OTU1	1	0	0	0	0	1	2	0	1	0	4	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	69023	3	0	0	3	0	0	6	SS|0.8600|X95921_S000381398;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae
+OTU10	0	0	0	1	0	0	0	0	1	209	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	1	1	2140	222	0	84	2	0	0	GS|100.0|AY362908_S000368472;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pasteurellales,f:Pasteurellaceae,g:Haemophilus;
+OTU100	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	4	0	51	0	0	0	GS|100.0|X81062_S000005442;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Actinomycetaceae,g:Actinomyces;
+OTU101	0	0	2	0	706	0	78	0	607	0	46	0	157	0	0	10	7	0	9	8	67	7	42	831	1278	8	43	0	0	3	0	2	0	18	0	SS|0.8600|AY253658_S000473521;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU102	1	0	0	0	0	0	0	0	13	92	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	359	14	9	3	0	0	0	0	GS|100.0|X82054_S000011560;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Corynebacteriaceae,g:Corynebacterium;
+OTU103	0	0	0	0	3	0	0	0	2	0	0	0	0	1	0	2	0	0	0	1	0	0	0	0	1	0	0	0	2	0	0	0	0	104	0	GS|98.4|AJ867034_S002951976;k:Bacteria,p:"Fusobacteria",c:Fusobacteriia,o:"Fusobacteriales",f:"Fusobacteriaceae",g:Fusobacterium;
+OTU104	0	0	1	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	2	0	5	0	112	0	GS|100.0|KF443808_S004053236;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Peptostreptococcaceae,g:Romboutsia;
+OTU105	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	134	0	0	0	0	0	0	0	SS|0.8700|FN600641_S001794056;k:Bacteria,p:"Actinobacteria",c:Actinobacteria
+OTU106	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	158	0	0	7	0	0	0	SS|1.0000|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	144	0	0	0	0	0	0	GS|99.6|JX217748_S003303455;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Alcaligenaceae,g:Paenalcaligenes;
+OTU108	0	3	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	20	0	28	0	GSL|97.2|AY180961_S000400217;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU109	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	95	0	0	0	15	0	0	0	GS|99.6|Y08828_S000381439;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Actinomycetaceae,g:Actinomyces;
+OTU11	9	0	8	0	6109	2	1507	1	1720	36	21	0	203	0	1	16	26	17	351	16	218	26	2681	1109	2676	112	1039	16134	6	53	0	298	0	3623	56559	SS|0.9900|AM709786_S001239142;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU110	2	0	0	0	0	0	0	0	0	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	15	21	0	0	0	0	0	GS|100.0|AY188354_S000400852;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Streptococcaceae,g:Streptococcus;
+OTU111	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	92	3	0	18	0	0	0	GS|100.0|AY957555_S000515245;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella;
+OTU112	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	150	0	0	39	0	0	0	SS|1.0000|DQ923116_S001020506;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU113	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	86	0	0	1	0	1	0	SS|1.0000|AB786666_U010573776;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU114	0	0	0	0	24	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	83	0	0	0	0	0	0	SS|1.0000|FR681899_S002304463;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU115	0	0	0	0	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	2	2	80	0	0	5	0	0	0	GS|99.2|AJ580498_S000323688;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Luteibacter;
+OTU116	0	0	0	0	116	2	0	0	4	46	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	2	0	37	0	0	0	GS|99.6|X84251_S000260342;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Corynebacteriaceae,g:Corynebacterium;
+OTU117	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	83	0	GS|100.0|AB037910_S000004827;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiaceae_1,g:Clostridium_sensu_stricto;
+OTU118	0	0	0	0	74	13	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	10	0	0	0	GS|97.2|DQ421388_S000653514;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Halomonadaceae,g:Halotalea;
+OTU119	124	0	17	57	8	1	8	0	1302	189	6	0	11	798	426	40	17	1	175	178	240	41	15	932	1933	5	186	6	28063	5	0	199527	0	12	4	SS|0.9000|AB005893_S000381770;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU12	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3479	1	0	0	0	0	0	0	GS|100.0|Y11374_S000004837;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU120	318	0	2	27	1729	140	5	0	206	223	9	0	26	1661	344	4	2	0	27	167	7	2	5	79	594	1	6	2	29	0	0	305	0	815	0	SS|1.0000|AJ575744_S000264491;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU121	6	0	0	0	6	1	3	0	5	7	7	0	1	0	0	0	0	0	0	3	2	2	6	7	11	0	9	4	2	3	0	17	2	2	1	GS|100.0|D16273_S000979521;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Bacillaceae_1,g:Bacillus;
+OTU122	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	GS|100.0|AB692943_S003277051;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:Bacteroidaceae,g:Bacteroides;
+OTU123	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	79	0	0	5	1	0	0	GS|0.0|None;No hit
+OTU124	5	0	1	1	1	0	7	0	6	2	5	0	1	2	0	0	0	0	0	3	1	0	0	3	3	4	4	4	3	6	0	5	1	3	4	GS|0.0|None;No hit
+OTU125	0	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	GS|100.0|FR870444_S002761931;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiaceae_1,g:Hathewaya;
+OTU126	0	0	0	0	98	6	0	0	2	0	0	0	0	2	0	0	0	0	3	1	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	SS|0.8400|AB052706_S000469304;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU127	0	0	0	0	62	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	GS|0.0|None;No hit
+OTU128	1	0	0	0	0	0	2	0	0	4	3	0	0	1	0	0	0	0	0	0	1	0	0	0	2	0	1	506	4	4	417	39	1640	6	0	GS|100.0|FR749957_S002350820;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Bacillaceae_1,g:Geobacillus;
+OTU129	9	0	0	0	4	0	7	0	2	4	3	0	1	0	0	1	0	0	0	3	1	0	6	4	9	0	7	5	4	1	0	15	1	1	4	GS|100.0|JN175331_S002916775;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU13	0	0	0	0	0	0	0	0	3	0	1	0	0	5	0	0	0	0	0	1	0	0	0	0	6	0	1	25921	3181	0	0	301	0	2612	4	GS|98.4|AF211871_S000021401;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Halomonadaceae,g:Zymobacter;
+OTU130	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU131	0	0	0	0	142	0	0	0	0	1	1	0	1	3	0	0	0	0	0	0	0	0	0	0	3	0	1	2	3	0	0	0	0	5	0	GSL|97.6|AF211871_S000021401;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Halomonadaceae
+OTU132	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4	33	0	1	0	0	0	GS|0.0|None;No hit
+OTU133	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU134	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	30	0	60	0	GS|97.2|X77468_S000006930;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Acidomonas;
+OTU135	8	1	0	1	8	1	4	0	2	5	12	0	3	0	0	0	0	0	1	2	0	0	7	10	3	0	3	11	6	1	0	7	1	1	2	GS|100.0|HE978271_S003288366;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Pseudomonadaceae,g:Pseudomonas;
+OTU136	0	0	0	0	42	0	449	43	333	1	10	0	0	2	0	8	3	0	0	2	26	4	20	502	1253	0	4	0	0	1	0	17	0	139	0	SS|0.9600|AB257864_S000652804;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU137	2	0	0	0	69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	1	0	2	0	0	2	0	1	1	GS|99.6|EF030715_S000824490;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Pseudonocardiaceae,g:Saccharopolyspora;
+OTU138	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	5	0	0	0	0	0	GS|100.0|AJ242986_S000130225;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Alcaligenaceae,g:Alcaligenes;
+OTU139	8	0	0	0	2	0	6	0	6	8	2	0	0	0	0	0	0	0	1	2	1	0	3	7	9	0	2	7	0	1	0	15	4	5	2	GSL|98.0|AB048219_S000008031;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micromonosporaceae
+OTU14	150	6	1143	2	5227	3	102206	181	85908	1679	490	0	25718	35	2	2501	1391	39	6973	404	15236	2509	62401	79276	84526	2544	67652	13	8	2031	2	551	2	384	164	SS|1.0000|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU140	1	0	0	1	1	0	5	0	0	10	3	0	0	0	0	0	0	0	1	2	1	0	5	7	4	0	2	5	5	0	0	11	1	5	0	GS|98.8|EF605262_S000995323;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Sinobacteraceae,g:Steroidobacter;
+OTU141	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	55	0	0	0	SS|0.9900|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU142	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	0	0	SS|1.0000|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU143	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	14	0	0	0	0	30	0	GS|100.0|CP000246_S000721523;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiaceae_1,g:Clostridium_sensu_stricto;
+OTU144	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	GS|0.0|None;No hit
+OTU145	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	1	0	GS|0.0|None;No hit
+OTU146	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	18	0	4	0	0	0	GS|97.6|CP001685_S002290896;k:Bacteria,p:"Fusobacteria",c:Fusobacteriia,o:"Fusobacteriales",f:"Leptotrichiaceae",g:Leptotrichia;
+OTU147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	0	GS|100.0|AY567473_S000360754;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Oceanospirillaceae,g:Nitrincola;
+OTU148	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	GS|97.6|EF067860_S000769040;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Sediminibacterium;
+OTU149	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	SS|1.0000|AF084852_S000428666;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria,o:Bdellovibrionales,f:Bacteriovoracaceae,g:Peredibacter
+OTU15	6	0	0	0	0	0	0	0	0	638	5	0	0	0	0	0	0	0	0	3	0	0	0	0	3	0	0	1153	498	65	0	166	0	2	0	GS|100.0|AY485602_S000420023;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Streptococcaceae,g:Streptococcus;
+OTU150	0	0	0	0	1	0	0	0	3	0	0	0	0	9	0	0	0	0	0	1	0	0	0	1	6	0	0	0	38	0	0	0	0	1	0	GS|99.6|AB023237_S000382660;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Leuconostocaceae,g:Leuconostoc;
+OTU151	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	1	1	1	0	0	2	3	0	1	0	18	0	0	0	0	1	0	GS|100.0|AJ575816_S000416841;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Pseudomonadaceae,g:Pseudomonas;
+OTU152	1	0	1	0	71	2	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	2	0	0	0	0	1	1	1	0	GS|0.0|None;No hit
+OTU153	0	0	0	0	68	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|AF127407_S000387324;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU154	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	1	0	0	0	0	SS|1.0000|JQ039189_S002965237;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales"
+OTU155	0	0	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	1	0	0	0	GS|100.0|Z97069_S000001309;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Corynebacteriaceae,g:Corynebacterium;
+OTU156	0	0	0	0	0	0	0	0	0	12	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	1	0	0	0	GS|98.8|FJ374773_S001199462;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Corynebacteriaceae,g:Corynebacterium;
+OTU157	3	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	1	0	0	0	GS|100.0|EU919515_S001156497;k:Bacteria,p:"Fusobacteria",c:Fusobacteriia,o:"Fusobacteriales",f:"Leptotrichiaceae",g:Leptotrichia;
+OTU158	0	0	0	0	43	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	17	1	0	0	0	0	0	GS|100.0|AB271740_S000727811;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Planococcaceae,g:Kurthia;
+OTU159	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	0	GSL|75.7|AB809161_U010573794;k:Bacteria,p:"Proteobacteria"
+OTU16	0	0	0	0	0	0	0	0	1	0	3	0	0	1	0	0	0	0	0	1	0	0	0	2	0	0	1	710	0	0	50	2	1256	0	0	GS|100.0|X07998_S000381199;k:Bacteria,p:"Deinococcus-Thermus",c:Deinococci,o:Thermales,f:Thermaceae,g:Thermus;
+OTU160	11	1	0	0	12	31	6	0	12	23	47	0	0	26	0	0	0	0	1	9	1	0	6	11	14	2	4	11	238	10	0	15	0	3	3	GSL|99.6|EU216734_S001187641;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:"Enterobacteriales",f:Enterobacteriaceae,g:Pantoea
+OTU161	68	0	12	128	476	112	61	5	1359	5045	987	0	2430	35	126	53	43	2	94	190	131	29	36	772	3181	14	103	2207	9139	59	31	17526	0	39	0	SS|0.9800|AB257864_S000652804;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU162	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	19	19	0	1	0	0	0	0	0	0	0	0	SS|0.8400|AY883415_S000618541;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Chryseobacterium
+OTU163	0	0	0	0	13	0	0	0	5	72	2	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	9	0	0	0	0	1	0	GS|99.6|AB023836_S000000171;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU164	6	0	0	0	2	0	3	0	5	4	1	0	1	0	0	1	0	0	1	4	0	0	4	4	1	0	4	4	1	0	0	5	1	5	2	GS|98.8|AB048219_S000008031;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micromonosporaceae,g:Actinoplanes;
+OTU165	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	1	0	0	0	0	0	GS|99.6|CP001721_S002287829;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Coriobacteriales,f:Coriobacteriaceae,g:Atopobium;
+OTU166	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	7	0	0	0	0	0	GS|99.2|Y13105_S000004779;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella;
+OTU167	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	67	0	0	0	GS|98.0|AJ428413_S000323143;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta;
+OTU168	4	0	1	1	45	2	2	0	5	9	53	0	0	5	0	0	1	0	5	7	1	0	1	3	17	1	2	372	82	0	0	0	0	3	2	GSL|98.8|JX986978_S003749496;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:"Enterobacteriales",f:Enterobacteriaceae
+OTU169	1	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|EU086793_S000979829;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Brevibacteriaceae,g:Brevibacterium;
+OTU17	0	0	0	0	498	191	333	214	31	36	0	0	0	0	0	0	105	0	0	62	60	3	586	2243	2115	8	98	1	0	0	0	5	0	143	0	SS|0.8600|AB110421_S000439512;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU170	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0	0	0	0	38	0	0	0	0	0	SS|0.8200|U41355_S000437598;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Dysgonomonas
+OTU171	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	GS|97.6|AM418384_S000768523;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Pseudoxanthomonas;
+OTU172	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	35	0	0	GS|98.4|FJ157976_S001793551;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Methylobacteriaceae,g:Methylobacterium;
+OTU173	0	0	0	0	1	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	5	0	0	0	35	0	0	0	0	0	0	GS|97.2|AB110421_S000439512;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Saccharibacter;
+OTU174	0	0	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	30	0	GS|99.6|AB542933_S001872427;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Peptostreptococcaceae,g:Clostridium_XI;
+OTU175	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	3	0	0	0	14	0	0	32	0	0	0	GS|98.8|AF305693_S000391005;k:Bacteria,p:"Tenericutes",c:Mollicutes,o:Entomoplasmatales,f:Entomoplasmataceae,g:Mesoplasma;
+OTU176	0	0	0	0	0	0	0	0	10	0	24	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	GS|99.6|AB100738_S000385875;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Sphingobacterium;
+OTU177	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	SS|0.9900|AY264674_S000404964;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU178	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	1	0	23	0	0	0	GS|99.6|L06164_S000414302;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Neisseriales,f:Neisseriaceae,g:Kingella;
+OTU179	9	0	0	0	6	0	3	0	5	7	5	0	0	0	0	1	0	0	0	6	1	0	4	5	6	1	7	13	3	3	0	8	2	2	3	GS|100.0|DQ026666_S000711670;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Streptomycetaceae,g:Streptomyces;
+OTU18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1323	0	0	GS|0.0|None;No hit
+OTU180	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	34	0	0	0	SS|0.8600|X61659_S000008866;k:Bacteria,p:"Proteobacteria"
+OTU181	1	0	1	0	0	1	1	2	6	0	1	0	2	0	0	0	1	0	0	0	0	0	1	0	2	0	2	5	6	1	0	2	0	1	2	GS|0.0|None;No hit
+OTU182	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	GS|100.0|X74066_S000015956;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Acetobacter;
+OTU183	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	SS|0.8700|FJ624399_S001351089;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:"Rhodothermaceae"
+OTU184	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	33	0	0	0	0	0	0	SS|1.0000|D88528_S000414220;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU185	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	8	0	8	0	0	0	GS|99.6|DQ174166_S000645708;k:Bacteria,p:"Proteobacteria",c:Epsilonproteobacteria,o:Campylobacterales,f:Campylobacteraceae,g:Campylobacter;
+OTU186	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	18	0	0	0	0	0	GS|100.0|DQ911241_S000768873;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Peptoniphilaceae,g:Peptoniphilus;
+OTU187	3	0	2	0	107	0	538	0	384	8	1	0	90	1	0	5	3	0	11	1	36	9	175	219	233	8	173	7	0	15	0	1002	0	13504	3	SS|0.9800|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU188	0	0	0	0	0	0	0	0	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	GS|100.0|M58777_S000436371;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Myroides;
+OTU189	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	0	SS|1.0000|AM177497_S000623902;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU19	0	3	0	0	0	0	0	0	0	3	2	0	1	12	7	0	0	0	0	0	0	0	2	1	1	0	0	3935	914	0	0	212	0	3287	3	SS|1.0000|AF513979_S000430917;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae
+OTU190	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	3	0	0	0	0	0	GS|99.6|X67609_S000022403;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Capnocytophaga;
+OTU191	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	5	0	0	0	0	30	0	SS|1.0000|AB304087_S000964244;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU192	0	0	0	0	0	0	0	0	0	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	6	0	0	0	0	0	SS|1.0000|CP001685_S002290896;k:Bacteria,p:"Fusobacteria",c:Fusobacteriia,o:"Fusobacteriales",f:"Leptotrichiaceae",g:Leptotrichia
+OTU193	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	8	0	0	0	0	0	GS|100.0|AF542227_S000432293;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Finegoldia;
+OTU194	5	0	1	1	1	0	2	0	4	0	2	0	0	2	0	1	0	0	0	1	1	1	2	1	2	1	1	1	2	3	0	2	0	2	2	GS|0.0|None;No hit
+OTU195	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	GS|99.2|X87151_S000003483;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Catonella;
+OTU196	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	25	0	0	0	0	GS|98.8|EF067921_S001020536;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Bacillariophyta;
+OTU197	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	24	0	0	0	0	0	0	GS|97.6|JX099545_S004044223;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU198	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	1	2	6	1	0	0	27	0	0	2	1	0	0	GS|100.0|HF558376_S003722567;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Sphingomonas;
+OTU199	1	0	0	0	2	0	1	0	0	4	7	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	0	0	0	0	0	2	0	2	1	GS|98.4|DQ062742_S000537534;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Xanthobacteraceae,g:Pseudolabrys;
+OTU2	234048	436	7	2815	4067	3071	15	2	1410	915	355	0	399	225	310	17	14	0	101	157	66	5	12	478	1365	19	40	260	24422	21	155	37261	2	143	5	SS|0.9800|AB005893_S000381770;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU20	148	0	0	3	0	0	0	0	0	419	1	0	9953	1	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	GS|71.3|AJ294725_S000641838;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Euglenida;
+OTU200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	21	0	0	1	0	0	0	GS|100.0|AF137508_S000387927;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Oxalobacteraceae,g:Herbaspirillum;
+OTU201	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU202	7	0	2	1	2938	1	82	1	402	30	45	0	370	4	1	1	6	0	23	49	34	4	17	254	683	6	20	0	6	5	0	345	0	63	0	SS|0.9900|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU203	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	4	0	0	0	0	0	GS|99.6|AF473834_S000395077;k:Bacteria,p:Firmicutes,c:Negativicutes,o:Selenomonadales,f:Veillonellaceae,g:Megasphaera;
+OTU204	0	0	0	0	8	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AB110421_S000439512;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria
+OTU205	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	22	0	0	0	0	0	GS|100.0|Y08845_S000008887;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Oxalobacteraceae,g:Janthinobacterium;
+OTU206	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	4	0	0	0	0	0	GS|100.0|AB108826_S000334739;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella;
+OTU207	0	0	0	0	2	0	0	0	1	0	0	0	0	1	0	1	3	0	0	0	0	0	0	0	3	0	0	0	13	0	0	5	0	0	0	GS|100.0|AB100802_S000439498;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Streptococcaceae,g:Lactococcus;
+OTU208	1	0	0	0	47	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	10	1	0	0	0	0	0	GS|100.0|AB537169_S001792939;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Dermabacteraceae,g:Brachybacterium;
+OTU209	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	SS|0.9500|AJ272036_S000022775;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae
+OTU21	5	0	0	0	10	0	1	0	1	5	1	0	1	3	0	0	0	0	0	1	0	1	1	2	7	0	6	2709	26	2	0	2	0	1	2	GS|99.6|AY862507_S000478677;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Enterococcaceae,g:Melissococcus;
+OTU210	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|EU438901_S001153066;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU211	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	GS|100.0|HQ676600_S002353694;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Planococcaceae,g:Sporosarcina;
+OTU212	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	GS|97.2|AB021391_S000008025;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Pseudomonadaceae,g:Pseudomonas;
+OTU213	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU214	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU215	0	0	0	0	0	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	18	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU216	5	0	28	0	27923	0	3693	1	4035	76	231	0	688	1	0	50	120	18	1274	18	529	67	6003	2418	7939	223	5023	1069	4	2550	0	3315	1	30716	99	SS|1.0000|D87679_S000414171;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU217	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|AB023970_S000006731;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Peptostreptococcaceae,g:Clostridium_XI;
+OTU218	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	SS|0.9800|AB072735_S000251887;k:Bacteria,p:"Gemmatimonadetes",c:Gemmatimonadetes,o:Gemmatimonadales,f:Gemmatimonadaceae,g:Gemmatimonas
+OTU219	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	18	0	0	0	0	0	GS|98.4|FN650333_S002033010;k:Bacteria,p:"Proteobacteria",c:Epsilonproteobacteria,o:Campylobacterales,f:Campylobacteraceae,g:Arcobacter;
+OTU22	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1434	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU220	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU221	2	0	0	0	47	0	1	0	2	10	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	0	0	0	3	1	0	3	1	0	0	GS|99.6|AY999901_S000581701;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Streptomycetaceae,g:Streptomyces;
+OTU222	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	SS|0.9700|AJ310394_S000351461;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales
+OTU223	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	GS|100.0|AY028926_S000540397;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Staphylococcaceae,g:Jeotgalicoccus;
+OTU224	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	GS|0.0|None;No hit
+OTU225	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	10	5	0	0	0	0	0	GS|98.4|AB031056_S000382898;k:Bacteria,p:Firmicutes,c:Erysipelotrichia,o:Erysipelotrichales,f:Erysipelotrichaceae,g:Solobacterium;
+OTU226	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	2	0	19	0	0	0	0	0	2	SS|0.8600|AB100802_S000439498;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Streptococcaceae
+OTU227	0	0	0	0	1	0	0	0	37	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	7	3	0	0	0	0	0	GS|99.2|EU008088_S002221798;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Ignatzschineria;
+OTU228	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	GS|100.0|AY842259_S000467868;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae,g:Psychrobacter;
+OTU229	1	0	0	0	1	0	0	0	1	3	0	0	0	0	0	0	0	0	0	3	2	0	1	1	3	0	2	0	0	0	0	7	0	1	0	GS|100.0|AB327253_S000925479;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Pseudonocardiaceae,g:Amycolatopsis;
+OTU23	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	9	0	0	0	22716	0	1	GS|100.0|AB176954_S000543032;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Pseudomonadaceae,g:Pseudomonas;
+OTU230	0	0	0	1	1	0	1	0	0	0	2	0	0	1	0	0	0	0	1	0	1	0	1	0	2	0	1	1	0	0	0	20	2	0	0	GS|98.0|FR733885_S002407961;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Methylobacteriaceae,g:Methylobacterium;
+OTU231	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	19	2	0	0	0	0	0	GS|98.4|GU317945_S001874263;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Carnobacteriaceae,g:Jeotgalibaca;
+OTU232	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	19	0	0	0	0	0	GS|100.0|EU364817_S000981418;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Sphingobacterium;
+OTU233	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	19	0	0	0	SS|0.9900|DQ887677_S001020502;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU234	0	0	0	0	1	0	0	0	2	17	1	0	0	0	0	0	0	0	1	1	0	0	3	5	7	1	3	3	0	0	0	1	0	1	0	GS|100.0|AY773186_S000444177;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Burkholderiaceae,g:Burkholderia;
+OTU235	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU236	0	0	0	0	1	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	21	0	0	0	0	0	0	GS|99.6|AM398438_S000728147;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardioidaceae,g:Nocardioides;
+OTU237	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	GS|0.0|None;No hit
+OTU238	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	1	0	0	0	0	0	GS|100.0|AJ438050_S000128467;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Corynebacteriaceae,g:Corynebacterium;
+OTU239	0	0	0	0	0	0	0	0	0	5	0	0	0	5	0	0	0	0	0	0	0	0	4	3	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU24	17	0	0	4959	0	0	1	0	15	97	0	0	0	0	0	1	0	0	1	4	1	0	0	4	37	0	7	1	0	0	0	7	1	3	0	SS|0.8500|AB032352_S000469294;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU240	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	SS|1.0000|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU241	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	16	0	0	0	0	0	0	GS|99.6|JQ948045_S003803610;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Intrasporangiaceae,g:Ornithinimicrobium;
+OTU242	0	0	0	0	0	0	1	0	1	0	1	0	0	2	0	0	0	0	0	0	1	0	0	6	10	0	0	0	8	0	0	0	0	0	0	GS|98.8|JQ936674_S003612978;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Orbales,f:Orbaceae,g:Gilliamella;
+OTU243	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	GS|100.0|L16474_S000414457;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella;
+OTU244	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	GS|100.0|AJ437696_S000125539;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae,g:Psychrobacter;
+OTU245	3	1	0	0	17	1	0	0	1	0	4	0	0	1	0	0	0	0	1	2	0	0	0	0	3	0	3	1	7	0	0	1	0	0	0	GS|100.0|AB266597_S000727776;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Microbacteriaceae,g:Curtobacterium;
+OTU246	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU247	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	14	0	14	0	0	0	GS|100.0|AJ290755_S000245507;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pasteurellales,f:Pasteurellaceae,g:Haemophilus;
+OTU248	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	GS|100.0|AF061006_S000428245;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Enterococcaceae,g:Enterococcus;
+OTU249	0	0	0	0	17	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	1	0	0	0	0	0	GS|100.0|AM158906_S000735024;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Brevibacteriaceae,g:Brevibacterium;
+OTU25	1	0	7	0	10	0	0	30	315	0	393	0	21	48	8	90	24	0	5	38	19	2	12	164	351	4	26	3938	82	12	0	30	0	31	2	GS|99.6|JQ771132_S003291669;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae,g:Acinetobacter;
+OTU250	0	0	0	0	16	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	5	3	0	0	0	0	0	0	0	0	3	0	GS|99.2|AB023838_S000006851;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Leuconostocaceae,g:Weissella;
+OTU251	9	0	4	0	1653	0	11	0	407	74	14	0	335	3	0	10	1	0	41	7	41	9	10	353	824	4	42	1	1	3	0	219	0	31	1	SS|0.8800|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU252	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	GS|0.0|None;No hit
+OTU253	6	0	0	0	3	6	1	0	0	1	1	0	0	1	0	0	1	0	0	1	1	0	4	0	9	1	2	4	20	1	0	13	3	3	2	GS|98.8|AY894691_S000482243;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Sphingomonas;
+OTU254	0	0	0	0	3	0	0	0	1	1	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	22	0	0	0	0	0	GS|99.6|AF057645_S000428195;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Pseudomonadaceae,g:Pseudomonas;
+OTU255	0	12	0	0	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	SS|1.0000|AB778530_U010573767;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU256	3	0	7	0	284	0	878	0	1163	14	5	0	178	0	0	14	10	0	68	7	105	8	626	658	743	19	565	24	0	36	0	862	0	10429	0	SS|0.8100|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU257	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	SS|1.0000|AF211871_S000021401;k:Bacteria
+OTU258	0	0	0	0	0	0	0	0	0	0	0	0	0	15	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9400|AB052706_S000469304;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU259	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	GS|100.0|KF830707_S003927473;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Pseudomonadaceae,g:Pseudomonas;
+OTU26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2740	0	0	GS|99.6|JN713899_S002961371;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Burkholderiales_incertae_sedis,g:Tepidimonas;
+OTU260	0	0	0	0	15	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9100|AB609748_S002349954;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Brevibacteriaceae,g:Brevibacterium
+OTU261	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	SS|1.0000|AM177497_S000623902;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU262	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	SS|1.0000|AB547446_S002038915;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Dysgonomonas
+OTU263	0	4	0	0	7	0	0	0	4	0	0	0	0	0	0	2	0	0	0	3	0	0	0	0	0	0	0	0	4	3	0	0	0	0	0	GS|100.0|FR733709_S002304666;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:"Enterobacteriales",f:Enterobacteriaceae,g:Proteus;
+OTU264	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	1	0	0	0	0	1	0	0	5	2	0	8	0	0	0	0	0	0	0	0	SS|0.8100|AB032351_S000469293;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU265	0	0	0	0	0	0	0	0	4	2	15	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	10	0	0	0	0	0	GSL|100.0|AF177666_S000388692;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Alcaligenaceae,g:Achromobacter
+OTU266	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	GSL|99.6|X78315_S000007365;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodobacterales,f:Rhodobacteraceae
+OTU267	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	3	0	0	0	0	0	GS|100.0|AY323228_S000461126;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Oribacterium;
+OTU268	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|AM177497_S000623902;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Empedobacter;
+OTU269	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	GS|100.0|AJ306888_S000022484;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Halomonadaceae,g:Halomonas;
+OTU27	1	0	0	0	0	0	0	0	0	39	6	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1888	48	0	23	0	0	0	GS|100.0|AY995767_S000528124;k:Bacteria,p:Firmicutes,c:Negativicutes,o:Selenomonadales,f:Veillonellaceae,g:Veillonella;
+OTU270	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	17	0	1	0	0	0	SS|0.9200|GU129926_S001746046;k:Bacteria,p:"Verrucomicrobia",c:Spartobacteria,g:Terrimicrobium
+OTU271	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	GSL|99.2|AF109792_S000498511;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Dermatophilaceae
+OTU272	0	0	0	0	0	0	0	0	0	0	0	0	0	12	1	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU273	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	GS|0.0|None;No hit
+OTU274	1	0	0	2	2	1	4	2	6	5	5	0	1	0	0	1	0	0	0	4	0	0	1	1	3	0	1	4	3	0	0	5	0	0	2	GS|100.0|EU545982_S001169116;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Listeriaceae,g:Listeria;
+OTU275	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	GS|98.4|AF241844_S000389872;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiaceae_1,g:Clostridium_sensu_stricto;
+OTU276	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU277	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	6	0	0	0	0	0	GS|99.2|FJ796700_S001331402;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Lachnoanaerobaculum;
+OTU278	0	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	GS|98.0|AB304087_S000964244;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Tanticharoenia;
+OTU279	0	0	0	0	0	6	0	0	11	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	GS|100.0|AM490609_S000870754;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Brucellaceae,g:Ochrobactrum;
+OTU28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	465	813	0	0	86	0	35	0	SS|1.0000|AM418384_S000768523;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU280	1	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	GS|100.0|AJ428402_S000112115;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Actinomycetaceae,g:Varibaculum;
+OTU281	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	GS|100.0|AY220740_S000402934;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Roseomonas;
+OTU282	1	0	0	0	0	0	1	0	56	0	0	0	0	0	0	2	0	0	0	0	1	3	0	22	130	0	0	0	25	0	0	21	0	0	0	SS|1.0000|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU283	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	GS|100.0|EU723884_S001099398;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Alteromonadales,f:Idiomarinaceae,g:Aliidiomarina;
+OTU284	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	1	0	3	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU285	0	0	0	0	2	0	0	0	0	4	1	0	0	0	3	0	1	0	0	1	0	0	3	3	3	0	0	1	2	0	0	6	2	2	0	GS|99.2|AF312022_S000391359;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Burkholderiaceae,g:Cupriavidus;
+OTU286	0	0	0	0	0	0	0	0	129	0	0	0	0	2	0	8	0	0	0	0	3	0	0	62	342	0	0	0	10	0	0	6	0	0	0	SS|0.8000|AB786910_U010439604;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU287	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	GS|99.2|X78420_S000004333;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Jonesiaceae,g:Jonesia;
+OTU288	3	0	0	0	4	1	2	0	2	5	0	0	0	1	0	0	0	0	0	2	0	0	4	1	1	0	1	1	0	15	0	5	2	2	1	GS|100.0|HE654001_S003277698;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Mycobacteriaceae,g:Mycobacterium;
+OTU289	0	0	0	0	0	0	0	0	1	4	0	0	1	0	0	0	0	0	0	2	1	0	1	0	1	1	2	2	0	1	0	2	1	0	0	SS|1.0000|FR773158_S002442234;k:Archaea,p:"Thaumarchaeota",o:Nitrososphaerales,f:Nitrososphaeraceae,g:Nitrososphaera
+OTU29	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	1	1	0	1	2	2	0	0	107	2	0	0	14	1919	1	1	GS|99.6|D88668_S000380815;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Enterococcaceae,g:Tetragenococcus;
+OTU290	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	13	0	0	0	SS|1.0000|AB477014_S001416004;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella
+OTU291	4	0	0	2	2	0	2	0	5	5	2	0	0	0	0	0	1	0	0	4	0	0	3	3	6	0	0	5	9	1	0	4	0	1	0	GS|99.2|EF457308_S000834733;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp6,g:Gp6;
+OTU292	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	SS|1.0000|D86513_S000011943;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU293	2	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU294	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	SS|0.9900|EF044213_S001020365;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU295	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	GS|100.0|AF542234_S000432300;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Anaerococcus;
+OTU296	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	SS|1.0000|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU297	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	4	0	0	0	9	0	0	0	0	0	0	SS|1.0000|AJ306299_S000001698;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU298	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.6|X71863_S000006932;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Acetobacter;
+OTU299	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	SS|1.0000|AP007232_S000609085;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU3	25	0	2	33	4	0	7	4	298	90776	177	0	22	3	34	5	1	0	35	53	9	1	1	45	348	7	13	4	1372	26	31	4522	1	3	0	SS|0.9600|D88528_S000414220;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU30	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	965	0	16	113	0	0	0	GS|100.0|Y10756_S000013156;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Xanthomonas;
+OTU300	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	GS|100.0|FJ214659_S001188934;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Bacillaceae_2,g:Marinococcus;
+OTU301	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	9	0	0	0	SS|0.9100|EU907880_S001151267;k:Bacteria,p:"Armatimonadetes",g:Armatimonadetes_gp5
+OTU302	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	GS|99.6|U41355_S000437598;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Dysgonomonas;
+OTU303	2	0	0	0	3	0	0	0	3	2	0	0	1	1	0	0	0	0	0	0	1	0	1	4	0	1	1	1	1	0	0	2	0	2	0	GS|100.0|AF041442_S000427998;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Phyllobacteriaceae,g:Mesorhizobium;
+OTU304	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	GS|0.0|None;No hit
+OTU305	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	12	0	1	0	0	0	0	0	0	0	0	SS|1.0000|AB542054_S002164992;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales
+OTU306	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	SS|1.0000|DQ365924_S000649379;k:Bacteria
+OTU307	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	SS|1.0000|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU308	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	GS|99.2|EU741036_S001350760;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Paenibacillaceae_1,g:Paenibacillus;
+OTU309	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	GS|100.0|HF679039_S003711501;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	886	0	0	GS|99.6|JQ746036_S003285961;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Vulcaniibacterium;
+OTU310	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	11	0	0	0	0	0	0	GS|100.0|EU484189_S001016069;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Brevibacteriaceae,g:Brevibacterium;
+OTU311	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	10	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU312	0	0	0	0	2	0	0	0	4	5	1	0	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	GS|100.0|FJ748683_S001611233;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Stenotrophomonas;
+OTU313	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	9	0	0	0	SS|1.0000|Y07841_S000002016;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Anaerococcus
+OTU314	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|AJ575430_S001168701;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Cloacibacterium;
+OTU315	2	0	1	0	2	1	4	1	1	8	1	0	0	0	0	0	0	0	1	0	0	0	1	0	3	0	0	2	1	0	0	3	0	0	3	GS|100.0|Y14311_S000007321;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Hyphomicrobiaceae,g:Hyphomicrobium;
+OTU316	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	10	0	0	0	0	0	0	GS|99.6|DQ889723_S000735854;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Pedobacter;
+OTU317	4	0	0	0	2	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	1	GS|99.6|FM865977_S001611311;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Chitinophaga;
+OTU318	0	0	0	0	0	0	0	0	10	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	5	0	GS|97.2|Y18176_S000015682;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiaceae_1,g:Clostridium_sensu_stricto;
+OTU319	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	GS|100.0|AF143511_S000388075;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Carnobacteriaceae,g:Alkalibacterium;
+OTU32	0	0	0	0	4	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	2	0	1	0	0	0	0	3	992	2	0	GS|98.8|X55597_S000131075;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Mycobacteriaceae,g:Mycobacterium;
+OTU320	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	GS|100.0|U41347_S000437590;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Capnocytophaga;
+OTU321	0	0	0	0	5	0	0	0	0	9	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU322	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	SS|0.9900|AM084341_S000629296;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU323	2	0	0	1	1	0	2	0	3	1	5	0	0	0	0	0	0	0	0	1	1	0	3	0	3	2	1	1	0	2	0	2	0	2	0	SS|0.9500|CP001854_S001872674;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Solirubrobacterales
+OTU324	0	0	1	0	3	0	3	0	142	0	0	0	0	0	0	5	1	0	0	0	0	0	0	140	342	0	3	0	0	0	0	0	0	1	0	GS|97.6|AB721549_S003658497;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU325	1	0	0	0	4	0	0	0	1	0	0	0	3	3	2	0	0	0	0	0	0	0	3	0	0	0	0	0	19	0	0	0	0	0	0	GS|99.6|EU290155_S000980089;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae,g:Acinetobacter;
+OTU326	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	GS|100.0|AB540985_S001872327;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiaceae_1,g:Clostridium_sensu_stricto;
+OTU327	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	SS|0.9900|AY534872_S000273566;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales
+OTU328	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	GS|99.6|AB196784_S000568191;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Bacillaceae_2,g:Halolactibacillus;
+OTU329	0	0	0	0	1	0	0	0	0	2	0	0	4	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	8	0	0	0	0	0	0	GS|100.0|JX843771_S003789790;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Chryseobacterium;
+OTU33	0	0	1	0	830	0	0	5	13	5	0	0	5	1	0	5	27	6	19	10	10	5	6	337	586	0	47	0	4	0	0	0	0	6	0	GS|100.0|AB542054_S002164992;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Leuconostocaceae,g:Fructobacillus;
+OTU330	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	SS|1.0000|AY544768_S000548164;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae
+OTU331	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	10	0	0	0	0	0	GS|100.0|L04321_S000414273;k:Bacteria,p:"Proteobacteria",c:Epsilonproteobacteria,o:Campylobacterales,f:Campylobacteraceae,g:Campylobacter;
+OTU332	2	0	0	0	0	0	3	0	2	2	2	0	0	0	0	0	0	0	0	1	2	0	2	0	3	0	2	2	0	0	0	3	0	2	0	SS|0.9800|FN669139_S002151306;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria
+OTU333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	SS|1.0000|HE805640_S003287844;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales
+OTU334	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	GS|100.0|X92981_S000375754;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Tsukamurellaceae,g:Tsukamurella;
+OTU335	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	3	2	4	0	0	3	0	0	0	GS|100.0|AB021492_S000382574;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Sphingomonas;
+OTU336	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9900|AY211073_S000401752;k:Bacteria,p:"Verrucomicrobia",c:Subdivision3,g:Subdivision3_genera_incertae_sedis
+OTU337	1	0	0	0	0	0	1	0	0	0	2	0	1	0	0	0	0	0	0	2	0	0	2	2	0	0	3	1	4	0	0	3	2	2	0	GS|100.0|AY493932_S000262566;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp6,g:Gp6;
+OTU338	1	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	GS|98.0|DQ178977_S000603879;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Pseudoxanthomonas;
+OTU339	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	SS|1.0000|AJ575430_S001168701;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU34	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	802	77	0	22	0	0	0	GS|99.6|X55405_S000260849;k:Bacteria,p:"Fusobacteria",c:Fusobacteriia,o:"Fusobacteriales",f:"Fusobacteriaceae",g:Fusobacterium;
+OTU340	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU341	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	GS|99.6|DQ010160_S000541552;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Demequinaceae,g:Demequina;
+OTU342	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	8	0	0	0	0	0	SS|0.9600|JN867054_S003278895;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Flavobacterium
+OTU343	1	0	0	0	0	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	1	1	1	0	SS|0.9800|AF084495_S000428637;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
+OTU344	3	0	0	0	0	0	1	0	1	2	0	0	0	0	0	0	0	0	0	3	0	0	0	2	2	0	1	1	1	0	0	6	2	0	1	SS|0.9000|AB597950_S002440613;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Solirubrobacterales
+OTU345	1	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	13	2	0	0	0	0	0	GS|0.0|None;No hit
+OTU346	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU347	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	SS|0.9900|AJ563932_S000352294;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
+OTU348	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU349	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9100|L06455_S003721966;k:Bacteria,p:"Proteobacteria"
+OTU35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2786	0	0	SS|0.9800|EF687743_S000893518;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria,o:Bdellovibrionales,f:Bdellovibrionaceae,g:Bdellovibrio
+OTU350	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU351	1	0	0	1	0	0	0	0	0	0	1	0	3	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	6	2	0	0	0	8	0	GS|0.0|None;No hit
+OTU352	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	SS|0.9900|KJ469554_S004225612;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Ezakiella
+OTU353	0	0	0	0	0	8	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	GS|100.0|KC934840_S004255533;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Rhizobiaceae,g:Rhizobium;
+OTU354	1	0	0	0	0	0	1	0	4	2	1	0	0	0	0	1	0	0	0	0	0	0	1	1	2	0	0	2	0	0	0	2	0	1	2	GS|100.0|EU781657_S001046746;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Sphingobium;
+OTU355	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	GS|99.2|GU562448_S002034994;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Peptostreptococcaceae,g:Acetoanaerobium;
+OTU356	0	0	0	0	0	0	0	0	5	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	18	0	4	0	0	0	GS|98.8|FM165535_S001047658;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Comamonadaceae,g:Limnohabitans;
+OTU357	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU358	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	SS|0.9600|EF644913_S000893188;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU359	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	GS|99.2|EF100696_S000769180;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Alcaligenaceae,g:Pigmentiphaga;
+OTU36	15	1	0	2	41	15	8	8	30	13	29	0	19	444	0	6	0	0	5	14	3	0	6	44	80	0	14	135	743	40	3	204	6	4	3	GS|100.0|AF129443_S000387364;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:"Enterobacteriales",f:Enterobacteriaceae,g:Raoultella;
+OTU360	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9000|AY840553_S000575568;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella
+OTU361	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	6	0	0	2	0	0	0	GS|0.0|None;No hit
+OTU362	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU363	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	1	0	0	SS|1.0000|GU207876_S002224491;k:Bacteria
+OTU364	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	SS|1.0000|AM177497_S000623902;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU365	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	GS|99.6|GU358699_S001875285;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Sphingobacterium;
+OTU366	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	SS|0.8400|AF542227_S000432293;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI
+OTU367	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	1	0	0	0	0	0	GSL|98.8|EF211071_S000979689;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU368	0	0	0	0	9	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|HF558384_S003722575;k:Bacteria,p:Firmicutes,c:Negativicutes,o:Selenomonadales,f:Veillonellaceae
+OTU369	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	SS|1.0000|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	82	2	0	0	22	0	556	0	GS|97.2|AF211871_S000021401;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Halomonadaceae,g:Zymobacter;
+OTU370	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	0	0	0	0	0	0	GS|99.6|AJ315676_S000008376;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Rhodocyclales,f:Rhodocyclaceae,g:Azoarcus;
+OTU371	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	4	4	0	0	0	0	GS|100.0|AB021403_S000015593;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Burkholderiaceae,g:Ralstonia;
+OTU372	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	1	0	0	0	0	0	0	2	GS|100.0|KC479803_S003717676;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Novosphingobium;
+OTU373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	8	0	0	0	GS|100.0|AY894336_S000576763;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardiaceae,g:Williamsia;
+OTU374	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU375	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	SS|0.8500|HG315620_S003803510;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae"
+OTU376	14	0	18	0	687	0	22231	1	2931	87	20	0	1019	1	0	42	48	0	204	18	752	122	2955	2993	3326	116	2176	42	1	76	0	873	0	9158	8	SS|1.0000|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU377	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	GS|97.2|GU797177_S002224830;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micrococcaceae,g:Citricoccus;
+OTU378	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU379	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8400|AB058395_S000003748;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Pseudonocardiaceae
+OTU38	0	0	0	0	0	0	0	0	5	0	1	0	0	11	0	0	0	0	2	0	0	0	2	21	113	0	3	0	555	0	0	0	0	0	0	GS|100.0|AB572588_S002349739;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU380	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU381	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9500|X80227_S000003180;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Tissierella
+OTU382	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8800|DQ645421_S000712259;k:Bacteria,p:"Bacteroidetes",c:Cytophagia,o:Cytophagales,f:Cyclobacteriaceae
+OTU383	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	GS|100.0|AM232806_S000651736;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Chryseobacterium;
+OTU384	1	0	0	0	2	0	2	0	3	2	2	0	0	0	0	0	0	0	0	1	0	0	3	2	5	0	2	0	2	1	0	3	0	1	0	GS|100.0|EU781656_S001548991;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Rhizobiaceae,g:Rhizobium;
+OTU385	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU386	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9800|HG940537_S004076133;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU387	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	GS|100.0|AB071954_S000334613;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Caulobacterales,f:Caulobacteraceae,g:Brevundimonas;
+OTU388	0	0	0	0	0	0	0	13	2	0	13	0	0	0	0	0	4	0	0	16	5	0	6	66	63	2	7	0	0	0	0	0	0	0	0	SS|0.8400|AM709786_S001239142;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU389	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	SS|1.0000|KM089833_S004224387;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	616	0	0	GS|100.0|AY557615_S000475023;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Silanimonas;
+OTU390	1	0	6	0	7	0	28	30	928	1	6	0	0	0	0	36	13	1	2	14	35	8	15	964	1882	4	22	0	0	0	0	0	1	7	0	SS|0.9200|AB721549_S003658497;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU391	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	5	0	0	0	0	0	GS|98.8|EU414673_S000996242;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Porphyromonas;
+OTU392	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	GS|99.6|M35014_S000436249;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Cardiobacteriales,f:Cardiobacteriaceae,g:Cardiobacterium;
+OTU393	1	0	0	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	0	0	2	0	0	0	0	1	1	GS|0.0|None;No hit
+OTU394	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	7	0	0	0	0	0	0	SS|0.9900|AB778530_U010573767;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	SS|0.8700|M59114_S001199961;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Blautia
+OTU396	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	124	37	0	0	0	0	5	0	GS|97.2|AF360738_S000392300;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Leuconostocaceae,g:Leuconostoc;
+OTU397	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	19	1	0	0	0	0	0	GSL|99.2|AF465833_S000394586;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodobacterales,f:Rhodobacteraceae
+OTU398	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	SS|0.8100|GQ246953_S001576356;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales
+OTU399	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	GS|100.0|AF281158_S000008459;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Planococcaceae,g:Jeotgalibacillus;
+OTU4	10	0	0	1	2	1	3	0	5	7	3	0	1	0	0	0	0	0	0	3	2	0	8	8	6	1	11	880	6	2	12	87	3157	10	3	GS|100.0|AB175636_S000642032;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Methylobacteriaceae,g:Methylobacterium;
+OTU40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	433	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU400	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	7	0	0	0	0	0	SS|0.9300|AB035460_S000383070;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Tannerella
+OTU401	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	SS|0.9600|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU402	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	SS|1.0000|AY167952_S000356152;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Peptostreptococcaceae,g:Peptostreptococcus
+OTU403	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|78.3|AF227161_S000389519;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Legionellales,f:Legionellaceae,g:Legionella;
+OTU404	1	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	60	5	0	10	0	0	0	GS|99.6|AJ234040_S000015295;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Actinomycetaceae,g:Actinomyces;
+OTU405	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	1	7	3	0	0	0	0	GS|99.2|AY043084_S000434839;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Bacillaceae_1,g:Bacillus;
+OTU406	3	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	1	0	0	4	0	0	0	9	1	0	0	GS|99.2|DQ244076_S000620069;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Niastella;
+OTU407	1	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9900|AJ401115_S000246588;k:Bacteria,p:"Verrucomicrobia",c:Subdivision3,g:Subdivision3_genera_incertae_sedis
+OTU408	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	3	0	1	0	GS|100.0|AB006167_S000007128;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micromonosporaceae,g:Virgisporangium;
+OTU409	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	SS|1.0000|JQ936674_S003612978;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Orbales,f:Orbaceae
+OTU41	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	574	0	0	6	0	0	0	GS|100.0|AB523780_S002235747;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU410	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|M59114_S001199961;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Blautia;
+OTU411	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU412	0	0	0	0	6	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.6|JX966231_S003748796;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Flavobacterium;
+OTU413	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.2|AJ290448_S000006814;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardiopsaceae,g:Nocardiopsis;
+OTU414	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9800|HM626177_S002232208;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales
+OTU415	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	7	0	SS|1.0000|AF513979_S000430917;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae
+OTU416	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	SS|1.0000|AY884570_S000550679;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU417	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|Y15716_S000005060;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Aerococcaceae,g:Facklamia;
+OTU418	0	0	0	0	0	0	0	0	2	5	0	0	0	1	0	0	0	0	0	1	0	0	4	0	3	0	1	3	1	0	0	1	0	0	0	GS|98.4|EF688526_S000893528;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Oxalobacteraceae,g:Massilia;
+OTU419	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU42	1	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	52	0	1	106	10	813	6	0	GS|100.0|EU522083_S001187772;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Enterococcaceae,g:Tetragenococcus;
+OTU420	3	0	0	0	0	0	1	0	1	6	0	0	0	0	0	0	0	0	0	1	0	0	1	3	0	0	2	1	0	0	0	1	0	0	1	SS|1.0000|EF457503_S000834928;k:Bacteria
+OTU421	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|KC193325_S003752277;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Sphingobacterium
+OTU422	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	6	2	1	3	1	0	0	0	0	0	0	0	0	GS|98.0|AB110421_S000439512;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Saccharibacter;
+OTU423	2	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	6	0	0	1	0	1	0	GS|97.6|EF457355_S000834780;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp6,g:Gp6;
+OTU424	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9500|JX099543_S004044221;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU425	0	0	0	0	1	0	2	1	1	4	2	0	1	0	0	0	0	0	1	2	0	0	0	2	3	0	1	1	1	0	0	3	0	0	0	GS|98.0|AF300324_S001171508;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Burkholderiaceae,g:Cupriavidus;
+OTU426	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	GS|98.4|AJ833647_S000417333;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria,o:Myxococcales,f:Polyangiaceae,g:Byssovorax;
+OTU427	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	GS|100.0|AJ006963_S000128264;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Eubacteriaceae,g:Eubacterium;
+OTU428	0	0	11	0	0	0	19	19	1046	0	6	0	0	0	0	64	14	1	3	5	45	7	20	732	1488	8	11	0	0	0	0	0	0	0	0	SS|0.8300|AB257864_S000652804;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU429	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.6|KJ948113_S004229286;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Microbacteriaceae,g:Gryllotalpicola;
+OTU43	6	0	0	0	2	0	0	0	0	261	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	3	410	46	0	19	0	0	0	GS|99.6|X87758_S000000629;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micrococcaceae,g:Rothia;
+OTU430	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	SS|0.9200|Y10772_S000006425;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Aerococcaceae
+OTU431	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	SS|0.8600|AM778683_S000964849;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardioidaceae,g:Aeromicrobium
+OTU432	3	0	0	0	1	0	0	0	2	1	2	0	0	0	0	0	0	0	0	0	0	0	1	1	2	0	2	4	0	0	0	6	2	0	0	GS|99.6|AB192292_S000650534;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Terrimonas;
+OTU433	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	4	0	2	0	0	0	0	5	0	2	0	SS|0.9700|AB548216_S002038917;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU434	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	SS|1.0000|AY326563_S000138759;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp1,g:Gp1
+OTU435	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	SS|0.9300|AY272039_S000500750;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales
+OTU436	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.2|AF067965_S000428373;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Clostridium_XlVa;
+OTU437	4	0	0	0	3	0	3	0	0	11	3	0	0	0	0	0	1	0	0	1	1	1	0	2	2	1	0	2	0	0	0	5	0	2	3	SS|1.0000|EF554367_S000860308;k:Bacteria,p:"Bacteroidetes"
+OTU438	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	GS|98.4|AJ550617_S000263801;k:Bacteria,p:Firmicutes,c:Erysipelotrichia,o:Erysipelotrichales,f:Erysipelotrichaceae,g:Erysipelothrix;
+OTU439	5	0	0	0	28384	3900	0	0	0	135	2	0	0	0	1	0	0	0	0	2	1	0	2	3	9	0	3	0	0	0	0	5	0	2	0	SS|0.8800|AB005893_S000381770;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU44	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	720	0	0	0	0	0	0	0	SS|0.9800|GQ922846_S002967762;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales
+OTU440	1	0	0	1	0	0	1	0	0	2	2	0	0	0	0	0	0	0	0	1	0	0	3	0	1	0	0	2	2	0	0	0	0	0	0	SS|1.0000|FR773158_S002442234;k:Archaea,p:"Thaumarchaeota",o:Nitrososphaerales,f:Nitrososphaeraceae,g:Nitrososphaera
+OTU441	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	GS|99.2|X76750_S000260076;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Peptostreptococcaceae,g:Terrisporobacter;
+OTU442	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	GS|99.6|X73963_S000013928;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella;
+OTU443	1	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AY326530_S000138756;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp4,g:Gp4
+OTU444	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	SS|0.8200|AB602570_S002440636;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU445	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	1	0	GS|0.0|None;No hit
+OTU446	0	0	0	0	2	0	0	1	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.2|X81659_S000010762;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae,g:Acinetobacter;
+OTU447	0	0	0	0	1	0	0	1	0	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	0	1	1	0	2	0	1	0	GS|99.2|AB361068_S000964289;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Hyphomicrobiaceae,g:Devosia;
+OTU448	0	0	0	0	2	0	0	0	0	0	5	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|99.2|KJ632518_S004217775;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:"Enterobacteriales",f:Enterobacteriaceae,g:Brenneria;
+OTU449	0	0	0	0	0	0	0	0	0	1	3	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	GS|97.4|AY043920_S000354296;k:Bacteria,p:"Verrucomicrobia",c:Spartobacteria,g:Spartobacteria_genera_incertae_sedis;
+OTU45	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	429	6	0	0	0	0	0	0	GS|100.0|GU129567_S001746040;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodobacterales,f:Rhodobacteraceae,g:Paracoccus;
+OTU450	0	0	0	0	2	0	0	0	1	0	6	0	0	0	0	0	0	0	0	10	2	0	0	5	10	1	1	0	0	0	0	0	0	0	0	SS|0.9500|AY253658_S000473521;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU451	2	0	0	0	2	0	0	0	0	81	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	383	20	0	5	0	1	0	GS|99.6|Y17152_S000018588;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Enterococcaceae,g:Vagococcus;
+OTU452	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	1	0	0	0	0	0	0	GSL|98.8|EF626688_S000892544;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae
+OTU453	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	GS|0.0|None;No hit
+OTU454	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	GS|75.9|CP000804_S002287403;k:Bacteria,p:"Chloroflexi",c:Chloroflexia,o:"Chloroflexales",f:Chloroflexaceae,g:Roseiflexus;
+OTU455	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	3	0	4	0	0	0	0	0	0	0	0	0	0	GS|98.4|FR773158_S002442234;k:Archaea,p:"Thaumarchaeota",o:Nitrososphaerales,f:Nitrososphaeraceae,g:Nitrososphaera;
+OTU456	0	0	0	0	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	5	0	3	0	2	1	3	1	0	4	0	1	0	SS|0.9600|AB018439_S000439484;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Sphingomonas
+OTU457	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	GS|0.0|None;No hit
+OTU458	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	GS|98.4|AB490811_S001587410;k:Bacteria,p:Firmicutes,c:Negativicutes,o:Selenomonadales,f:Acidaminococcaceae,g:Phascolarctobacterium;
+OTU459	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	0	0	0	0	0	0	0	0	0	0	GS|100.0|AJ704540_S000539540;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Elizabethkingia;
+OTU46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	434	0	0	0	0	0	0	0	GS|99.2|AY423719_S000485111;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardioidaceae,g:Nocardioides;
+OTU460	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	GS|0.0|None;No hit
+OTU461	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	5	0	0	0	GS|0.0|None;No hit
+OTU462	2	0	1	0	74	0	0	0	3	1	0	0	11	0	0	0	0	0	0	0	1	0	0	12	55	0	0	0	0	0	0	4	0	0	0	SS|0.8500|AB257864_S000652804;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU463	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	17	0	0	2	0	0	0	GS|98.8|JX966318_U010573765;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Neisseriales,f:Neisseriaceae,g:Uruburuella;
+OTU464	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	3	0	0	0	SS|0.9900|Y18947_S000088565;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
+OTU465	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	2	18	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AJ575744_S000264491;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU466	0	0	0	0	0	0	0	2	2	0	4	0	0	0	0	0	1	0	0	4	1	1	1	14	5	2	6	0	0	0	0	0	0	0	0	SS|0.8500|AY253658_S000473521;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU467	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	GS|70.8|EU438909_S001020081;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardioidaceae,g:Actinopolymorpha;
+OTU468	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	GS|0.0|None;No hit
+OTU469	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	GS|97.2|FJ177421_S001188350;k:Bacteria,p:"Bacteroidetes",c:Cytophagia,o:Cytophagales,f:Cytophagaceae,g:Siphonobacter;
+OTU47	1	0	0	0	429	29	0	0	0	695	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9900|AB052706_S000469304;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales
+OTU470	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	GS|100.0|Y12254_S000016406;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria,o:Desulfovibrionales,f:Desulfovibrionaceae,g:Desulfovibrio;
+OTU471	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	GS|100.0|EU375807_S000995863;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Oceanospirillaceae,g:Marinospirillum;
+OTU472	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	GS|0.0|None;No hit
+OTU473	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	SS|1.0000|EU009865_S000979754;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU474	3	0	0	0	2	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	0	0	3	2	1	0	2	0	0	0	0	4	1	1	0	GS|100.0|EF457359_S000834784;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp16,g:Gp16;
+OTU475	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	SS|0.9400|KJ567598_S004091159;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Pseudomonadaceae
+OTU476	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|0.8600|X80227_S000003180;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Tissierella
+OTU477	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	GS|77.1|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta;
+OTU478	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	GSL|97.2|GU233442_S001873658;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Neisseriales,f:Neisseriaceae
+OTU479	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	0	0	0	2	0	GS|99.6|AF349724_S000392070;k:Bacteria,p:Firmicutes,c:Erysipelotrichia,o:Erysipelotrichales,f:Erysipelotrichaceae,g:Turicibacter;
+OTU48	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	360	0	0	0	0	0	GS|0.0|None;No hit
+OTU480	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	SS|1.0000|GQ368824_S001577957;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU481	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	GS|75.5|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta;
+OTU482	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	SS|1.0000|D30775_S000413730;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU483	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU484	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	2	2	0	0	3	0	2	0	SS|0.9900|Y18946_S000089783;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
+OTU485	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|AM229316_S000650712;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Halomonadaceae,g:Salinicola;
+OTU486	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	14	0	0	0	0	5	0	GS|97.2|DQ523489_S000721678;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU487	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8900|HM021726_S002167513;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Olivibacter
+OTU488	0	0	0	0	1	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	GS|99.6|AB680262_S003262153;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Aerococcaceae,g:Aerococcus;
+OTU489	0	0	4	0	32	0	170	0	235	4	1	0	25	0	0	0	1	0	1	3	10	0	79	90	162	6	103	2	0	3	0	587	1	6527	0	SS|0.8700|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU49	0	2	0	0	0	0	0	12	2	2	350	0	7	17	0	1	0	0	2	2	1	0	0	10	12	0	2	216	203	0	0	34	0	48	0	GS|100.0|AB513363_S001872188;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Neokomagataea;
+OTU490	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AJ242633_S000006985;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Pseudonocardiaceae
+OTU491	2	0	0	0	2	2	1	0	4	2	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	1	1	0	0	3	0	0	1	GS|100.0|X80739_S000010338;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micrococcaceae,g:Arthrobacter;
+OTU492	0	0	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	GS|99.6|M83810_S000436822;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Caulobacterales,f:Caulobacteraceae,g:Brevundimonas;
+OTU493	1	0	2	0	956	2	0	0	8	0	0	0	0	15	1	0	0	0	0	1	2	1	1	8	11	0	5	0	3	0	0	5	0	0	0	SS|0.9500|AB005893_S000381770;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales
+OTU494	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU495	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8100|JQ417431_S003290754;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria
+OTU496	1	0	0	0	0	0	0	0	3	4	1	0	0	1	0	0	0	0	0	0	0	0	1	2	0	0	1	0	2	0	0	3	0	0	0	GS|99.6|AB514513_S001587457;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Pseudonocardiaceae,g:Actinomycetospora;
+OTU497	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	GS|99.2|FJ612598_S001293803;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Orbales,f:Orbaceae,g:Orbus;
+OTU498	0	0	0	0	0	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	GS|100.0|X86688_S000015686;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Corynebacteriaceae,g:Corynebacterium;
+OTU499	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.2|EU240886_S000979973;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Staphylococcaceae,g:Nosocomiicoccus;
+OTU5	56	1	169	1	60	2	328	5463	10170	239	111933	0	61	8	3	47	2190	37	309	90153	14212	1425	27205	19355	18481	8169	39444	22472	12	16050	504	50	0	19	15	SS|1.0000|AM709786_S001239142;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU50	6	0	0	0	5	1	1	0	3	2	2	0	2	15	3	0	0	0	0	8	1	0	3	11	21	0	5	557	29	9	0	5	0	1	1	GS|100.0|EU791281_S001153684;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Pseudomonadaceae,g:Pseudomonas;
+OTU500	4	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9400|EF522948_S000859723;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales
+OTU501	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AP007232_S000609085;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU502	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	SS|0.9500|FR828476_S002967458;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Nitrosomonadales,f:Nitrosomonadaceae
+OTU503	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU504	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU505	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AM162406_S000650674;k:Bacteria,p:"Planctomycetes",c:Planctomycetia,o:Planctomycetales,f:Planctomycetaceae
+OTU506	2	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	3	3	1	0	0	0	3	0	0	4	1	1	1	GS|100.0|AB258386_S000701146;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Sphingomonas;
+OTU507	0	0	0	0	35	0	0	0	15	0	1	0	0	0	0	0	1	0	0	2	0	0	2	37	18	0	3	0	0	0	0	0	0	0	0	SS|0.9600|AB005893_S000381770;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU508	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|85.0|AY193173_S000401324;k:Bacteria,p:SR1,g:SR1_genera_incertae_sedis;
+OTU509	0	0	0	0	0	0	0	0	48	0	0	0	0	1	0	6	0	0	4	0	2	0	0	37	121	0	0	0	0	0	0	0	0	0	0	SS|0.8800|AY204889_S000417782;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU51	7	0	0	0	140	1	0	4	13	12543	5	0	64	8	17	2	0	0	1	4	0	0	0	1	17	0	0	0	209	0	0	384	0	8	0	SS|0.9400|AJ318414_S000127978;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU510	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	1	0	0	0	0	0	GS|98.4|AJ635303_S000471776;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Methylobacteriaceae,g:Methylobacterium;
+OTU511	0	0	0	0	0	0	1	0	2	3	1	0	0	0	0	0	0	0	0	0	1	0	2	1	2	0	2	4	2	0	0	1	1	2	4	GS|98.0|AB245334_S000627870;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Solirubrobacterales,f:Solirubrobacteraceae,g:Solirubrobacter;
+OTU512	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU513	0	0	0	0	0	0	0	7	10	0	9	0	0	1	0	0	0	0	0	2	1	0	0	14	41	0	0	0	1	0	0	0	0	0	0	SS|0.8600|AB005893_S000381770;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU514	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	GS|100.0|EF694030_S000893641;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Streptococcaceae,g:Lactococcus;
+OTU515	0	0	0	0	1	0	0	0	6	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	4	0	0	1	4	9	0	0	0	0	0	GS|100.0|DQ358146_S000721642;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:"Enterobacteriales",f:Enterobacteriaceae,g:Morganella;
+OTU516	0	0	0	0	2	0	0	0	11	0	0	0	0	0	0	1	0	0	0	0	0	0	0	10	37	0	0	0	0	0	0	0	0	0	0	SS|0.9600|AB786910_U010439604;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU517	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|100.0|AJ270473_S000088215;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Roseburia;
+OTU518	3	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU519	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|HM437226_S004129912;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	445	0	1	0	0	0	0	0	GSL|100.0|JN175341_S002916785;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae,g:Enhydrobacter
+OTU520	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	GS|98.4|AJ251530_S000366394;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Staphylococcaceae,g:Jeotgalicoccus;
+OTU521	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|100.0|KF735812_S004188870;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Sphingobacterium;
+OTU522	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	GS|98.0|DQ335215_S000639496;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Caulobacterales,f:Caulobacteraceae,g:Brevundimonas;
+OTU523	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	SS|0.9300|AY353956_S000408089;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI
+OTU524	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU525	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	4	0	0	0	0	0	0	GS|97.6|AB110421_S000439512;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Saccharibacter;
+OTU526	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	SS|1.0000|EF614270_S001020344;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU527	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	SS|0.8000|AY323523_S000141070;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI
+OTU528	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU529	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	GS|97.2|AM084341_S000629296;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Empedobacter;
+OTU53	37	0	0	3	9	4	22	0	33	13	18	0	4	0	3	0	1	0	0	16	6	0	8	19	41	1	15	18	14	4	0	40	3	15	13	GS|100.0|AB021191_S000006847;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Bacillaceae_1,g:Bacillus;
+OTU530	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	GS|100.0|DQ874340_S000730870;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Chromatiales,f:Chromatiaceae,g:Rheinheimera;
+OTU531	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU532	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0	0	0	0	0	GS|99.6|EU912445_S002304362;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Methylobacteriaceae,g:Methylobacterium;
+OTU533	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	GSL|100.0|DQ090961_S000558869;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardiaceae,g:Rhodococcus
+OTU534	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	GS|99.2|EF204258_S002418317;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae,g:Acinetobacter;
+OTU535	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	GS|100.0|AB075772_S000002159;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Clostridium_XlVa;
+OTU536	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU537	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	2	0	0	0	0	1	2	0	0	GS|99.6|AM181733_S000711257;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Rhizobiaceae,g:Ensifer;
+OTU538	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	3	0	0	0	GS|98.4|AB003935_S000381721;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Kineosporiaceae,g:Kineosporia;
+OTU539	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	SS|1.0000|X92618_S000003128;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	376	0	0	0	0	0	0	0	SS|1.0000|AY831385_S000596320;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU540	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AB847448_S004125733;k:Bacteria
+OTU541	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	1	0	1	0	0	0	0	3	0	0	0	SS|0.9400|AB712348_S003277148;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
+OTU542	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	SS|0.8500|GU207876_S002224491;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria
+OTU543	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|EU303271_S000980284;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Sinobacteraceae
+OTU544	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.4|AB126876_S000564915;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardiaceae,g:Nocardia;
+OTU545	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	GS|0.0|None;No hit
+OTU546	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	SS|1.0000|AB005893_S000381770;k:Bacteria
+OTU547	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.2|DQ680836_S000721974;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Parapedobacter;
+OTU548	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	GS|98.4|AJ639826_S000544085;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micrococcaceae,g:Arthrobacter;
+OTU549	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9200|JN657217_S002959292;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:"Enterobacteriales",f:Enterobacteriaceae
+OTU55	27	0	0	5	19	4	23	1	33	14	18	0	18	1	0	1	0	0	0	10	3	1	17	22	21	1	14	28	45	6	0	73	13	13	11	GS|73.5|AJ535710_S000351835;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Stella;
+OTU550	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|FN422003_S001550499;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
+OTU551	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU552	0	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9400|EU086793_S000979829;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Brevibacteriaceae,g:Brevibacterium
+OTU553	0	0	0	0	0	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.0|AY234519_S000403452;k:Bacteria,p:"Verrucomicrobia",c:Subdivision3,g:Subdivision3_genera_incertae_sedis;
+OTU554	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9000|Y18188_S000005838;k:Bacteria,p:Firmicutes,c:Erysipelotrichia,o:Erysipelotrichales,f:Erysipelotrichaceae
+OTU555	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	SS|0.9900|D16552_S000003746;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales
+OTU556	0	0	0	0	2	0	1	0	0	1	1	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	1	2	0	0	1	4	0	0	0	SS|1.0000|AB072735_S000251887;k:Bacteria
+OTU557	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.4|U60013_S000004778;k:Bacteria,p:"Verrucomicrobia",c:Verrucomicrobiae,o:Verrucomicrobiales,f:Verrucomicrobiaceae,g:Prosthecobacter;
+OTU558	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	GS|99.2|HQ315828_S002235473;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Rhodospirillaceae,g:Skermanella;
+OTU559	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	SS|0.9400|AB052706_S000469304;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU56	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	367	13	0	0	0	0	0	GS|100.0|HF558380_S003722571;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Burkholderiaceae,g:Lautropia;
+OTU560	1	0	0	0	0	0	0	0	2	3	1	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	0	2	SS|1.0000|DQ244076_S000620069;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae
+OTU561	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8600|X80227_S000003180;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Tissierella
+OTU562	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8300|KJ567598_S004091159;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Pseudomonadaceae
+OTU563	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8200|CP001359_S004068953;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria
+OTU564	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	1	0	0	1	GS|98.8|AF035050_S000427918;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Burkholderiales_incertae_sedis,g:Aquabacterium;
+OTU565	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	SS|0.9200|AB258386_S000701146;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Sphingomonas
+OTU566	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	SS|1.0000|D86513_S000011943;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU567	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AF078775_S000428531;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae
+OTU568	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|100.0|FR681902_S002304466;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU569	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU57	1	2	0	0	333	1	0	0	0	0	10	0	2	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	23	0	11	0	0	0	GSL|100.0|Y10759_S000022475;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Xanthomonas
+OTU570	1	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	1	0	0	3	0	0	1	0	0	0	0	0	0	0	0	GS|97.6|AF498709_S000395284;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp1,g:Gp1;
+OTU571	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9300|Z49726_S000002360;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Legionellales,f:Legionellaceae,g:Legionella
+OTU572	3	0	0	0	1	0	0	0	1	4	2	2	0	0	0	0	0	0	0	3	0	0	4	3	2	0	0	2	2	0	0	2	2	0	0	SS|1.0000|AY544768_S000548164;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU573	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	3	0	0	0	0	0	0	0	0	0	0	SS|1.0000|EF394922_S000995281;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,g:Reyranella
+OTU574	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|X55797_S000022285;k:Bacteria
+OTU575	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.8|AY507129_S000474073;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Microbacteriaceae,g:Agromyces;
+OTU576	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU577	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU578	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|FN995635_S002222655;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Bogoriellaceae,g:Georgenia;
+OTU579	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	GS|99.2|FR874098_S002907206;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Intrasporangiaceae,g:Ornithinimicrobium;
+OTU58	2	0	0	0	0	0	1	0	2	0	1	0	1	0	0	0	0	0	1	0	1	1	1	1	0	0	0	143	145	0	0	7	0	3	0	GS|0.0|None;No hit
+OTU580	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU581	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	SS|0.9800|X93479_S000006644;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU582	0	0	0	0	0	0	0	0	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	1	0	0	0	0	0	0	0	0	SS|1.0000|AY987368_S000527997;k:Bacteria,p:"Proteobacteria"
+OTU583	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU584	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	2	0	1	0	1	0	0	1	GS|98.8|U68671_S000363779;k:Bacteria,p:"Verrucomicrobia",c:Spartobacteria,g:Spartobacteria_genera_incertae_sedis;
+OTU585	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	SS|0.9100|AB608051_S003260459;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU586	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	1	0	1	0	GS|97.6|U48976_S000437701;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Streptosporangiaceae,g:Microtetraspora;
+OTU587	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	GS|100.0|AY253728_S000404711;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Porphyromonas;
+OTU588	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU589	0	0	0	0	6	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	3	7	0	1	0	0	0	0	0	0	0	0	SS|0.9700|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU59	0	0	0	0	0	1	0	0	1	6	4	0	3	0	0	0	0	1	0	3	0	0	1	2	4	0	2	21	370	3	0	10	24	22	0	GS|99.6|AJ420330_S000014707;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Burkholderiales_incertae_sedis,g:Xylophilus;
+OTU590	1	0	0	0	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	3	1	0	0	2	0	0	1	GS|98.4|JF710262_S002952609;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Chitinophaga;
+OTU591	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0	0	1	0	0	0	SS|0.9900|AB180657_S000469824;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria
+OTU592	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	SS|0.9400|EU833987_S001154118;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria
+OTU593	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|97.6|FR773158_S002442234;k:Archaea,p:"Thaumarchaeota",o:Nitrososphaerales,f:Nitrososphaeraceae,g:Nitrososphaera;
+OTU594	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	2	1	0	0	SS|0.9700|X82558_S000005124;k:Bacteria,p:Nitrospirae,c:"Nitrospira",o:"Nitrospirales",f:"Nitrospiraceae",g:Nitrospira
+OTU595	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU596	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	SS|1.0000|AY388649_S000419259;k:Bacteria,p:"Verrucomicrobia",c:Spartobacteria,g:Spartobacteria_genera_incertae_sedis
+OTU597	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	GS|0.0|None;No hit
+OTU598	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	GS|0.0|None;No hit
+OTU599	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	3	1	0	1	0	0	0	SS|0.8900|AB016470_S000382370;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria,o:Myxococcales
+OTU6	1	0	0	2	4	0	2	1	4	0	1	0	1	0	0	0	0	0	0	2	0	0	0	3	3	0	1	3287	13	3	22	18	1	2	2	GSL|100.0|EU036220_S000903063;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Planococcaceae
+OTU60	0	0	0	0	66	0	0	0	1	0	0	0	0	0	0	0	0	0	0	15	2	1	0	1	1	0	0	0	391	0	0	14	0	0	0	GS|97.2|JQ746651_S003291349;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Neisseriales,f:Neisseriaceae,g:Snodgrassella;
+OTU600	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	2	GS|0.0|None;No hit
+OTU601	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	SS|0.8100|AY570690_S000441993;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Petrimonas
+OTU602	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|100.0|AB300988_S000994709;k:Bacteria,p:Firmicutes,c:Negativicutes,o:Selenomonadales,f:Veillonellaceae,g:Megamonas;
+OTU603	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	SS|0.9900|AY548789_S000485873;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria,o:Desulfobacterales,f:Desulfobulbaceae,g:Desulfobulbus
+OTU604	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	SS|0.9100|AJ315980_S000277024;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Ruminococcaceae
+OTU605	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|100.0|AB078827_S000651778;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella;
+OTU606	2	0	0	0	1	1	3	0	1	1	2	0	0	0	0	0	0	0	0	1	0	1	1	0	0	1	1	1	1	2	0	2	0	0	1	GS|0.0|None;No hit
+OTU607	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|99.6|GU937478_S002166669;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Methylophilales,f:Methylophilaceae,g:Methylobacillus;
+OTU608	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|100.0|Y17820_S000021549;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Aerococcaceae,g:Facklamia;
+OTU609	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|100.0|X74698_S000000837;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:"Vibrionales",f:Vibrionaceae,g:Vibrio;
+OTU61	64	0	0	5	16	9	31	0	47	88	56	0	179	6	1	6	2	0	4	29	12	1	30	26	48	3	26	41	116	8	3	113	7	16	19	GS|100.0|AP007232_S000609085;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta;
+OTU610	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	SS|0.8600|FR749956_S002350819;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI
+OTU611	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	GS|0.0|None;No hit
+OTU612	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	GS|0.0|None;No hit
+OTU613	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	3	0	0	0	0	1	0	SS|0.9900|AY289394_S000405864;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp7,g:Gp7
+OTU614	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|100.0|X76445_S000003074;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Sporolactobacillaceae,g:Sporolactobacillaceae_incertae_sedis;
+OTU615	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	SS|1.0000|Y18530_S000017137;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Dysgonomonas
+OTU616	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	SS|0.8000|AJ289983_S000020777;k:Bacteria,p:"Verrucomicrobia",c:Spartobacteria,g:Spartobacteria_genera_incertae_sedis
+OTU617	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|100.0|AY676115_S000379819;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Erythrobacteraceae,g:Altererythrobacter;
+OTU618	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	SS|0.8500|L35516_S000414641;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Ruminococcaceae
+OTU619	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	SS|0.9900|FN400860_S001588688;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae
+OTU62	0	0	0	0	0	0	0	0	5	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	13	0	0	14	312	0	0	2	0	0	0	GS|99.6|AY264674_S000404964;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:"Enterobacteriales",f:Enterobacteriaceae,g:Arsenophonus;
+OTU620	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|99.2|AM084341_S000629296;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Empedobacter;
+OTU621	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	GS|100.0|AJ004811_S000130733;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_III,g:Caldicellulosiruptor;
+OTU622	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|97.2|AY570690_S000441993;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Petrimonas;
+OTU623	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	SS|1.0000|X79458_S000004718;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU624	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|AY534872_S000273566;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae
+OTU625	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|100.0|FR749962_S002350825;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Actinomycetaceae,g:Arcanobacterium;
+OTU626	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|HM120209_S002225551;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Stomatobaculum
+OTU627	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	SS|0.9400|AF542227_S000432293;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI
+OTU628	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	SS|0.8900|AF493694_S000500091;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Cryomorphaceae
+OTU629	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	0	0	0	0	0	GS|100.0|HM120211_S002225553;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Oribacterium;
+OTU63	0	0	0	0	0	0	0	0	0	107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	285	8	0	19	0	0	0	GS|100.0|CP002122_S002290833;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella;
+OTU630	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	GS|0.0|None;No hit
+OTU631	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	GS|99.6|AJ250074_S000126953;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU632	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	SS|0.9900|EU545827_S001096520;k:Bacteria,p:"Proteobacteria"
+OTU633	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	SS|1.0000|EF191408_S000776835;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Methylobacteriaceae
+OTU634	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	1	1	1	0	1	0	2	0	0	1	GS|100.0|GU295962_S001873908;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Flavitalea;
+OTU635	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU636	0	0	0	0	1	0	0	0	1	0	2	0	0	1	0	0	0	0	0	0	1	0	0	0	2	0	0	2	3	0	0	2	1	0	0	GS|100.0|AM422451_S000941846;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Jiangellaceae,g:Jiangella;
+OTU637	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	SS|1.0000|U26055_S000437388;k:Bacteria
+OTU638	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	SS|1.0000|Y07841_S000002016;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Anaerococcus
+OTU639	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	GS|97.2|KF705042_S003923581;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Peptoniphilaceae,g:Peptoniphilus;
+OTU64	0	0	0	0	340	0	0	4	3	0	0	0	2	2	0	3	0	0	5	88	0	1	9	79	150	0	9	0	8	0	0	0	0	0	0	GS|99.2|AF360737_S000392299;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Leuconostocaceae,g:Fructobacillus;
+OTU640	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	SS|1.0000|AB304087_S000964244;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU641	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	SS|0.8100|AF211871_S000021401;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Halomonadaceae
+OTU642	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU643	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9900|EF457384_S000834809;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp1,g:Gp1
+OTU644	2	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	SS|1.0000|X68466_S000040796;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp3,g:Gp3
+OTU645	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	SS|1.0000|AB178431_S000439660;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU646	0	0	0	0	1051	0	1	0	9	0	0	0	27	2	0	0	0	0	0	11	0	0	1	5	18	1	0	0	0	0	0	25	0	71	0	SS|0.9900|AJ271383_S000006708;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae
+OTU647	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9700|EF457487_S000834912;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp16,g:Gp16
+OTU648	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	SS|1.0000|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU649	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	500	0	0	SS|1.0000|AJ550617_S000263801;k:Bacteria
+OTU650	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.4|Y10678_S000012028;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Sandaracinobacter;
+OTU651	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AB669272_S003609811;k:Bacteria
+OTU652	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9900|AB238928_S000650592;k:Bacteria,p:"Bacteroidetes"
+OTU653	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|EU134982_S000933576;k:Bacteria
+OTU654	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.2|JF731241_S002952836;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Sphingobacterium;
+OTU655	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	SS|1.0000|AB365487_S000964321;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria
+OTU656	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.6|AB242142_S000650604;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:Bacteroidaceae,g:Bacteroides;
+OTU657	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9900|L16497_S000414480;k:Bacteria,p:"Bacteroidetes"
+OTU658	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.2|FJ434127_S001350836;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Sphingomonas;
+OTU659	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	260	0	0	SS|1.0000|AY193185_S000401336;k:Bacteria,p:Parcubacteria,g:Parcubacteria_genera_incertae_sedis
+OTU660	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9600|EF044213_S001020365;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU661	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|AJ867039_S000628788;k:Bacteria,p:"Fusobacteria",c:Fusobacteriia,o:"Fusobacteriales",f:"Fusobacteriaceae",g:Fusobacterium;
+OTU662	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	SS|0.9700|FJ560750_S001328552;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
+OTU663	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AB267716_S000721196;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae
+OTU664	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.0|JF830803_S002913774;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Flavobacterium;
+OTU665	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8700|FJ482231_S001793637;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU666	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|HQ286278_S002988560;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU667	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU668	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9000|AB023238_S000382661;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Leuconostocaceae,g:Weissella
+OTU669	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	278	0	0	0	0	0	GS|98.4|AB547446_S002038915;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Dysgonomonas;
+OTU670	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	GSL|97.6|L34627_S000414616;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae
+OTU671	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	1	2	0	0	0	1	0	0	0	0	0	0	1	GS|99.6|D13737_S000413468;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Sphingomonadaceae,g:Rhizorhapis;
+OTU672	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8000|Y15992_S000003559;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Aeromonadales
+OTU673	0	0	0	0	7	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	5	0	0	0	0	0	0	0	0	0	0	SS|0.9700|AF360737_S000392299;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales
+OTU674	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AB851476_S004263611;k:Bacteria,p:"Bacteroidetes"
+OTU675	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|86.6|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta;
+OTU676	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	GS|97.5|EF457480_S000834905;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp16,g:Gp16;
+OTU677	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	GS|98.8|AY494606_S000462273;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Clostridium_XlVa;
+OTU678	1	0	0	0	0	0	2	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	1	1	1	0	1	0	1	1	0	0	0	0	1	GS|99.6|HM047736_S002167801;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Caulobacterales,f:Caulobacteraceae,g:Phenylobacterium;
+OTU679	0	0	0	0	0	0	1	0	0	2	2	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	SS|1.0000|EF457456_S000834881;k:Bacteria
+OTU68	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	258	0	0	0	11	0	0	0	GS|100.0|CP000359_S000690627;k:Bacteria,p:"Deinococcus-Thermus",c:Deinococci,o:Deinococcales,f:Deinococcaceae,g:Deinococcus;
+OTU680	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|KJ769194_S004221160;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU681	1	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	1	0	0	2	1	1	0	0	0	1	0	0	1	0	0	0	SS|0.9800|EF457375_S000834800;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp16,g:Gp16
+OTU682	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|AY126616_S000546342;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:Bacteroidaceae,g:Bacteroides;
+OTU683	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AB048219_S000008031;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU684	0	0	0	0	1	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	GS|99.6|AJ420332_S000440046;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Burkholderiaceae,g:Burkholderia;
+OTU685	0	0	0	0	1	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|77.5|CP000804_S002287403;k:Bacteria,p:"Chloroflexi",c:Chloroflexia,o:"Chloroflexales",f:Chloroflexaceae,g:Roseiflexus;
+OTU686	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9000|KC782839_S003804477;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Rhodocyclales,f:Rhodocyclaceae
+OTU687	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	2	1	0	1	1	1	0	1	2	0	0	0	6	1	1	0	GS|100.0|AY253862_S000368129;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardioidaceae,g:Kribbella;
+OTU688	1	0	0	0	0	0	0	0	1	1	2	0	0	0	0	0	0	0	0	2	0	0	0	1	1	0	1	2	0	1	0	1	0	0	0	GS|100.0|AF431595_S000348322;k:Bacteria,p:"Verrucomicrobia",c:Spartobacteria,g:Spartobacteria_genera_incertae_sedis;
+OTU689	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	2	1	2	0	1	0	0	0	SS|0.9400|FJ455532_S001242381;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Rhodospirillaceae,g:Dongia
+OTU69	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	119	0	0	0	0	0	0	SS|1.0000|EF044213_S001020365;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU690	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.2|AM418384_S000768523;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Pseudoxanthomonas;
+OTU691	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AY902680_S000576842;k:Bacteria
+OTU692	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	5	0	0	0	0	1	0	SS|0.9700|JN561614_S002956931;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Orbales,f:Orbaceae
+OTU693	0	0	0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	2	0	0	1	1	0	1	0	2	0	0	3	0	1	1	GS|97.2|HM032897_S002167665;k:Bacteria,p:"Bacteroidetes",c:Cytophagia,o:Cytophagales,f:Cytophagaceae,g:Hymenobacter;
+OTU694	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|JN674641_S002960635;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae
+OTU695	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9900|DQ986200_S000736608;k:Bacteria,p:"Planctomycetes",c:Planctomycetia,o:Planctomycetales,f:Planctomycetaceae
+OTU696	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU697	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	SS|0.9500|KF459924_S004053537;k:Bacteria,p:"Actinobacteria"
+OTU698	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AB049195_S000383485;k:Bacteria
+OTU699	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	3	0	0	0	SS|0.9100|AB917594_S004126139;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Mizugakiibacter
+OTU7	1	0	15	0	60	0	27	177	1240	23	99	0	17	1432	0	1288	190	5	54	290	188	26	678	5138	12663	517	900	1253	22	0	0	7	0	0	1	GS|100.0|KJ584313_S004225834;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Bombella;
+OTU70	0	0	0	1	3	0	1	0	3	2	1	0	1	1	0	0	0	0	1	6	1	0	1	3	2	0	2	5	2	3	0	3	402	0	0	GS|100.0|AF078766_S000428522;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Comamonadaceae,g:Acidovorax;
+OTU700	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	3	0	0	0	GS|97.6|AF013554_S000336303;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp4,g:Gp4;
+OTU701	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|JQ966281_S004044213;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Mucilaginibacter;
+OTU702	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	SS|1.0000|AJ292685_S000019750;k:Bacteria,p:candidate_division_WPS-1,g:WPS-1_genera_incertae_sedis
+OTU703	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9800|X62912_S000016660;k:Bacteria,p:"Planctomycetes",c:Planctomycetia,o:Planctomycetales,f:Planctomycetaceae
+OTU704	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9400|AM403172_S000735149;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria
+OTU705	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9900|KC109787_S003750313;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales
+OTU706	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	0	0	0	0	0	0	0	0	0	0	GS|100.0|FM212561_S001189497;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Luteibacter;
+OTU707	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	1	0	GS|97.2|EF457481_S000834906;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp4,g:Gp4;
+OTU708	2	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	2	0	0	0	SS|1.0000|EF457481_S000834906;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp4
+OTU709	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	1	0	0	0	1	0	0	SS|1.0000|GU295962_S001873908;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae
+OTU71	0	0	0	0	4	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	305	9	1	0	0	0	0	0	GS|100.0|AJ536198_S000110436;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micrococcaceae,g:Micrococcus;
+OTU710	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU711	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU712	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AB072735_S000251887;k:Bacteria,p:"Gemmatimonadetes",c:Gemmatimonadetes,o:Gemmatimonadales,f:Gemmatimonadaceae,g:Gemmatimonas
+OTU713	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	1	0	0	0	1	0	1	1	SS|0.9100|CP000103_S000618924;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria
+OTU714	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|DQ256728_S000620618;k:Bacteria,p:"Proteobacteria"
+OTU715	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	SS|0.9900|JF731241_S002952836;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae
+OTU716	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	0	0	1	0	0	0	0	1	0	GS|97.6|EF457507_S000834932;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp4,g:Gp4;
+OTU717	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU718	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	SS|1.0000|EF067860_S000769040;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae
+OTU719	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	220	0	0	GS|74.7|AB428365_S001168618;k:Bacteria,p:"Caldiserica",c:Caldisericia,o:Caldisericales,f:Caldisericaceae,g:Caldisericum;
+OTU720	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	SS|0.8200|CP001854_S001872674;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Solirubrobacterales
+OTU721	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	SS|1.0000|AM177497_S000623902;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU722	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU723	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	SS|0.9200|EF457347_S000834772;k:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp14,g:Gp14
+OTU724	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU725	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	SS|1.0000|FJ715941_S001329585;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU726	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	SS|0.9700|AB241105_S000616640;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Bifidobacteriales,f:Bifidobacteriaceae
+OTU727	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU728	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU729	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	SS|0.9700|DQ768108_S000722011;k:Bacteria,p:"Proteobacteria"
+OTU73	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	226	0	0	SS|0.9900|CP000481_S002287801;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU730	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	SS|0.9900|KC867694_S003811167;k:Bacteria,p:"Planctomycetes",c:Planctomycetia,o:Planctomycetales,f:Planctomycetaceae
+OTU731	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	GS|0.0|None;No hit
+OTU732	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	SS|1.0000|EF467848_S000843282;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria
+OTU733	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	SS|0.9800|GQ221761_S001575978;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
+OTU734	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	1	0	0	SS|0.9400|GU207874_S002224489;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria,o:Myxococcales
+OTU735	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	SS|0.9100|AJ292759_S000130039;k:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria
+OTU736	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	SS|0.9900|FN645214_S002156865;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales
+OTU737	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|99.2|FM883672_S001244515;k:Bacteria,p:"Bacteroidetes",c:Cytophagia,o:Cytophagales,f:Cyclobacteriaceae,g:Indibacter;
+OTU738	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	SS|0.8600|EU594330_S001097868;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria
+OTU739	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	SS|0.9900|GQ342559_S003611109;k:Bacteria,p:"Bacteroidetes",c:Cytophagia,o:Cytophagales,f:Cytophagaceae,g:Spirosoma
+OTU74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	210	6	0	0	0	0	0	0	GS|100.0|Y12703_S000012400;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodobacterales,f:Rhodobacteraceae,g:Paracoccus;
+OTU740	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|L76600_S000436016;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Ruminococcaceae
+OTU741	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|0.9600|AB238928_S000650592;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Parabacteroides
+OTU742	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|AB490803_S001587404;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:Bacteroidaceae,g:Bacteroides
+OTU743	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|0.9900|AF062637_S000428265;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Cyanobacteria,f:Family_I,g:GpI
+OTU744	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	2	0	0	0	3	0	0	1	0	0	0	SS|1.0000|AY225643_S000403103;k:Bacteria
+OTU746	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|0.9800|L76603_S000436019;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Ruminococcaceae,g:Ruminococcus
+OTU747	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|0.9500|AF167711_S000388430;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Ruminococcaceae
+OTU748	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|0.0|None;No hit
+OTU749	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|0.9100|EF522948_S000859723;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI
+OTU75	0	0	0	0	32	79	0	0	5	4	3	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	283	13	7	1	0	0	0	0	GS|100.0|Z93440_S000381585;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pseudomonadales,f:Moraxellaceae,g:Acinetobacter;
+OTU750	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	GS|0.0|None;No hit
+OTU751	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|Y18179_S000022469;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales
+OTU752	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|100.0|AF542230_S000432296;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Peptoniphilaceae,g:Peptoniphilus;
+OTU753	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	SS|1.0000|AY576769_S000594465;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU754	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|0.9900|EU718058_S001045706;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU755	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|98.8|X68183_S000001564;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiaceae_1,g:Clostridium_sensu_stricto;
+OTU756	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|100.0|AB369864_S000964665;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Brucellaceae,g:Paenochrobactrum;
+OTU757	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|EF564277_S001014726;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae
+OTU758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|0.8500|AY272039_S000500750;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XII,g:Guggenheimella
+OTU759	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	2	GS|0.0|None;No hit
+OTU76	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	259	0	0	GS|100.0|CP002042_S002150940;k:Bacteria,p:"Deinococcus-Thermus",c:Deinococci,o:Thermales,f:Thermaceae,g:Meiothermus;
+OTU760	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	GS|100.0|L16475_S000414458;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella;
+OTU761	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|AY362926_S000368490;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Pasteurellales,f:Pasteurellaceae
+OTU762	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|0.9600|X80841_S000260031;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Tissierella
+OTU763	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	GS|0.0|None;No hit
+OTU764	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	GS|0.0|None;No hit
+OTU765	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	GS|99.2|KF150484_S003807730;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Chitinophaga;
+OTU766	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	SS|0.9900|JF731241_S002952836;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Sphingobacteriaceae,g:Sphingobacterium
+OTU767	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	GS|97.6|DQ023221_S000627045;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Paenibacillaceae_1,g:Fontibacillus;
+OTU768	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	SS|0.9200|AB537978_S002235755;k:Bacteria,p:Firmicutes,c:Erysipelotrichia,o:Erysipelotrichales,f:Erysipelotrichaceae
+OTU769	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	SS|0.9400|AM162406_S000650674;k:Bacteria,p:"Planctomycetes",c:Planctomycetia,o:Planctomycetales,f:Planctomycetaceae,g:Zavarzinella
+OTU77	12	0	0	0	8	1	13	1	8	13	7	0	1	0	0	0	0	0	0	11	4	0	9	11	15	0	9	13	3	2	0	21	2	14	3	GS|100.0|AB196716_S000458169;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micromonosporaceae,g:Micromonospora;
+OTU770	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	SS|0.9900|KC867694_S003811167;k:Bacteria,p:"Planctomycetes",c:Planctomycetia,o:Planctomycetales,f:Planctomycetaceae
+OTU771	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	SS|1.0000|AP007232_S000609085;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU772	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	SS|1.0000|AF202264_S000389024;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae
+OTU773	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	GS|97.2|AJ133124_S000539267;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Blautia;
+OTU774	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	2	0	0	0	SS|0.8800|FR774778_S002350910;k:Bacteria,p:"Bacteroidetes",c:Cytophagia,o:Cytophagales,g:Chryseolinea
+OTU775	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	SS|0.8500|KC571459_S003719530;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Taibaiella
+OTU776	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	GS|99.6|AF005006_S000386931;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardioidaceae,g:Nocardioides;
+OTU777	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	SS|1.0000|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta
+OTU778	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	GS|79.8|GQ250431_S001744227;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Rhodanobacter;
+OTU779	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	GS|99.6|X94967_S000001177;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Lachnospiraceae,g:Lachnospiracea_incertae_sedis;
+OTU78	1	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	156	4	0	27	0	0	0	GS|98.8|X82823_S000013923;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Porphyromonas;
+OTU780	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	GS|99.6|AJ005634_S001168700;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Alloprevotella;
+OTU781	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	GS|98.8|AB278593_S000774968;k:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Prevotellaceae",g:Prevotella;
+OTU782	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	SS|0.9600|AJ272422_S000130056;k:Bacteria,p:Firmicutes
+OTU783	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	SS|1.0000|EF059881_S000842708;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria
+OTU784	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	SS|0.9000|AY359283_S000408383;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Legionellales,f:Coxiellaceae,g:Aquicella
+OTU785	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	SS|0.9500|X56305_S000006614;k:Bacteria,p:"Planctomycetes",c:Planctomycetia,o:Planctomycetales,f:Planctomycetaceae
+OTU79	0	0	0	0	68	0	0	0	1	0	0	0	0	0	0	2	0	0	0	9	1	0	6	0	5	0	0	0	192	0	0	1	0	0	0	SS|0.8200|JX986964_S003749482;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Bifidobacteriales,f:Bifidobacteriaceae,g:Bifidobacterium
+OTU8	0	0	0	0	0	0	1	0	0	205	2	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	2	0	2640	58	0	151	0	0	1	GS|100.0|HF558366_S003722557;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Neisseriales,f:Neisseriaceae,g:Neisseria;
+OTU80	0	0	0	0	1	0	0	0	1	4	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	71	113	9	0	0	0	0	GS|0.0|None;No hit
+OTU81	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	409	8	0	0	1	0	0	0	GS|99.6|GQ352404_S001577790;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Micrococcaceae,g:Kocuria;
+OTU82	2	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	151	22	27	9	0	0	0	0	GS|97.2|Y07841_S000002016;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiales_Incertae_Sedis_XI,g:Anaerococcus;
+OTU83	8	0	0	2	12	16	3	0	13	35	4	0	0	0	0	0	1	0	0	3	0	0	2	1	5	0	1	2	34	24	0	36	0	8	2	GS|100.0|L37599_S000414713;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Staphylococcaceae,g:Staphylococcus;
+OTU84	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	181	0	0	0	0	GS|98.4|JN674641_S002960635;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Sediminibacterium;
+OTU85	0	0	2	0	0	2	0	0	113	0	0	0	0	0	0	59	0	0	0	1	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	GS|99.2|AM397063_S000728072;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae,g:Wohlfahrtiimonas;
+OTU86	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	162	0	0	0	0	GS|97.2|HQ329187_S002235524;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Flavobacterium;
+OTU87	11	0	0	0	4	0	6	0	10	14	4	0	3	1	0	0	0	0	0	2	6	0	9	8	7	2	4	7	0	5	0	20	2	10	2	GSL|100.0|KF927051_S004082117;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Bradyrhizobiaceae,g:Bradyrhizobium
+OTU88	0	0	0	0	0	0	0	0	1	276	7	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	SS|0.8100|AB032352_S000469294;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae
+OTU89	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	169	0	0	0	0	0	0	0	GS|97.6|AB267476_S000721190;k:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Flavisolibacter;
+OTU9	5	0	136	0	22	0	367	936	21113	98	527	0	7	16	1	1669	167	28	70	249	576	121	121	9551	27413	20	160	5	14	1	0	6	1	13	0	GS|99.2|AY204889_S000417782;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus;
+OTU90	0	4	1	0	0	0	0	9	5	1	44	0	0	16	0	1	0	0	1	2	3	0	0	3	11	0	3	94	28	0	0	0	0	22	1	GS|100.0|AB511277_S001572692;k:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Asaia;
+OTU91	13	0	0	0	5	2	8	0	3	12	7	0	1	0	0	0	2	0	0	4	3	0	4	8	14	0	7	4	4	0	0	16	3	0	5	GS|97.2|AB184266_S000651990;k:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Streptomycetaceae,g:Streptomyces;
+OTU92	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	147	0	0	0	1	0	0	0	GS|100.0|FR749893_S002350756;k:Bacteria,p:Firmicutes,c:Clostridia,o:Clostridiales,f:Clostridiaceae_1,g:Clostridium_sensu_stricto;
+OTU93	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	59	0	0	4	0	0	1	GS|97.2|DQ347958_S000641302;k:Bacteria,p:Cyanobacteria/Chloroplast,c:Chloroplast,f:Chloroplast,g:Streptophyta;
+OTU94	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	133	3	0	1	0	0	0	SS|1.0000|EU718058_S001045706;k:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae
+OTU95	0	0	0	0	133	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	70	0	0	20	0	0	0	SS|0.9500|JQ936674_S003612978;k:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Orbales,f:Orbaceae
+OTU96	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	7	141	0	0	0	0	0	GS|100.0|AF233877_S000389731;k:Bacteria,p:"Proteobacteria",c:Betaproteobacteria,o:Burkholderiales,f:Comamonadaceae,g:Comamonas;
+OTU97	0	1	0	0	0	0	0	1	89	6	20	0	11	26	0	1	0	0	60	0	0	0	1	3	61	0	0	0	7	0	0	0	0	0	0	SS|0.9600|Y11374_S000004837;k:Bacteria,p:Firmicutes,c:Bacilli,o:Lactobacillales,f:Lactobacillaceae,g:Lactobacillus
+OTU98	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	79	18	0	2	0	0	0	GS|100.0|L14326_S000414422;k:Bacteria,p:Firmicutes,c:Bacilli,o:Bacillales,f:Bacillales_Incertae_Sedis_XI,g:Gemella;
+OTU99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	123	0	0	0	0	0	0	0	SS|1.0000|AB072735_S000251887;k:Bacteria
