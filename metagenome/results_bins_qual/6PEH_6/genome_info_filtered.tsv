@@ -1,0 +1,7 @@
+Genome	Completeness	Contamination	Strain heterogeneity	GUNC pass	Genome size (bp)	# ambiguous bases	# scaffolds	# contigs	N50 (scaffolds)	N50 (contigs)	Mean scaffold length (bp)	Mean contig length (bp)	Longest scaffold (bp)	Longest contig (bp)	GC	GC std (scaffolds > 1kbp)	Coding density	# predicted genes	5S rRNA	23S rRNA	16S rRNA	# tRNA	# tRNA types
+6PEH_6_R.bin.10	100.0	0.0	0.0	True	2981190	0	30	30	222439	222439	99373	99373	817400	817400	37.2	1.95	83.63	2713	Yes	No	No	56	21
+6PEH_6_R.bin.13	74.88	1.88	75.0	True	1181312	0	73	73	26657	26657	16182	16182	114664	114664	36.8	1.88	89.77	1152	Yes	No	No	28	14
+6PEH_6_R.bin.14	74.14	6.9	100.0	True	1035174	0	70	70	26016	26016	14788	14788	131271	131271	38.6	2.2	89.86	1056	Yes	No	Yes	32	17
+6PEH_6_R.bin.17	98.39	0.26	0.0	True	1340929	0	40	40	67757	67757	33523	33523	210426	210426	42.8	1.31	88.18	1278	Yes	No	No	44	21
+6PEH_6_R.bin.5	79.32	1.41	33.33	True	830741	0	60	60	18663	18663	13845	13845	53883	53883	28.8	1.81	88.47	839	Yes	No	No	39	19
+6PEH_6_R.bin.6	61.11	3.01	10.0	True	826304	0	143	143	7170	7170	5778	5778	73444	73444	37.2	2.43	88.89	936	No	No	No	24	11

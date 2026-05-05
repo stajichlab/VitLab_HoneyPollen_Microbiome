@@ -1,0 +1,7 @@
+Genome	Completeness	Contamination	Strain heterogeneity	GUNC pass	Genome size (bp)	# ambiguous bases	# scaffolds	# contigs	N50 (scaffolds)	N50 (contigs)	Mean scaffold length (bp)	Mean contig length (bp)	Longest scaffold (bp)	Longest contig (bp)	GC	GC std (scaffolds > 1kbp)	Coding density	# predicted genes	5S rRNA	23S rRNA	16S rRNA	# tRNA	# tRNA types
+5MMH_5_R.bin.10	66.98	3.96	0.0	True	913410	0	56	56	41214	41214	16310	16310	132769	132769	32.3	1.31	86.2	931	Yes	No	No	46	18
+5MMH_5_R.bin.13	60.34	6.9	100.0	True	1966528	0	409	409	5638	5638	4808	4808	21353	21353	58.3	2.12	89.07	2033	No	No	No	42	20
+5MMH_5_R.bin.16	85.07	5.71	94.44	True	1739097	0	284	284	7620	7620	6123	6123	32342	32342	44.6	1.76	85.33	1891	Yes	No	No	38	21
+5MMH_5_R.bin.18	60.34	8.62	0.0	True	629740	0	121	121	5923	5923	5204	5204	21022	21022	38.2	1.32	92.65	685	No	No	No	6	6
+5MMH_5_R.bin.2	58.62	1.72	0.0	True	929560	0	5	5	274035	274035	185912	185912	399953	399953	44.3	0.9	88.74	869	Yes	No	No	12	9
+5MMH_5_R.bin.37	94.1	1.72	25.0	True	1328271	0	84	84	45969	45969	15812	15812	139841	139841	29.2	2.24	86.75	1328	Yes	Yes	Yes	37	19
