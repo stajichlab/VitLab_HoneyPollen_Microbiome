@@ -263,6 +263,15 @@ for (col in c("Country", "host", "material")) {
   }
 }
 
+if (!"description" %in% colnames(meta_sub)) {
+  meta_sub$description <- rownames(meta_sub)
+}
+meta_sub$description <- trimws(as.character(meta_sub$description))
+missing_description <- is.na(meta_sub$description) |
+  meta_sub$description == "" |
+  meta_sub$description == "NA"
+meta_sub$description[missing_description] <- rownames(meta_sub)[missing_description]
+
 ps <- phyloseq(
   otu_table(otu_mat, taxa_are_rows = TRUE),
   tax_table(as.matrix(tax_df)),
@@ -279,6 +288,33 @@ if (!is.null(tree_file) && file.exists(tree_file)) {
 }
 
 message(sprintf("Phyloseq: %d taxa x %d samples", ntaxa(ps), nsamples(ps)))
+
+build_sample_label_map <- function(ps_obj) {
+  sdat <- as.data.frame(sample_data(ps_obj))
+  sample_ids <- rownames(sdat)
+
+  desc <- if ("description" %in% colnames(sdat)) {
+    trimws(as.character(sdat$description))
+  } else {
+    sample_ids
+  }
+  missing_desc <- is.na(desc) | desc == "" | desc == "NA"
+  desc[missing_desc] <- sample_ids[missing_desc]
+
+  species <- if ("host" %in% colnames(sdat)) {
+    trimws(as.character(sdat$host))
+  } else {
+    rep(NA_character_, length(sample_ids))
+  }
+
+  has_species <- !is.na(species) & species != "" & species != "NA" & species != "Unknown"
+  sample_labels <- ifelse(has_species, paste(species, desc, sep = " | "), desc)
+  stats::setNames(sample_labels, sample_ids)
+}
+
+apply_sample_labels <- function(plot_obj, ps_obj) {
+  plot_obj + scale_x_discrete(labels = build_sample_label_map(ps_obj))
+}
 
 # =============================================================================
 # COLOUR / SHAPE PALETTES
@@ -354,6 +390,8 @@ p_depth <- ggplot(depth_df, aes(x = Sample, y = Reads, fill = host)) +
        subtitle = paste0("Red dashed line = rarefaction depth (",
                          format(rarefy_depth, big.mark = ","), ")"),
        x = NULL, y = "Read Count")
+
+p_depth <- apply_sample_labels(p_depth, ps)
 
 save_plot(p_depth,
           file.path(opt$outdir, paste0(opt$type, "_sample_depth")),
@@ -513,7 +551,7 @@ plot_taxa_bar <- function(ps_obj, rank, top_n = 15, marker_type = "16S") {
     special
   )
 
-  ggplot(agg_df, aes(x = Sample, y = Abundance, fill = TaxLabel)) +
+  p <- ggplot(agg_df, aes(x = Sample, y = Abundance, fill = TaxLabel)) +
     geom_bar(stat = "identity", width = 0.85) +
     scale_fill_manual(values = tax_pal, name = rank) +
     scale_y_continuous(labels = percent_format(), expand = c(0, 0)) +
@@ -528,6 +566,8 @@ plot_taxa_bar <- function(ps_obj, rank, top_n = 15, marker_type = "16S") {
     ) +
     labs(title = paste(marker_type, rank, "Composition"),
          x = NULL, y = "Relative Abundance")
+
+  apply_sample_labels(p, ps_obj)
 }
 
 for (rank in c("Phylum", "Class", "Order", "Family", "Genus")) {
@@ -567,6 +607,8 @@ if (HAS_MICROSHADE) {
         strip.background = element_rect(fill = "grey88")
       ) +
       labs(title = paste(opt$type, "Phylum > Genus Composition (microshade)"))
+
+    p_ms <- apply_sample_labels(p_ms, ps_rel)
 
     save_plot(p_ms,
               file.path(opt$outdir, paste0(opt$type, "_microshade_phylum_genus")),
@@ -639,6 +681,8 @@ if (HAS_MICROSHADE) {
       ) +
       labs(title = paste(opt$type, "Phylum > Genus (shaded palette)"),
            x = NULL, y = "Relative Abundance")
+
+    p_ms_fallback <- apply_sample_labels(p_ms_fallback, ps_rel)
 
     save_plot(p_ms_fallback,
               file.path(opt$outdir, paste0(opt$type, "_shaded_phylum_genus")),
@@ -809,6 +853,8 @@ tryCatch({
           panel.spacing    = unit(0.1, "lines")) +
     labs(title = paste(opt$type, "Top", n_heat, "Genus Abundance Heatmap"),
          x = NULL, y = NULL)
+
+  p_heat <- apply_sample_labels(p_heat, ps_top)
 
   save_plot(p_heat,
             file.path(opt$outdir, paste0(opt$type, "_heatmap_genus")),
